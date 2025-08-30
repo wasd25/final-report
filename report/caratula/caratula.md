@@ -7,7 +7,7 @@
 ## PROFESOR: Rafael Castro
 ## NRC: 7470
 ## INFORME TB1
-## START UP: wasd
+## START UP: WASD
 ## PRODUCTO: Qlic
 
 ### INTEGRANTES:
