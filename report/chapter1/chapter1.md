@@ -8,9 +8,9 @@ A continuación, se brindará información sobre a qué se dedica nuestra empres
 
 WASD es una startup enfocada en la gestión inteligente del agua. Utilizamos tecnología IoT para optimizar el uso del recurso en hogares e instituciones. La compañía combina sensores, analítica de datos y una plataforma digital para transformar la manera en que las personas administran su agua.
 
-- **Misión:** 
-- **Visión:** 
-- **Producto:** 
+- **Misión:** Ayudar a hogares e instituciones a optimizar el uso de líquidos, reducir desperdicios, disminuir costos y garantizar el reabastecimiento oportuno.
+- **Visión:** Ser la empresa más importante en Perú, en el ámbito de gestión y optimización de agua con el uso de soluciones tecnológicas.
+- **Producto:** "Qlic"  es un servicio el cual permite el monitoreo de puntos críticos del agua en un hogar o institución, optimizando el uso de líquidos, reduciendo desperdicios y disminuyendo costos además de garantizar el reabastecimiento oportuno.
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
