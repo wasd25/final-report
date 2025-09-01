@@ -6,6 +6,8 @@ A continuación, se brindará información sobre a qué se dedica nuestra empres
 
 ### 1.1.1. Descripción de la Startup
 
+WASD es una startup enfocada en la gestión inteligente del agua. Utilizamos tecnología IoT para optimizar el uso del recurso en hogares e instituciones. La compañía combina sensores, analítica de datos y una plataforma digital para transformar la manera en que las personas administran su agua.
+
 - **Misión:** 
 - **Visión:** 
 - **Producto:** 
