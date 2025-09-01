@@ -8,7 +8,7 @@ A continuación, se brindará información sobre a qué se dedica nuestra empres
 
 WASD es una startup enfocada en la gestión inteligente del agua. Utilizamos tecnología IoT para optimizar el uso del recurso en hogares e instituciones. La compañía combina sensores, analítica de datos y una plataforma digital para transformar la manera en que las personas administran su agua.
 
-- **Misión:** Ayudar a hogares e instituciones a optimizar el uso de líquidos, reducir desperdicios, disminuir costos y garantizar el reabastecimiento oportuno.
+- **Misión:** Ayudar a hogares e instituciones a optimizar el uso de agua, reducir desperdicios, disminuir costos y garantizar el reabastecimiento oportuno.
 - **Visión:** Ser la empresa más importante en Perú, en el ámbito de gestión y optimización de agua con el uso de soluciones tecnológicas.
 - **Producto:** "Qlic"  es un servicio el cual permite el monitoreo de puntos críticos del agua en un hogar o institución, optimizando el uso de líquidos, reduciendo desperdicios y disminuyendo costos además de garantizar el reabastecimiento oportuno.
 
@@ -25,25 +25,29 @@ WASD es una startup enfocada en la gestión inteligente del agua. Utilizamos tec
 
 ## 1.2. Solution Profile
 
-**Product Name:** Qlic <br>
-**Product Description:**
+**Product Name:** Qlic <br> 
+**Product Description:** Qlic, es una Web App que tiene como objetivo optimizar la gestión del agua. Para ello, este permite al usuario monitorear los IoT que este tiene, mostrando información útil, ayudando a optimizar el uso de agua, reducir desperdicios, disminuir costos y garantizar el reabastecimiento oportuno. Qlic puede usarse en hogares e instituciones con el fin de optimizar varios procesos.
 **Monetización:** Qlic funciona mediante un modelo de suscripción mensual o anual, en el cual se alquila el servicio de la aplicación y los diferentes dispositivos IoT.
 
 **Plan Básico:**
 
-breve descripcion
+Ideal para hogares que desean iniciar en la digitalización operativa con funciones esenciales.
 
--
--
--
+- Dispositivos IoT para cada grifo de la casa.
+- Reportes semanales del estado de los dispositivos IoT.
+- Recomendaciones de cómo minimizar gastos.
+- Cálculo del agua consumida mensualmente y especificaciones clave para conocer qué es lo que consume la mayor cantidad de agua.
+- Instalación gratuita.
+- Soporte técnico en horario laboral
+- Monitoreo en tiempo real de temperatura y humedad en cámaras y vitrinas.
 
 **Plan Gestión Pro:**
 
-breve descripcion
+Pensado para instituciones que requieren mayor control, eficiencia operativa y soporte avanzado. Incluye todo lo del Plan Básico, más:
 
--
--
--
+- Alertas inteligentes sobre fugas, exceso de consumo o fallas en los dispositivos.
+- Reportes personalizados de consumo y comparativas por área o unidad.
+- Monitoreo de inventario de agua en tanques con predicciones de reabastecimiento.
 
 ### 1.2.1 Antecedentes y problemática
 
