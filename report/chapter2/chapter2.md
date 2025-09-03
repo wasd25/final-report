@@ -18,6 +18,16 @@
 
 #### 2.3.1. User Personas
 
+En esta sección, se incluyen las fichas de User Personas que representan arquetipos detallados de los segmentos objetivo definidos para nuestro sitio web. Estos arquetipos se han creado a partir de un análisis de las entrevistas que hemos realizado con usuarios reales y un estudio comparativo de la competencia, con el objetivo de capturar las caracterí­sticas, necesidades, y comportamientos de nuestros usuarios.
+
+- Usuario Residencial
+
+![Maria Fernanda Rojas.png](../../assests/chapter-2/Maria%20Fernanda%20Rojas.png)
+
+- Pequeñas y medianas empresas (PYMES)
+
+
+
 ## 2.3.2. User Task Matrix
 
 ## 2.3.3. User Journey Mapping
