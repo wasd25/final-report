@@ -110,10 +110,10 @@ Frente a esta problemática, planteamos la siguiente pregunta:
 ### Segmento objetivo #1: 
 
 **Descripción:**  
-Este segmento está compuesto por propietarios de locales de tamaño pequeño y mediano que buscan optimizar la gestión operativa del agua que usan.
+Este segmento está compuesto por propietarios de locales de tamaño pequeño y mediano (PYMES) que buscan optimizar la gestión operativa del agua que usan.
 
 **Aspectos demográficos:**  
-Este grupo está compuesto mayoritariamente por hombres y mujeres de entre 30 y 55 años, con un nivel socioeconómico medio-alto (B) y medio (C). En su mayoría, cuentan con educación técnica o universitaria, especialmente en áreas de administración, negocios o gastronomía.
+Propietarios, administradores y responsables de la gestión operativa, negocios o servicios.
 
 **Aspectos geográficos:**  
 Son peruanos que operan principalmente en zonas urbanas, con un enfoque particular en Lima.
@@ -135,3 +135,26 @@ A nivel mundial, entre el 25 % y el 30 % del suministro total de agua se desperd
 
 ### Segmento objetivo #2: 
 
+**Descripción:**  
+Hogares y familias que buscan gestionar de manera más eficiente el consumo de agua en sus actividades diarias, reduciendo gastos y contribuyendo a la sostenibilidad.
+
+**Aspectos demográficos:**  
+Personas adultas responsables de la administración del hogar, con distintos niveles de formación y ocupación, interesadas en mejorar la eficiencia en el uso de los recursos domésticos.
+
+**Aspectos geográficos:**  
+Principalmente en zonas urbanas y periurbanas del Perú, con acceso a servicios básicos de agua y conexión a internet.
+
+**Aspectos psicográficos:**  
+Valoran la practicidad, el ahorro en el pago de servicios y la adopción de tecnologías que les faciliten la vida cotidiana. También muestran interés por el cuidado del medio ambiente.
+
+**Necesidades:**  
+Desean monitorear el consumo de agua de manera sencilla , identificar fugas o consumos inusuales , ya que los medidores de las empresas que brinda este servicio tienden a fallar , y contar con recomendaciones para reducir los gastos.
+
+**Requisitos:**  
+Una aplicacion fácil de usar, con alertas personalizadas y reportes claros. Además, buscan soporte técnico accesible y confiable.Al igual que una instalacion veloz.
+
+**Objetivo:**  
+Buscan una plataforma intuitiva, confiable y adaptable al flujo de trabajo de su local. Requieren acceso desde dispositivos móviles y soporte técnico constante.
+
+**Sustento estadístico:**  
+Según la EPA (2024), alrededor del 12 % del uso promedio de agua en los hogares corresponde a fugas internas. En el caso del Perú, se estima que hasta el 45 % del agua producida se pierde en las redes de distribución antes de llegar al usuario final (SUNASS, 2023).
