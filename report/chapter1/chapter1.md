@@ -68,9 +68,40 @@ Pensado para instituciones que requieren mayor control, eficiencia operativa y s
 
 #### 1.2.2.1. Lean UX Problem Statements.
 
+Actualmente, negocios e instituciones enfrentan dificultades para gestionar eficientemente el uso del agua, lo que provoca desperdicios, costos elevados y desabastecimientos inesperados.
+Los métodos tradicionales de control son manuales y poco precisos, dificultando la toma de decisiones rápidas para optimizar recursos.
+
+QLic busca resolver este problema mediante una plataforma digital conectada a dispositivos IoT, que permita monitorear en tiempo real, detectar fugas, prevenir desperdicios y garantizar un suministro constante y eficiente.
+
+Frente a esta problemática, planteamos la siguiente pregunta:
+
+¿Cómo podríamos ayudar a negocios e instituciones a optimizar el uso de agua, reduciendo desperdicios y costos, mientras aseguramos un reabastecimiento oportuno mediante tecnología IoT?
 #### 1.2.2.2. Lean UX Assumptions.
 
+| Business Assumptions    | User Assumptions        |
+|-------------------------|-------------------------|
+|Creemos que los negocios e instituciones están dispuestos a pagar una suscripción mensual o anual por una solución que les ayude a reducir costos operativos relacionados con el uso de agua.|Creemos que los usuarios necesitan monitorear en tiempo real el estado de su consumo de agua.|
+|Creemos que el uso de IoT combinado con analítica de datos generará un valor diferencial, posicionando a QLic como líder en el mercado.|Creemos que los usuarios valorarán recibir alertas inteligentes sobre fugas y exceso de consumo.|
+|Creemos que la instalación gratuita y el soporte técnico facilitarán la adopción inicial del servicio.|Creemos que los usuarios se sentirán más satisfechos si cuentan con reportes claros y personalizados para mejorar la toma de decisiones.|
+|Creemos que la escalabilidad del modelo permitirá expandirnos a otros sectores y regiones de Perú en el futuro.|Creemos que los usuarios preferirán una interfaz sencilla e intuitiva, que no requiera conocimientos técnicos avanzados.|
+|Creemos que las instituciones con políticas de sostenibilidad estarán más motivadas a implementar QLic para cumplir con sus objetivos de responsabilidad social y medioambiental.||
+|Creemos que el ahorro de agua y costos que genera QLic puede convertirse en un argumento clave de venta, aumentando la retención de clientes a largo plazo.||
+|Creemos que ofrecer planes diferenciados (Básico y Pro) permitirá captar tanto pequeños negocios como grandes instituciones.||
+|Creemos que alianzas estratégicas con proveedores de agua o empresas de servicios públicos acelerarán la adopción y confianza en la plataforma.||
+|Creemos que la experiencia del cliente será un factor decisivo, por lo que un diseño de interfaz intuitivo y soporte oportuno generarán mayor satisfacción y lealtad.||
+
 #### 1.2.2.3. Lean UX Hypothesis Statements.
+
+- Creemos que al ofrecer una plataforma conectada a dispositivos IoT que permita el monitoreo en tiempo real del consumo de agua, ayudaremos a negocios e instituciones a optimizar sus recursos, reducir desperdicios y evitar desabastecimientos inesperados.
+  Sabremos que esta hipótesis es cierta si vemos una reducción en el consumo de agua y una disminución de reportes de incidentes relacionados con fugas o falta de abastecimiento durante los primeros tres meses de uso.
+- Creemos que al integrar alertas inteligentes sobre fugas, exceso de consumo y fallas en los dispositivos, mejoraremos la capacidad de respuesta de los usuarios, evitando pérdidas y costos innecesarios.
+  Sabremos que esta hipótesis es cierta si observamos que la mayoría de los usuarios resuelve los incidentes detectados en menos de 24 horas desde la notificación.
+- Creemos que al ofrecer reportes personalizados y comparativos sobre el consumo de agua, los usuarios podrán tomar mejores decisiones para optimizar sus procesos y reducir costos operativos.
+  Sabremos que esta hipótesis es cierta si la mayoría de los usuarios consulta y utiliza los reportes de manera frecuente y reporta una disminución en su consumo de agua.
+- Creemos que una interfaz sencilla e intuitiva permitirá que los usuarios puedan monitorear y gestionar sus dispositivos sin necesidad de conocimientos técnicos avanzados.
+  Sabremos que esta hipótesis es cierta si recibimos retroalimentación positiva sobre la facilidad de uso y un alto nivel de satisfacción de los clientes en las primeras semanas de implementación.
+- Creemos que al ofrecer un modelo de suscripción con planes diferenciados, podremos atender las necesidades tanto de pequeños negocios como de grandes instituciones, incentivando la adopción del servicio.
+  Sabremos que esta hipótesis es cierta si observamos una tasa creciente de suscripciones activas en ambos planes y un bajo índice de cancelaciones.
 
 #### 1.2.2.4. Lean UX Canvas.
 
