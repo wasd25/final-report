@@ -20,10 +20,10 @@ En esta sección, se presenta un análisis de los competidores de Qlic y sus res
   </tr>
   <tr>
     <td colspan="2"></td>
-    <td><br></td>
-    <td><br></td>
-    <td><br></td>
-    <td><br></td>
+    <td><img src="/assests/chapter-2/badger-meter.jpg" alt="badger-meter"><br></td>
+    <td><img src="/assests/chapter-2/itron.jpg" alt="itron"><br></td>
+    <td><img src="/assests/chapter-2/optirtc.jpg" alt="optirtc"><br></td>
+    <td></td>
 </tr>
   <tr>
     <td rowspan="2">Perfil</td>
