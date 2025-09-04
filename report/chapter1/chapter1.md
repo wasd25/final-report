@@ -51,6 +51,21 @@ Pensado para instituciones que requieren mayor control, eficiencia operativa y s
 
 **Antecedentes:**
 
+En el contexto actual de creciente preocupación por la sostenibilidad y el acceso equitativo a servicios básicos, el manejo eficiente del agua potable se ha convertido en un desafío global y local. En el Perú, esta situación es particularmente crítica: según la **Superintendencia Nacional de Servicios de Saneamiento (SUNASS)**, cerca del **40% del agua potable** producida a nivel nacional se pierde por fugas, conexiones clandestinas y deficiencias en la gestión comercial. Esta cifra refleja una ineficiencia estructural que impacta tanto en la sostenibilidad del recurso como en la economía de las empresas prestadoras de servicios (EPS).
+
+De acuerdo con el **Ministerio de Vivienda, Construcción y Saneamiento (MVCS)**, más de **500 mil peruanos** accederán a servicios de agua potable y saneamiento gracias a obras concluidas hacia el 2025, lo que evidencia que aún existe una importante brecha de cobertura, especialmente en zonas periurbanas y rurales. Sin embargo, la expansión de la infraestructura no siempre viene acompañada de sistemas inteligentes de monitoreo y gestión del consumo, lo que limita la eficiencia en el uso del recurso.
+
+En el ámbito internacional, el **Banco Interamericano de Desarrollo (BID)** señala que en América Latina las pérdidas de agua (*agua no facturada*) alcanzan en promedio el **40%**, representando no solo un problema ambiental, sino también financiero para los operadores de agua potable y para las comunidades que enfrentan racionamientos.
+
+En este escenario, surge la necesidad de **soluciones tecnológicas accesibles** que permitan a las empresas prestadoras, técnicos especializados y comunidades gestionar de forma más eficiente el recurso hídrico, optimizando su uso y reduciendo pérdidas.
+
+
+
+
+
+
+
+
 **Problemáticas:**
 
 **Técnica de The 5 'W's y 2 'H's**
