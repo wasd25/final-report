@@ -20,9 +20,7 @@ WASD es una startup enfocada en la gestión inteligente del agua. Utilizamos tec
 | ![foto4.jpg](../../assets/chapter1/foto4.jpg) | Guia Carrasco, Pedro Andre              | Ingenieria de Software | Soy Pedro Guia, estudiante de la UPC. Estoy llevando mi cuarto año en la universidad y sigo firme a mis logros a futuro.   | Java, Python, HTML, CSS, JavaScript, Angular, MySQL                      |
 | ![mateo.jpg](../../assets/chapter1/mateo.jpg) | Loechle Arias, Mateo Italo              | Ingenieria de Software | Me interesa mucho el mundo de el desarrollo de software , y mejorar mis habilidades blandas con respecto a mi carrera.     | Java, Python , SQL , MongoDB, Sprinboot , Angular , Vue , Firebase, etc. |
 | ![Jafeth.jpg](../../assets/chapter1/Jafeth.jpg) | Ynga Amado, Jafeth Worren | Ingenieria de Software | Soy Jafeth, estudiante de 6to ciclo de ing. de software en la UPC y quiero poder crear soluciones eficientes que tengan un impacto en la sociedad. | C++, HTML, CSS, Python, MySQL, MongoDB |
-|                                               |                                         |                        |                                                                                                                            |                                                                          |
-|                                               |                                         |                        |                                                                                                                            |                                                                          |
-
+| ![Anyelo.jpg](../../assets/chapter1/Anyelo.jpg) | Alejos Jesus, Anyelo Bill | Ingenieria de Software | Me considero una persona responsable y proactiva para dar lo mejor de mi en el proyecto que se realizará. | C++, HTML, CSS, Python |
 ## 1.2. Solution Profile
 
 **Product Name:** Qlic <br> 
