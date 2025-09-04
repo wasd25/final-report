@@ -60,22 +60,17 @@ En el ámbito internacional, el **Banco Interamericano de Desarrollo (BID)** se�
 En este escenario, surge la necesidad de **soluciones tecnológicas accesibles** que permitan a las empresas prestadoras, técnicos especializados y comunidades gestionar de forma más eficiente el recurso hídrico, optimizando su uso y reduciendo pérdidas.
 
 
-
-
-
-
-
-
 **Problemáticas:**
 
-**Técnica de The 5 'W's y 2 'H's**
-**What?** <br>
-**When?** <br>
-**Where?** <br>
-**Who?** <br>
-**Why?** <br>
-**How?** <br>
-**How much?** <br>
+| **What (Qué): ¿Cuál es el problema?** | Las EPS en el Perú presentan altos niveles de pérdidas de agua (físicas y comerciales), lo que genera costos innecesarios, ineficiencia en la distribución y dificultades para garantizar la sostenibilidad del servicio. |
+|---------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **When (Cuándo): ¿Cuándo sucede el problema?** | Este problema es persistente y se ha intensificado en los últimos años debido al crecimiento poblacional, el cambio climático y la mayor demanda de agua en entornos urbanos. |
+| **Where (Dónde): ¿Dónde se presenta el problema del negocio?** | A nivel nacional, afecta tanto a ciudades con redes envejecidas como a comunidades periurbanas y rurales con limitada infraestructura técnica. |
+| **Who (Quiénes): ¿Quiénes están involucrados?** | Están involucradas las EPS, los usuarios domésticos e industriales, técnicos en saneamiento, así como instituciones reguladoras como **SUNASS** y el **MVCS**. |
+| **Why (Por qué): ¿Por qué se origina el problema?** | Por la ausencia de herramientas tecnológicas que integren monitoreo en tiempo real, detección de fugas y gestión inteligente del consumo, adaptadas al contexto local. |
+| **How (Cómo): ¿Cómo afecta este problema a las organizaciones y la sociedad?** | Se refleja en altos índices de agua no facturada, costos operativos elevados para las EPS, interrupciones del servicio y menor confianza de los usuarios. |
+| **How much (Cuánto): ¿Cuánto impacto genera el problema?** | Según el **BID**, una reducción de solo 10 puntos porcentuales en el agua no facturada podría traducirse en ahorros millonarios y mejoras en cobertura para millones de personas en América Latina. |
+
 
 ### 1.2.2 Lean UX Process.
 
