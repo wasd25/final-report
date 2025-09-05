@@ -117,6 +117,30 @@ Desarrollar estrategias y tácticas efectivas para enfrentar a nuestros competid
 
 #### 2.2.1. Diseño de entrevistas
 
+### Segmento 1: PYMES (negocios pequeños y medianos)
+
+Preguntas:
+- ¿Cómo controlan actualmente el consumo de agua en su negocio?  
+- ¿Qué problemas han tenido relacionados al desperdicio o fugas de agua?  
+- ¿Con qué frecuencia revisan los medidores o registros de consumo?  
+- ¿Consideran que el consumo de agua afecta de forma importante sus costos operativos?  
+- ¿Qué tan útil sería contar con reportes semanales o mensuales del consumo?  
+- ¿Qué opinan de recibir alertas en tiempo real sobre fugas o consumos inusuales?  
+- ¿Qué características esperan en una aplicación que les ayude a optimizar el uso de agua?  
+- ¿Estarían dispuestos a pagar una suscripción mensual/anual si con ello reducen costos y mejoran la gestión del agua?
+
+### Segmento 2: Hogares y familias
+
+Preguntas:
+- ¿Cómo controlan el consumo de agua en su hogar actualmente?  
+- ¿Han tenido problemas con medidores defectuosos o cobros inesperados en sus recibos de agua?  
+- ¿Cómo suelen identificar fugas en casa?  
+- ¿Qué medidas aplican en el día a día para ahorrar agua?  
+- ¿Qué tan útil sería para ustedes recibir alertas en el celular sobre consumos excesivos o fugas?  
+- ¿Preferirían un plan básico con funciones esenciales o uno más avanzado con reportes detallados?  
+- ¿Qué tan importante consideran que es el ahorro de agua en la economía familiar?  
+- ¿Qué esperan de una aplicación que ayude a gestionar el consumo de agua en el hogar?
+
 #### 2.2.2. Registro de entrevistas
 
 #### 2.2.3. Análisis de entrevistas
