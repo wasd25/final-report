@@ -52,16 +52,26 @@ Pensado para instituciones que requieren mayor control, eficiencia operativa y s
 
 **Antecedentes:**
 
+En el contexto actual de creciente preocupación por la sostenibilidad y el acceso equitativo a servicios básicos, el manejo eficiente del agua potable se ha convertido en un desafío global y local. En el Perú, esta situación es particularmente crítica: según la **Superintendencia Nacional de Servicios de Saneamiento (SUNASS)**, cerca del **40% del agua potable** producida a nivel nacional se pierde por fugas, conexiones clandestinas y deficiencias en la gestión comercial. Esta cifra refleja una ineficiencia estructural que impacta tanto en la sostenibilidad del recurso como en la economía de las empresas prestadoras de servicios (EPS).
+
+De acuerdo con el **Ministerio de Vivienda, Construcción y Saneamiento (MVCS)**, más de **500 mil peruanos** accederán a servicios de agua potable y saneamiento gracias a obras concluidas hacia el 2025, lo que evidencia que aún existe una importante brecha de cobertura, especialmente en zonas periurbanas y rurales. Sin embargo, la expansión de la infraestructura no siempre viene acompañada de sistemas inteligentes de monitoreo y gestión del consumo, lo que limita la eficiencia en el uso del recurso.
+
+En el ámbito internacional, el **Banco Interamericano de Desarrollo (BID)** señala que en América Latina las pérdidas de agua (*agua no facturada*) alcanzan en promedio el **40%**, representando no solo un problema ambiental, sino también financiero para los operadores de agua potable y para las comunidades que enfrentan racionamientos.
+
+En este escenario, surge la necesidad de **soluciones tecnológicas accesibles** que permitan a las empresas prestadoras, técnicos especializados y comunidades gestionar de forma más eficiente el recurso hídrico, optimizando su uso y reduciendo pérdidas.
+
+
 **Problemáticas:**
 
-**Técnica de The 5 'W's y 2 'H's**
-**What?** <br>
-**When?** <br>
-**Where?** <br>
-**Who?** <br>
-**Why?** <br>
-**How?** <br>
-**How much?** <br>
+| **What (Qué): ¿Cuál es el problema?** | Las EPS en el Perú presentan altos niveles de pérdidas de agua (físicas y comerciales), lo que genera costos innecesarios, ineficiencia en la distribución y dificultades para garantizar la sostenibilidad del servicio. |
+|---------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **When (Cuándo): ¿Cuándo sucede el problema?** | Este problema es persistente y se ha intensificado en los últimos años debido al crecimiento poblacional, el cambio climático y la mayor demanda de agua en entornos urbanos. |
+| **Where (Dónde): ¿Dónde se presenta el problema del negocio?** | A nivel nacional, afecta tanto a ciudades con redes envejecidas como a comunidades periurbanas y rurales con limitada infraestructura técnica. |
+| **Who (Quiénes): ¿Quiénes están involucrados?** | Están involucradas las EPS, los usuarios domésticos e industriales, técnicos en saneamiento, así como instituciones reguladoras como **SUNASS** y el **MVCS**. |
+| **Why (Por qué): ¿Por qué se origina el problema?** | Por la ausencia de herramientas tecnológicas que integren monitoreo en tiempo real, detección de fugas y gestión inteligente del consumo, adaptadas al contexto local. |
+| **How (Cómo): ¿Cómo afecta este problema a las organizaciones y la sociedad?** | Se refleja en altos índices de agua no facturada, costos operativos elevados para las EPS, interrupciones del servicio y menor confianza de los usuarios. |
+| **How much (Cuánto): ¿Cuánto impacto genera el problema?** | Según el **BID**, una reducción de solo 10 puntos porcentuales en el agua no facturada podría traducirse en ahorros millonarios y mejoras en cobertura para millones de personas en América Latina. |
+
 
 ### 1.2.2 Lean UX Process.
 
