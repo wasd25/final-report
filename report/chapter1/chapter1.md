@@ -10,17 +10,17 @@ WASD es una startup enfocada en la gestión inteligente del agua. Utilizamos tec
 
 - **Misión:** Ayudar a negocios e instituciones a optimizar el uso de agua, reducir desperdicios, disminuir costos y garantizar el reabastecimiento oportuno.
 - **Visión:** Ser la empresa más importante en Perú, en el ámbito de gestión y optimización de agua con el uso de soluciones tecnológicas.
-- **Producto:** "Qlic"  es un servicio el cual permite el monitoreo de puntos críticos del agua en un negocio o institución, optimizando el uso de líquidos, reduciendo desperdicios y disminuyendo costos además de garantizar el reabastecimiento oportuno.
+- **Producto:** "Qlic" es un servicio el cual permite el monitoreo de puntos críticos del agua en un negocio o institución, optimizando el uso de líquidos, reduciendo desperdicios y disminuyendo costos además de garantizar el reabastecimiento oportuno.
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-| Foto de perfil                                | Apellido y Nombre                       | Carrera                | Acerca de                                                                                                                  | Habilidades                                                              |
-|-----------------------------------------------|-----------------------------------------|------------------------|----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
-| ![foto.png](../../assets/chapter1/foto.png)   | Briceño Llanos, Ayrton Omar(u202311077) | Ingeniería de Software | Me apasiona el desarrollo de Software y la creación de soluciones tecnológicas que impacten positivamente en las personas. | Comunicación efectiva, trabajo en equipo, empatía, pensamiento crítico.  |
-| ![foto4.jpg](../../assets/chapter1/foto4.jpg) | Guia Carrasco, Pedro Andre              | Ingenieria de Software | Soy Pedro Guia, estudiante de la UPC. Estoy llevando mi cuarto año en la universidad y sigo firme a mis logros a futuro.   | Java, Python, HTML, CSS, JavaScript, Angular, MySQL                      |
+| Foto de perfil                                | Apellido y Nombre                       | Carrera                | Acerca de                                                                                                                  | Habilidades                                                             |
+|-----------------------------------------------|-----------------------------------------|------------------------|----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| ![foto.png](../../assets/chapter1/foto.png)   | Briceño Llanos, Ayrton Omar(u202311077) | Ingeniería de Software | Me apasiona el desarrollo de Software y la creación de soluciones tecnológicas que impacten positivamente en las personas. | Comunicación efectiva, trabajo en equipo, empatía, pensamiento crítico. |
+| ![foto4.jpg](../../assets/chapter1/foto4.jpg) | Guia Carrasco, Pedro Andre              | Ingenieria de Software | Soy Pedro Guia, estudiante de la UPC. Estoy llevando mi cuarto año en la universidad y sigo firme a mis logros a futuro.   | Java, Python, HTML, CSS, JavaScript, Angular, MySQL                     |
 | ![mateo.jpg](../../assets/chapter1/mateo.jpg) | Loechle Arias, Mateo Italo              | Ingenieria de Software | Me interesa mucho el mundo de el desarrollo de software , y mejorar mis habilidades blandas con respecto a mi carrera.     | Java, Python , SQL , MongoDB, Sprinboot , Angular , Vue , Firebase, etc. |
 | ![Jafeth.jpg](../../assets/chapter1/Jafeth.jpg) | Ynga Amado, Jafeth Worren | Ingenieria de Software | Soy Jafeth, estudiante de 6to ciclo de ing. de software en la UPC y quiero poder crear soluciones eficientes que tengan un impacto en la sociedad. | C++, HTML, CSS, Python, MySQL, MongoDB |
-| ![Anyelo.png](../../assets/chapter1/Anyelo.png) | Alejos Jesus, Anyelo Bill | Ingenieria de Software | Me considero una persona responsable y proactiva para dar lo mejor de mi en el proyecto que se realizará. | C++, HTML, CSS, Python |                               |                                                                          |
+| ![Anyelo.png](../../assets/chapter1/Anyelo.png) | Alejos Jesus, Anyelo Bill | Ingenieria de Software | Me considero una persona responsable y proactiva para dar lo mejor de mi en el proyecto que se realizará. | C++, HTML, CSS, Python                                |
 
 ## 1.2. Solution Profile
 
