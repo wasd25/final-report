@@ -103,6 +103,7 @@ Frente a esta problemática, planteamos la siguiente pregunta:
   Sabremos que esta hipótesis es cierta si observamos una tasa creciente de suscripciones activas en ambos planes y un bajo índice de cancelaciones.
 
 #### 1.2.2.4. Lean UX Canvas.
+![Lean UX Canvas.png](../../assets/chapter1/Lean%20UX%20Canvas.png)
 
 ## 1.3. Segmentos objetivos.
 
