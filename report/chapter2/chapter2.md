@@ -195,5 +195,18 @@ Para los Empathy Mapping, utilizaremos a las User Personas María Fernanda Rojas
 (empathy mappings listo, solo se cambiara la informacion por la entrevista)
 
 #### 2.3.5. As-is Scenario Mapping
+# As-Is Scenario Mapping
+
+| Paso / Evento Clave                       | Actor Principal         | Actividades (Doing)                                                                 | Pensamientos (Thinking)                                         | Sentimientos (Feeling)                          | Sistemas Externos / Interacciones |
+|-------------------------------------------|-------------------------|--------------------------------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------|----------------------------------|
+| Preparación y promoción del servicio      | Propietario / Empresa   | Limpieza, organización, planificación de promoción                                    | ¿Cómo hago que se vea atractivo?                                | Emoción y preocupación por la recepción         | Herramientas de marketing digital |
+| Publicación de información                | Propietario / Empresa   | Creación de anuncios, carga de fotos, precios                                         | ¿Cómo destaco frente a la competencia?                          | Nerviosismo y esperanza por interés generado    | Plataformas en línea              |
+| Interacción con clientes potenciales      | Cliente / PYMES         | Envío de consultas, solicitud de información                                          | ¿Será confiable? ¿Se ajusta a mis necesidades?                  | Ansiedad y optimismo por una buena respuesta    | Sitio web / Chat / Email          |
+| Evaluación de idoneidad                   | Cliente / PYMES         | Comparación de opciones, revisión de condiciones                                      | ¿Este servicio resuelve mi problema mejor que otros?             | Preocupación por equivocarse                    | Competencia / Benchmarking        |
+| Confirmación de reservas / suscripción    | Ambos                   | Coordinación de horarios, pagos, confirmación                                         | Que no haya errores en el proceso                               | Alivio por confirmar, pero ansiedad por detalles | Pasarelas de pago, correo         |
+| Uso del servicio / experiencia en evento  | Cliente / PYMES         | Uso de plataforma, recepción de alertas, seguimiento                                  | ¿Está funcionando como esperaba?                                | Ansiedad por resultados, satisfacción parcial   | Plataforma IoT / App              |
+| Soporte y seguimiento                     | Propietario / Empresa   | Respuesta a incidencias, soporte en tiempo real                                       | ¿Cómo mantengo satisfecho al cliente?                           | Preocupación por fallos                          | Sistema de soporte / helpdesk     |
+| Post-evento / retroalimentación           | Ambos                   | Encuestas, recolección de feedback, mantenimiento                                     | ¿Qué mejoras implementar?                                       | Gratitud si es positivo, frustración si negativo | Encuestas online / CRM            |
+
 
 ### 2.4. Ubiquitous Language
