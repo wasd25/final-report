@@ -59,6 +59,23 @@ Etiquetas utilizadas en el sitio:
 - “Empieza ahora” (CTA final)
 
 ### 4.2.3. SEO Tags and Meta Tags
+
+**Title:** Qlic – Optimización de la gestión del agua.
+
+**Description:** Qlic es una aplicación que tiene como objetivo optimizar la gestión del agua. Para ello,
+este permite al usuario monitorear los IoT que este tiene, mostrando información útil, ayudando a optimizar el uso de agua,
+reducir desperdicios, disminuir costos y garantizar el reabastecimiento oportuno
+
+**Keywords**: Optimización de agua, gestión, control, manejo, Qlic, reducción de gastos.
+
+**Meta Tags**:
+
+**Viewport:** width=device-width, initial-scale=1.0
+
+**Charset**: UTF-8
+
+**Author**: WASD
+
 ### 4.2.4. Searching Systems
 ### 4.2.5. Navigation Systems
 
