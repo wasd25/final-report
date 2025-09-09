@@ -218,29 +218,34 @@ Para los Empathy Mapping, utilizaremos a las User Personas María Fernanda Rojas
 
 
 ### 2.4. Ubiquitous Language
+A continuación, se presenta un glosario de términos clave del dominio que serán utilizados en el desarrollo de la plataforma Qlic, 
+orientada a la gestión inteligente del agua en hogares y negocios. Los términos están en inglés, con su equivalente en español entre paréntesis,
+acompañados de una definición clara en español.
 
-1. User Profile (Perfil de Usuario): Datos básicos y preferencias de cada cliente (residencial, comercial o industrial) que permiten personalizar la experiencia de monitoreo.
 
-2. Liquid Tank (Tanque de Líquido): Contenedor físico de agua, cerveza, gasolina u otro fluido que se supervisa mediante la aplicación.
+- Water Consumption (Consumo de agua):
+Cantidad total de agua utilizada en un hogar o negocio en un periodo determinado.
 
-3. Sensor Module (Módulo de Sensores): Dispositivo integrado que mide parámetros como volumen, temperatura, densidad y presión.
+- Water Waste (Desperdicio de agua):
+Agua utilizada de manera ineficiente o perdida por fugas, goteos o malos hábitos de uso.
 
-4. Smart Dashboard (Panel Inteligente): Interfaz central donde los usuarios visualizan en tiempo real el estado de sus líquidos y reciben notificaciones.
+- Critical Point (Punto crítico):
+Zona, dispositivo o instalación donde es necesario realizar un monitoreo constante del uso de agua para evitar pérdidas o exceso de consumo.
 
-5. Consumption Report (Reporte de Consumo): Informe con historial de uso, volúmenes consumidos, temperatura promedio y variaciones detectadas.
+- Real-Time Monitoring (Monitoreo en tiempo real):
+Seguimiento instantáneo del consumo de agua y estado de los dispositivos a través de sensores IoT conectados a la plataforma.
 
-6. Alert Notification (Notificación de Alerta): Aviso automático ante anomalías como sobrepresión, temperaturas fuera de rango o bajo nivel de líquido.
+- Water Optimization (Optimización del agua):
+Conjunto de acciones y recomendaciones destinadas a mejorar la eficiencia en el uso del recurso, reduciendo costos y evitando desperdicios.
 
-7. Maintenance Schedule (Agenda de Mantenimientos): Planificador que permite programar mantenimientos preventivos de tanques, sensores o sistemas asociados.
+- Water Replenishment (Reabastecimiento de agua):
+Acción de garantizar que siempre exista agua disponible en los puntos críticos de consumo mediante alertas o sistemas automáticos.
 
-8. System Status (Estado del Sistema): Indicador del nivel de riesgo o normalidad (ejemplo: normal, crítico, alerta).
+- Consumption Report (Reporte de consumo):
+Documento digital generado por la plataforma que muestra métricas de uso de agua, tendencias y recomendaciones de mejora.
 
-9. Liquid Type (Tipo de Líquido): Clasificación del fluido que se está supervisando (agua, cerveza, gasolina, químicos, etc.).
+- Water Cost Reduction (Reducción de costos de agua):
+Beneficio directo de la optimización, al disminuir los gastos en la factura del servicio de agua gracias a un consumo más eficiente.
 
-10. Data History (Historial de Datos): Registro cronológico de todas las mediciones realizadas por los sensores.
-
-11. Access Control (Control de Acceso): Gestión de permisos que define qué usuarios pueden ver, modificar o administrar los datos.
-
-12. Cloud Sync (Sincronización en la Nube): Función que asegura que toda la información esté disponible en cualquier momento y dispositivo.
-
-13. Real-Time Monitoring (Monitoreo en Tiempo Real): Supervisión continua de las condiciones de los líquidos, actualizada al instante en el dashboard.
+- Sustainability (Sostenibilidad):
+Principio de garantizar el uso responsable del agua para contribuir a la preservación del medio ambiente y a la eficiencia de los recursos.
