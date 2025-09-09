@@ -1,6 +1,10 @@
 # Capítulo IV: Product Design
 
 ## 4.1. Style Guidelines
+En esta sección, se presentan las pautas de estilo y diseño que guiarán la creación de la página web y la aplicación de Qlic. 
+Estas pautas buscan asegurar una experiencia de usuario coherente, clara y atractiva, transmitiendo confianza y accesibilidad, 
+en línea con la identidad de la marca y los objetivos del proyecto.
+
 ### 4.1.1. General Style Guidelines
 ### 4.1.2. Web Style Guidelines
 
