@@ -157,6 +157,8 @@ En esta sección, se incluyen las fichas de User Personas que representan arquet
 
 - Pequeñas y medianas empresas (PYMES)
 
+![Jorge Luis Cáceres.png](../../assests/chapter-2/Jorge%20Luis%20C%C3%A1ceres.png)
+
 #### 2.3.2. User Task Matrix
 
 La User Task Matrix ayuda a priorizar y organizar las tareas clave que los usuarios realizan en QLic, enfocando el desarrollo en lo que genera más valor para ellos y para el negocio.
@@ -192,7 +194,13 @@ Importancia: Alta, Media, Baja.
 
 Para los Empathy Mapping, utilizaremos a las User Personas María Fernanda Rojas, usuaria residencial que busca optimizar el consumo de agua en su hogar, y Jorge Luis Cáceres, gerente de operaciones de una PYMES que desea controlar y optimizar el uso de agua en su negocio, con el fin de comprender mejor sus motivaciones, frustraciones y necesidades para diseñar funcionalidades de QLic que les generen valor.
 
-(empathy mappings listo, solo se cambiara la informacion por la entrevista)
+- Usuario Residencial
+
+![Maria Fernanda Rojas.png](../../assests/chapter-2/Maria%20Fernanda%20Rojas.png)
+
+- Pequeñas y medianas empresas (PYMES)
+
+![Jorge Luis Caceres - Empathy Mapping.png](../../assests/chapter-2/Jorge%20Luis%20Caceres%20-%20Empathy%20Mapping.png)
 
 #### 2.3.5. As-is Scenario Mapping
 # As-Is Scenario Mapping
