@@ -82,7 +82,20 @@ reducir desperdicios, disminuir costos y garantizar el reabastecimiento oportuno
 
 **Búsqueda por etiquetas:** Permite encontrar rápidamente información como beneficios, características o planes mediante navegación anclada.
 
-### 4.2.5. Navigation Systems
+### 4.2.5. Navigation Systems.
+
+**Barra de navegación:** Incluye enlaces a las secciones principales: Inicio, ¿Qué es Qlic?, Beneficios, Características, Testimonios, Contacto.
+
+**Botones de llamada a la acción (CTA):**
+
+En la sección Hero (“Descargar ahora”).
+
+En medio de la página (tras beneficios o características).
+
+En el cierre de la página (CTA final destacado).
+
+**Footer:** Contiene enlaces a políticas de privacidad, términos y condiciones, soporte, contacto y redes sociales.
+
 
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
