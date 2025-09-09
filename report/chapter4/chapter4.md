@@ -4,7 +4,31 @@
 ### 4.1.1. General Style Guidelines
 ### 4.1.2. Web Style Guidelines
 
-## 4.2. Information Architecture
+## 4.2. Information Architecture.
+La landing page se diseñó con un flujo lógico que guía al usuario desde el primer impacto visual hasta la acción final.
+La organización está pensada para usuarios tanto familiarizados como no familiarizados con la tecnología, priorizando simplicidad, claridad y conversión.
+
+Orden lógico de las secciones:
+
+- Hero: Primer impacto visual con título, subtítulo y botón CTA.
+
+- ¿Qué es Qlic?: Descripción breve del software y su propósito.
+
+- Beneficios: Principales ventajas para los usuarios.
+
+- Características: Funcionalidades clave del sistema.
+
+- Cómo funciona: Explicación en pasos simples.
+
+- Testimonios / Prueba social: Experiencias de usuarios y métricas de confianza.
+
+- Planes: Presentación de precios o modalidades de uso.
+
+- CTA final: Reforzamiento de la acción principal (registro, descarga o demo).
+
+- Footer: Información secundaria, enlaces legales y redes sociales.
+
+
 ### 4.2.1. Organization Systems
 ### 4.2.2. Labeling Systems
 ### 4.2.3. SEO Tags and Meta Tags
