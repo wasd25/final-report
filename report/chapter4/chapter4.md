@@ -55,6 +55,32 @@ Colores de Marca: <br>
 
 ### 4.1.2. Web Style Guidelines
 
+**Responsive Design:** <br>
+La página será completamente adaptable a dispositivos móviles, tablets y desktops.
+
+**Componentes Implementados:** <br>
+
+- Header: Logo + navegación principal + botón CTA.
+
+- Hero: Título impactante, descripción breve, imagen del software y CTA destacado.
+
+- Cards de beneficios/características: Icono, título y texto explicativo.
+
+- Sección de testimonios: Frases de usuarios con foto.
+
+- Sección de CTA final: Botón grande, directo y llamativo para conversión.
+
+- Footer: Logo pequeño, derechos de autor, links legales y redes sociales.
+
+**Interacciones:** <br>
+
+- Hover en botones: cambio de color.
+
+- Feedback visual inmediato: cuando un botón se presiona o un campo de formulario se completa.
+
+- Layout limpio, sin mucha carga de imágenes y videos.
+
+
 ## 4.2. Information Architecture.
 La landing page se diseñó con un flujo lógico que guía al usuario desde el primer impacto visual hasta la acción final.
 La organización está pensada para usuarios tanto familiarizados como no familiarizados con la tecnología, priorizando simplicidad, claridad y conversión.
