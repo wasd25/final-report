@@ -76,7 +76,12 @@ reducir desperdicios, disminuir costos y garantizar el reabastecimiento oportuno
 
 **Author**: WASD
 
-### 4.2.4. Searching Systems
+### 4.2.4. Searching Systems.
+
+**Búsqueda por categorías:** La barra de navegación facilita acceder a las secciones principales de la landing.
+
+**Búsqueda por etiquetas:** Permite encontrar rápidamente información como beneficios, características o planes mediante navegación anclada.
+
 ### 4.2.5. Navigation Systems
 
 ## 4.3. Landing Page UI Design
