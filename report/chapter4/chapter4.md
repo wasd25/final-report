@@ -6,6 +6,53 @@ Estas pautas buscan asegurar una experiencia de usuario coherente, clara y atrac
 en línea con la identidad de la marca y los objetivos del proyecto.
 
 ### 4.1.1. General Style Guidelines
+**Tono de Comunicación:** <br>
+
+- Confiable, para transmitir seguridad y respaldo a los usuarios.
+
+- Cercano y empático, para generar confianza en la comunidad.
+
+- Claro y directo, evitando tecnicismos que dificulten la comprensión.
+
+**Tipografía:** <br>
+
+**Poppins:** Para títulos y encabezados. Moderna, limpia y fácil de leer.
+
+**Roboto:** Para párrafos y textos largos. Muy legible en web y móvil.
+
+Colores de Marca: <br>
+
+**Primario:** Azul (#1976d2) – Representa seguridad, confianza y tecnología.
+
+**Secundario:** Celeste (#64b5f6) – Refuerza accesibilidad y frescura.
+
+**Accento:** Salmon (#fa8072) – Para botones y llamados a la acción (CTA).
+
+**Neutro:** Gris (#424242) – Para textos secundarios y detalles visuales.
+
+**Fondo:** Blanco (#ffffff) – Limpio y claro, facilita la lectura.
+
+**Paleta de Colores:**<br>
+
+| Color       | Código Hex | Uso Principal                          |
+|-------------|------------| -------------------------------------- |
+| Celeste     | #64b5f6    | Color principal, títulos, navegación   |
+| Azul Marino | #000080    | Secundario, elementos de apoyo         |
+| Salmon      | #fa8072    | Botones, CTAs y elementos interactivos |
+| Gris        | #424242    | Textos secundarios y fondos neutros    |
+| Blanco      | #ffffff    | Fondo general, limpieza visual         |
+
+**Spacing y Layout:** <br>
+
+- Espacios amplios entre secciones para evitar saturación.
+
+- Márgenes y paddings consistentes para mantener jerarquía visual.
+
+- Uso de cards con esquinas redondeadas (12–16px) y sombras suaves para diferenciar bloques.
+
+- Diseños con jerarquía clara: título > subtítulo > contenido.
+
+
 ### 4.1.2. Web Style Guidelines
 
 ## 4.2. Information Architecture.
