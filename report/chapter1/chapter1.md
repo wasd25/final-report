@@ -6,9 +6,9 @@ A continuación, se brindará información sobre a qué se dedica nuestra empres
 
 ### 1.1.1. Descripción de la Startup
 
-WASD es una startup enfocada en la gestión inteligente del agua. Utilizamos tecnología IoT para optimizar el uso del recurso en negocio e instituciones. La compañía combina sensores, analítica de datos y una plataforma digital para transformar la manera en que las personas administran su agua.
+WASD es una startup enfocada en la gestión inteligente del agua. Utilizamos tecnología IoT para optimizar el uso del recurso en negocios y hogares. La compañía combina sensores, analítica de datos y una plataforma digital para transformar la manera en que las personas administran su agua.
 
-- **Misión:** Ayudar a negocios e instituciones a optimizar el uso de agua, reducir desperdicios, disminuir costos y garantizar el reabastecimiento oportuno.
+- **Misión:** Ayudar a negocios y hogares a optimizar el uso de agua, reducir desperdicios, disminuir costos y garantizar el reabastecimiento oportuno.
 - **Visión:** Ser la empresa más importante en Perú, en el ámbito de gestión y optimización de agua con el uso de soluciones tecnológicas.
 - **Producto:** "Qlic" es un servicio el cual permite el monitoreo de puntos críticos del agua en un negocio o institución, optimizando el uso de líquidos, reduciendo desperdicios y disminuyendo costos además de garantizar el reabastecimiento oportuno.
 
@@ -25,7 +25,7 @@ WASD es una startup enfocada en la gestión inteligente del agua. Utilizamos tec
 ## 1.2. Solution Profile
 
 **Product Name:** Qlic <br> 
-**Product Description:** Qlic, es una Web App que tiene como objetivo optimizar la gestión del agua. Para ello, este permite al usuario monitorear los IoT que este tiene, mostrando información útil, ayudando a optimizar el uso de agua, reducir desperdicios, disminuir costos y garantizar el reabastecimiento oportuno. Qlic puede usarse en negocios e instituciones con el fin de optimizar varios procesos.
+**Product Description:** Qlic, es una Web App que tiene como objetivo optimizar la gestión del agua. Para ello, este permite al usuario monitorear los IoT que este tiene, mostrando información útil, ayudando a optimizar el uso de agua, reducir desperdicios, disminuir costos y garantizar el reabastecimiento oportuno. Qlic puede usarse en negocios y hogares con el fin de optimizar varios procesos.
 **Monetización:** Qlic funciona mediante un modelo de suscripción mensual o anual, en el cual se alquila el servicio de la aplicación y los diferentes dispositivos IoT.
 
 **Plan Básico:**
@@ -42,7 +42,7 @@ Ideal para negocios que desean iniciar en la digitalización operativa con funci
 
 **Plan Gestión Pro:**
 
-Pensado para instituciones que requieren mayor control, eficiencia operativa y soporte avanzado. Incluye todo lo del Plan Básico, más:
+Pensado para hogares que requieren mayor control, eficiencia operativa y soporte avanzado. Incluye todo lo del Plan Básico, más:
 
 - Alertas inteligentes sobre fugas, exceso de consumo o fallas en los dispositivos.
 - Reportes personalizados de consumo y comparativas por área o unidad.
@@ -77,14 +77,14 @@ En este escenario, surge la necesidad de **soluciones tecnológicas accesibles**
 
 #### 1.2.2.1. Lean UX Problem Statements.
 
-Actualmente, negocios e instituciones enfrentan dificultades para gestionar eficientemente el uso del agua, lo que provoca desperdicios, costos elevados y desabastecimientos inesperados.
+Actualmente, negocios y hogares enfrentan dificultades para gestionar eficientemente el uso del agua, lo que provoca desperdicios, costos elevados y desabastecimientos inesperados.
 Los métodos tradicionales de control son manuales y poco precisos, dificultando la toma de decisiones rápidas para optimizar recursos.
 
 QLic busca resolver este problema mediante una plataforma digital conectada a dispositivos IoT, que permita monitorear en tiempo real, detectar fugas, prevenir desperdicios y garantizar un suministro constante y eficiente.
 
 Frente a esta problemática, planteamos la siguiente pregunta:
 
-¿Cómo podríamos ayudar a negocios e instituciones a optimizar el uso de agua, reduciendo desperdicios y costos, mientras aseguramos un reabastecimiento oportuno mediante tecnología IoT?
+¿Cómo podríamos ayudar a negocios y hogares a optimizar el uso de agua, reduciendo desperdicios y costos, mientras aseguramos un reabastecimiento oportuno mediante tecnología IoT?
 #### 1.2.2.2. Lean UX Assumptions.
 
 | Business Assumptions    | User Assumptions        |
