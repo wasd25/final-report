@@ -190,6 +190,21 @@ Importancia: Alta, Media, Baja.
 
 #### 2.3.3. User Journey Mapping
 
+En esta sección se desarrollan los User Journey Maps de nuestros segmentos principales, representados por las User Personas María Fernanda Rojas (Usuario Residencial) 
+y Jorge Luis Cáceres (PYMES).
+
+El objetivo es entender sus metas, procesos, puntos de fricción, emociones y oportunidades, para así diseñar una solución que responda a sus necesidades reales y genere valor.
+
+Cada journey map describe el recorrido de principio a fin, desde la detección de una necesidad o problema relacionado con el uso de agua, hasta las acciones que actualmente realiza para resolverlo, identificando las brechas y dificultades que enfrentan en el camino.
+
+- Usuario Residencial
+
+![Usuario Residencial.png](../../assests/chapter-2/Usuario%20Residencial.png)
+
+- PYMES
+
+(aca va la imagen del uxpressia)
+
 #### 2.3.4. Empathy Mapping
 
 Para los Empathy Mapping, utilizaremos a las User Personas María Fernanda Rojas, usuaria residencial que busca optimizar el consumo de agua en su hogar, y Jorge Luis Cáceres, gerente de operaciones de una PYMES que desea controlar y optimizar el uso de agua en su negocio, con el fin de comprender mejor sus motivaciones, frustraciones y necesidades para diseñar funcionalidades de QLic que les generen valor.
@@ -203,7 +218,6 @@ Para los Empathy Mapping, utilizaremos a las User Personas María Fernanda Rojas
 ![Jorge Luis Caceres - Empathy Mapping.png](../../assests/chapter-2/Jorge%20Luis%20Caceres%20-%20Empathy%20Mapping.png)
 
 #### 2.3.5. As-is Scenario Mapping
-# As-Is Scenario Mapping
 
 | Paso / Evento Clave                       | Actor Principal         | Actividades (Doing)                                                                 | Pensamientos (Thinking)                                         | Sentimientos (Feeling)                          | Sistemas Externos / Interacciones |
 |-------------------------------------------|-------------------------|--------------------------------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------|----------------------------------|
