@@ -38,8 +38,24 @@ Orden lógico de las secciones:
 
 - Por audiencia: El mensaje está adaptado a usuarios residenciales que buscan seguridad personal y comunitaria.
 
+### 4.2.2. Labeling Systems.
 
-### 4.2.2. Labeling Systems
+Se emplean etiquetas claras, simples y orientadas al usuario para identificar cada sección.
+
+Etiquetas utilizadas en el sitio:
+
+- “¿Qué es Qlic?”
+
+- “Beneficios”
+
+- “Características”
+
+- “Cómo funciona”
+
+- “Testimonios”
+
+- “Planes”
+
 ### 4.2.3. SEO Tags and Meta Tags
 ### 4.2.4. Searching Systems
 ### 4.2.5. Navigation Systems
