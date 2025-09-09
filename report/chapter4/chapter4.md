@@ -56,6 +56,8 @@ Etiquetas utilizadas en el sitio:
 
 - “Planes”
 
+- “Empieza ahora” (CTA final)
+
 ### 4.2.3. SEO Tags and Meta Tags
 ### 4.2.4. Searching Systems
 ### 4.2.5. Navigation Systems
