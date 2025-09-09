@@ -29,7 +29,16 @@ Orden lógico de las secciones:
 - Footer: Información secundaria, enlaces legales y redes sociales.
 
 
-### 4.2.1. Organization Systems
+
+### 4.2.1. Organization Systems.
+
+- Jerárquico: Se organiza de lo más importante (qué es el producto y CTA inicial) hacia lo más detallado (planes, testimonios, contacto).
+
+- Secuencial: Se sigue un recorrido natural: Qué es → Beneficios → Cómo funciona → Confianza → Acción final.
+
+- Por audiencia: El mensaje está adaptado a usuarios residenciales que buscan seguridad personal y comunitaria.
+
+
 ### 4.2.2. Labeling Systems
 ### 4.2.3. SEO Tags and Meta Tags
 ### 4.2.4. Searching Systems
