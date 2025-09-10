@@ -141,7 +141,46 @@ Preguntas:
 - ¿Qué tan importante consideran que es el ahorro de agua en la economía familiar?  
 - ¿Qué esperan de una aplicación que ayude a gestionar el consumo de agua en el hogar?
 
+---
 #### 2.2.2. Registro de entrevistas
+
+## Segmento objetivo #1: PYMES (negocios pequeños y medianos)
+## Segmento objetivo #2: Hogares y familias
+
+---
+### Entrevista 1
+
+- **Nombres y apellidos:** Diego Ramírez
+- **Edad:** 26
+- **Distrito:** San Juan de Lurigancho
+- **Duración:** 15 minutos
+- **URL:** (no aplica)
+
+**Resumen:**  
+El entrevistado comentó que controla el consumo principalmente revisando el recibo mensual. Ha tenido problemas con medidores defectuosos que generaron cobros excesivos. Identifica fugas cuando escucha goteos o nota movimiento en el medidor. Para ahorrar agua, reutiliza la de la lavadora y cierra llaves al cepillarse. Considera muy útil recibir alertas en el celular y estaría dispuesto a usar un plan básico o avanzado según el costo. Resaltó la importancia del ahorro en la economía familiar y espera que la aplicación sea sencilla, con alertas claras y reportes fáciles de entender.
+---
+### Entrevista 2
+
+- **Nombres y apellidos:** Sebastián Torres
+- **Edad:** 29
+- **Distrito:** San Borja
+- **Duración:** 18 minutos
+- **URL:** (no aplica)
+
+**Resumen:**  
+El entrevistado revisa ocasionalmente el medidor y promueve duchas cortas y uso responsable en casa. Ha tenido problemas de cobros inesperados y reclamó ante Sedapal. Detecta fugas por manchas de humedad o goteos. Entre sus medidas de ahorro, reutiliza agua de enjuague de ropa y usa recipientes en la cocina. Considera muy útil recibir alertas en el celular y prefiere un plan av
+---
+### Entrevista 3
+
+- **Nombres y apellidos:** Angie Apaza
+- **Edad:** 22
+- **Distrito:** Breña
+- **Duración:** 6 minutos
+- **URL:** (no aplica)
+
+**Resumen:**  
+La entrevistada indicó que no lleva un control riguroso del consumo, solo revisa el recibo mensual. Ha enfrentado cobros inusuales por fallas en el medidor. Identifica fugas por goteos o humedad en paredes. Sus medidas de ahorro incluyen cerrar la ducha mientras se enjabona y la llave al cepillar
+---
 
 #### 2.2.3. Análisis de entrevistas
 
