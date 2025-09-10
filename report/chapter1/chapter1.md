@@ -10,7 +10,7 @@ WASD es una startup enfocada en la gestión inteligente del agua. Utilizamos tec
 
 - **Misión:** Ayudar a negocios y hogares a optimizar el uso de agua, reducir desperdicios, disminuir costos y garantizar el reabastecimiento oportuno.
 - **Visión:** Ser la empresa más importante en Perú, en el ámbito de gestión y optimización de agua con el uso de soluciones tecnológicas.
-- **Producto:** "Qlic" es un servicio el cual permite el monitoreo de puntos críticos del agua en un negocio o institución, optimizando el uso de líquidos, reduciendo desperdicios y disminuyendo costos además de garantizar el reabastecimiento oportuno.
+- **Producto:** "Qlic" es un servicio el cual permite el monitoreo de puntos críticos del agua en hogares o pequeñas y medianas empresas , optimizando el uso de líquidos, reduciendo desperdicios y disminuyendo costos además de garantizar el reabastecimiento oportuno.
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
@@ -64,13 +64,13 @@ En este escenario, surge la necesidad de **soluciones tecnológicas accesibles**
 **Problemáticas:**
 
 | **What (Qué): ¿Cuál es el problema?** | Las EPS en el Perú presentan altos niveles de pérdidas de agua (físicas y comerciales), lo que genera costos innecesarios, ineficiencia en la distribución y dificultades para garantizar la sostenibilidad del servicio. |
-|---------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **When (Cuándo): ¿Cuándo sucede el problema?** | Este problema es persistente y se ha intensificado en los últimos años debido al crecimiento poblacional, el cambio climático y la mayor demanda de agua en entornos urbanos. |
-| **Where (Dónde): ¿Dónde se presenta el problema del negocio?** | A nivel nacional, afecta tanto a ciudades con redes envejecidas como a comunidades periurbanas y rurales con limitada infraestructura técnica. |
-| **Who (Quiénes): ¿Quiénes están involucrados?** | Están involucradas las EPS, los usuarios domésticos e industriales, técnicos en saneamiento, así como instituciones reguladoras como **SUNASS** y el **MVCS**. |
-| **Why (Por qué): ¿Por qué se origina el problema?** | Por la ausencia de herramientas tecnológicas que integren monitoreo en tiempo real, detección de fugas y gestión inteligente del consumo, adaptadas al contexto local. |
-| **How (Cómo): ¿Cómo afecta este problema a las organizaciones y la sociedad?** | Se refleja en altos índices de agua no facturada, costos operativos elevados para las EPS, interrupciones del servicio y menor confianza de los usuarios. |
-| **How much (Cuánto): ¿Cuánto impacto genera el problema?** | Según el **BID**, una reducción de solo 10 puntos porcentuales en el agua no facturada podría traducirse en ahorros millonarios y mejoras en cobertura para millones de personas en América Latina. |
+|---------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **When (Cuándo): ¿Cuándo sucede el problema?** | Este problema es persistente y se ha intensificado en los últimos años debido al crecimiento poblacional, el cambio climático y la mayor demanda de agua en entornos urbanos.                                             |
+| **Where (Dónde): ¿Dónde se presenta el problema del negocio?** | A nivel nacional, afecta tanto a ciudades con redes envejecidas como a comunidades periurbanas y rurales con limitada infraestructura técnica.                                                                            |
+| **Who (Quiénes): ¿Quiénes están involucrados?** | Están involucradas las EPS, los usuarios domésticos e industriales, técnicos en saneamiento, así como las pequeñas y medianas empresas como AgroAndes S.A.C y Cervecería Artesanal InkaBeer.                              |
+| **Why (Por qué): ¿Por qué se origina el problema?** | Por la ausencia de herramientas tecnológicas que integren monitoreo en tiempo real, detección de fugas y gestión inteligente del consumo, adaptadas al contexto local.                                                    |
+| **How (Cómo): ¿Cómo afecta este problema a las organizaciones y la sociedad?** | Se refleja en altos índices de agua no facturada, costos operativos elevados para las EPS, interrupciones del servicio y menor confianza de los usuarios.                                                                 |
+| **How much (Cuánto): ¿Cuánto impacto genera el problema?** | Según el **BID**, una reducción de solo 10 puntos porcentuales en el agua no facturada podría traducirse en ahorros millonarios y mejoras en cobertura para millones de personas en América Latina.                       |
 
 
 ### 1.2.2 Lean UX Process.
@@ -87,21 +87,21 @@ Frente a esta problemática, planteamos la siguiente pregunta:
 ¿Cómo podríamos ayudar a negocios y hogares a optimizar el uso de agua, reduciendo desperdicios y costos, mientras aseguramos un reabastecimiento oportuno mediante tecnología IoT?
 #### 1.2.2.2. Lean UX Assumptions.
 
-| Business Assumptions    | User Assumptions        |
-|-------------------------|-------------------------|
-|Creemos que los negocios e instituciones están dispuestos a pagar una suscripción mensual o anual por una solución que les ayude a reducir costos operativos relacionados con el uso de agua.|Creemos que los usuarios necesitan monitorear en tiempo real el estado de su consumo de agua.|
-|Creemos que el uso de IoT combinado con analítica de datos generará un valor diferencial, posicionando a QLic como líder en el mercado.|Creemos que los usuarios valorarán recibir alertas inteligentes sobre fugas y exceso de consumo.|
-|Creemos que la instalación gratuita y el soporte técnico facilitarán la adopción inicial del servicio.|Creemos que los usuarios se sentirán más satisfechos si cuentan con reportes claros y personalizados para mejorar la toma de decisiones.|
-|Creemos que la escalabilidad del modelo permitirá expandirnos a otros sectores y regiones de Perú en el futuro.|Creemos que los usuarios preferirán una interfaz sencilla e intuitiva, que no requiera conocimientos técnicos avanzados.|
-|Creemos que las instituciones con políticas de sostenibilidad estarán más motivadas a implementar QLic para cumplir con sus objetivos de responsabilidad social y medioambiental.||
-|Creemos que el ahorro de agua y costos que genera QLic puede convertirse en un argumento clave de venta, aumentando la retención de clientes a largo plazo.||
-|Creemos que ofrecer planes diferenciados (Básico y Pro) permitirá captar tanto pequeños negocios como grandes instituciones.||
-|Creemos que alianzas estratégicas con proveedores de agua o empresas de servicios públicos acelerarán la adopción y confianza en la plataforma.||
-|Creemos que la experiencia del cliente será un factor decisivo, por lo que un diseño de interfaz intuitivo y soporte oportuno generarán mayor satisfacción y lealtad.||
+| Business Assumptions                                                                                                                                                       | User Assumptions        |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|
+| Creemos que los PYMES están dispuestos a pagar una suscripción mensual o anual por una solución que les ayude a reducir costos operativos relacionados con el uso de agua. |Creemos que los usuarios necesitan monitorear en tiempo real el estado de su consumo de agua.|
+| Creemos que el uso de IoT combinado con analítica de datos generará un valor diferencial, posicionando a QLic como líder en el mercado.                                    |Creemos que los usuarios valorarán recibir alertas inteligentes sobre fugas y exceso de consumo.|
+| Creemos que la instalación gratuita y el soporte técnico facilitarán la adopción inicial del servicio.                                                                     |Creemos que los usuarios se sentirán más satisfechos si cuentan con reportes claros y personalizados para mejorar la toma de decisiones.|
+| Creemos que la escalabilidad del modelo permitirá expandirnos a otros sectores y regiones de Perú en el futuro.                                                            |Creemos que los usuarios preferirán una interfaz sencilla e intuitiva, que no requiera conocimientos técnicos avanzados.|
+| Creemos que los PYMES con políticas de sostenibilidad estarán más motivadas a implementar QLic para cumplir con sus objetivos de responsabilidad social y medioambiental.  ||
+| Creemos que el ahorro de agua y costos que genera QLic puede convertirse en un argumento clave de venta, aumentando la retención de clientes a largo plazo.                ||
+| Creemos que ofrecer planes diferenciados (Básico y Pro) permitirá captar tanto pequeñas empresas como medianas.                                                            ||
+| Creemos que alianzas estratégicas con proveedores de agua o empresas de servicios públicos acelerarán la adopción y confianza en la plataforma.                            ||
+| Creemos que la experiencia del cliente será un factor decisivo, por lo que un diseño de interfaz intuitivo y soporte oportuno generarán mayor satisfacción y lealtad.      ||
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
-- Creemos que al ofrecer una plataforma conectada a dispositivos IoT que permita el monitoreo en tiempo real del consumo de agua, ayudaremos a negocios e instituciones a optimizar sus recursos, reducir desperdicios y evitar desabastecimientos inesperados.
+- Creemos que al ofrecer una plataforma conectada a dispositivos IoT que permita el monitoreo en tiempo real del consumo de agua, ayudaremos a los locales de tamaño pequeño y mediano a optimizar sus recursos, reducir desperdicios y evitar desabastecimientos inesperados.
   Sabremos que esta hipótesis es cierta si vemos una reducción en el consumo de agua y una disminución de reportes de incidentes relacionados con fugas o falta de abastecimiento durante los primeros tres meses de uso.
 - Creemos que al integrar alertas inteligentes sobre fugas, exceso de consumo y fallas en los dispositivos, mejoraremos la capacidad de respuesta de los usuarios, evitando pérdidas y costos innecesarios.
   Sabremos que esta hipótesis es cierta si observamos que la mayoría de los usuarios resuelve los incidentes detectados en menos de 24 horas desde la notificación.
@@ -109,7 +109,7 @@ Frente a esta problemática, planteamos la siguiente pregunta:
   Sabremos que esta hipótesis es cierta si la mayoría de los usuarios consulta y utiliza los reportes de manera frecuente y reporta una disminución en su consumo de agua.
 - Creemos que una interfaz sencilla e intuitiva permitirá que los usuarios puedan monitorear y gestionar sus dispositivos sin necesidad de conocimientos técnicos avanzados.
   Sabremos que esta hipótesis es cierta si recibimos retroalimentación positiva sobre la facilidad de uso y un alto nivel de satisfacción de los clientes en las primeras semanas de implementación.
-- Creemos que al ofrecer un modelo de suscripción con planes diferenciados, podremos atender las necesidades tanto de pequeños negocios como de grandes instituciones, incentivando la adopción del servicio.
+- Creemos que al ofrecer un modelo de suscripción con planes diferenciados, podremos atender las necesidades tanto de pequeños locales como de medianos, incentivando la adopción del servicio.
   Sabremos que esta hipótesis es cierta si observamos una tasa creciente de suscripciones activas en ambos planes y un bajo índice de cancelaciones.
 
 #### 1.2.2.4. Lean UX Canvas.
