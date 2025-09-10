@@ -113,7 +113,7 @@ Desarrollar estrategias y tácticas efectivas para enfrentar a nuestros competid
 - Innovación tecnológica enfocada
    Qlic puede diferenciarse al ofrecer una solución web y móvil simple que muestre en tiempo real el consumo de agua, mediante un dashboard con métricas claras, alertas y recomendaciones prácticas, evitando la complejidad de los competidores grandes.
 
-### 2.2. Entrevistas
+### 2.2. Entrevistas 
 
 #### 2.2.1. Diseño de entrevistas
 
