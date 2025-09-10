@@ -48,4 +48,6 @@
 
 ## 3.3 Impact Mapping.
 
+![impact mappung.png](../assets/impact%20mappung.png)
+
 ## 3.4 Product Backlog.
