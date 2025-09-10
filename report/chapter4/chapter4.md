@@ -22,7 +22,7 @@ en línea con la identidad de la marca y los objetivos del proyecto.
 
 Colores de Marca: <br>
 
-**Primario:** Azul (#1976d2) – Representa seguridad, confianza y tecnología.
+**Primario:** Azul Marino (#000080) – Representa seguridad, confianza y tecnología.
 
 **Secundario:** Celeste (#64b5f6) – Refuerza accesibilidad y frescura.
 
