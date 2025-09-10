@@ -152,7 +152,7 @@ Preguntas:
 
 - **Nombres y apellidos:** Diego Ramírez
 - **Edad:** 26
-- **Distrito:** San Juan de Lurigancho
+- **Distrito:** San Juan de Miraflores
 - **Duración:** 15 minutos
 - **URL:** (no aplica)
 
