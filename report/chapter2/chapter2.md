@@ -251,7 +251,7 @@ Para los Empathy Mapping, utilizaremos a las User Personas María Fernanda Rojas
 
 - Usuario Residencial
 
-![Maria Fernanda Rojas.png](../../assests/chapter-2/Maria%20Fernanda%20Rojas.png)
+![Maria Fernanda Rojas-Empathy Mapping.png](../../assests/chapter-2/Maria%20Fernanda%20Rojas-Empathy%20Mapping.png)
 
 - Pequeñas y medianas empresas (PYMES)
 
