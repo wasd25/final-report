@@ -129,7 +129,7 @@ Preguntas:
 - ¿Qué características esperan en una aplicación que les ayude a optimizar el uso de agua?  
 - ¿Estarían dispuestos a pagar una suscripción mensual/anual si con ello reducen costos y mejoran la gestión del agua?
 
-### Segmento 2: Hogares y familias
+### Segmento 2: Hogares y familias 
 
 Preguntas:
 - ¿Cómo controlan el consumo de agua en su hogar actualmente?  
