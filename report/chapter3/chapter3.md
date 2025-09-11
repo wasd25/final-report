@@ -2,21 +2,27 @@
 
 ## 3.1 To-be Scenario Mapping
 
-Este mapa To-Be fue elaborado tras un proceso que incluyó preparación, lluvia de ideas individual, revisión colaborativa y
-definición de fases clave para los segmentos objetivo. A partir de los insights obtenidos en el mapa As-Is, se diseñó un escenario ideal
-que mejora la eficiencia operativa, comunicación y control de recursos dentro del los hogares y locales. La herramienta utilizada para la elaboración fue Miro.
+El To-Be Scenario Mapping representa el escenario futuro ideal diseñado a partir de los aprendizajes del mapa As-Is.
+Su propósito es mostrar cómo, mediante la implementación de una solución tecnológica, los usuarios pueden experimentar
+procesos más eficientes, confiables y organizados, reduciendo frustraciones e incrementando el control de sus recursos.
 
-A continuación, se presenta el escenario futuro ideal para los User Persona:
+Para el segmento de hogares y familias, el escenario refleja una experiencia más clara y sencilla en la gestión del consumo de agua,
+con herramientas digitales que permiten prevenir fugas, recibir alertas inmediatas y acceder a recomendaciones personalizadas para
+optimizar el gasto. Este nuevo flujo busca reemplazar la incertidumbre y los procesos manuales por un sistema digital que facilite
+el ahorro y la tranquilidad en el día a día.
 
-To-be Scenario Mapping hogares y familias:
-Esta sección refleja cómo sería la experiencia ideal las familias al implementar una solución tecnológica enfocada en la gestión interna de operaciones.
-Se observa un proceso más organizado, digitalizado y colaborativo.
+![tobe familias.jpg](../assets/tobe%20familias.jpg)
 
-![to-be.jpg](../assets/to-be.jpg)
+En el caso de las PYMES, el escenario futuro propone una gestión integral que combina monitoreo en tiempo real,
+detección temprana de problemas y automatización de tareas clave como reportes y pagos. Con ello, se promueve una operación
+más ágil y confiable, reduciendo costos imprevistos, mejorando la eficiencia productiva y fortaleciendo la competitividad de
+los negocios frente a los desafíos actuales.
 
-
+![tobe pymes.jpg](../assets/tobe%20pymes.jpg)
 
 ## 3.2 User Stories
+
+En esta sección se presentan las historias de usuario que reflejan las necesidades y expectativas de las familias y de los locales.
 
 | Epic/Story ID | Título                                                    | Descripción                                                                                                                                                                                     | Crtierios de Aceptación                                                                                                                                                                                                                                                                                 | Relacionado con (Epic ID) |
 |---------------|-----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
