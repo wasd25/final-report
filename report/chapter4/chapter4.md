@@ -189,10 +189,41 @@ En el cierre de la página (CTA final destacado).
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Design-Level Event Storming
 ### 4.6.2. Software Architecture Context Diagram
+
+![SystemContext.png](../../assests/chapter-4/SystemContext.png)
+
 ### 4.6.3. Software Architecture Container Diagrams
+
+![Container.png](../../assests/chapter-4/Container.png)
+
 ### 4.6.4. Software Architecture Components Diagrams
+
+- Profiles Component Diagram
+
+![ProfileComponent.png](../../assests/chapter-4/ProfileComponent.png)
+
+- Reports Component Diagram
+
+![ReportComponent.png](../../assests/chapter-4/ReportComponent.png)
+
+- Notifications Component Diagram
+
+![NotificationsComponent.png](../../assests/chapter-4/NotificationsComponent.png)
+
+- Payments Component Diagram
+
+![PaymentsComponent.png](../../assests/chapter-4/PaymentsComponent.png)
+
+- Subscriptions Component Diagram
+
+![SubscriptionsComponent.png](../../assests/chapter-4/SubscriptionsComponent.png)
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
+
+![DIagramaClases.png](../../assests/chapter-4/DIagramaClases.png)
+
 ## 4.8. Database Design
 ### 4.8.1. Database Diagrams
+
+
