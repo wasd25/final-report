@@ -226,7 +226,7 @@ La landing page se diseñó con un flujo lógico que guía al usuario desde el p
 
 ### 4.2.2. Labeling Systems
 Se emplean etiquetas claras, simples y orientadas al usuario para identificar cada sección.
- 
+  
 **Etiquetas de navegación:**
 
 - "Product"
