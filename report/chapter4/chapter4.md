@@ -347,4 +347,4 @@ Se emplean etiquetas claras, simples y orientadas al usuario para identificar ca
 ## 4.8. Database Design
 ### 4.8.1. Database Diagrams
 
-
+![database-model.png](../../assests/chapter-4/database-model.png)
