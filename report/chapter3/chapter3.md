@@ -2,6 +2,20 @@
 
 ## 3.1 To-be Scenario Mapping
 
+Este mapa To-Be fue elaborado tras un proceso que incluyó preparación, lluvia de ideas individual, revisión colaborativa y
+definición de fases clave para los segmentos objetivo. A partir de los insights obtenidos en el mapa As-Is, se diseñó un escenario ideal
+que mejora la eficiencia operativa, comunicación y control de recursos dentro del los hogares y locales. La herramienta utilizada para la elaboración fue Miro.
+
+A continuación, se presenta el escenario futuro ideal para los User Persona:
+
+To-be Scenario Mapping hogares y familias:
+Esta sección refleja cómo sería la experiencia ideal las familias al implementar una solución tecnológica enfocada en la gestión interna de operaciones.
+Se observa un proceso más organizado, digitalizado y colaborativo.
+
+![to-be.jpg](../assets/to-be.jpg)
+
+
+
 ## 3.2 User Stories
 
 | Epic/Story ID | Título                             | Descripción                                                                                                                                                                                     | Crtierios de Aceptación                                                                                                                                                                                                                                                                                 | Relacionado con (Epic ID) |
