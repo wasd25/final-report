@@ -191,7 +191,7 @@ Preguntas:
 
 En esta sección, se incluyen las fichas de User Personas que representan arquetipos detallados de los segmentos objetivo definidos para nuestro sitio web. Estos arquetipos se han creado a partir de un análisis de las entrevistas que hemos realizado con usuarios reales y un estudio comparativo de la competencia, con el objetivo de capturar las caracterí­sticas, necesidades, y comportamientos de nuestros usuarios.
 
-- Usuario Residencial
+- Hogares y familias
 
 ![Maria Fernanda Rojas.png](../../assests/chapter-2/Maria%20Fernanda%20Rojas.png)
 
@@ -205,15 +205,10 @@ La User Task Matrix ayuda a priorizar y organizar las tareas clave que los usuar
 
 Segmentos de usuarios:
 
-Usuarios Residenciales: Control básico y ahorro de agua en el hogar.
+Hogares y familias: Control básico y ahorro de agua en el hogar.
 
 PYMES: Monitoreo avanzado, eficiencia y reportes para decisiones.
 
-Criterios de evaluación:
-
-Frecuencia: Alta, Media, Baja.
-
-Importancia: Alta, Media, Baja.
 
 | Tarea/Persona                               | Maria Fernanda Rojas - Frecuencia | Maria Fernanda Rojas - Importancia | Jorge Luis Caceres - Frecuencia | Jorge Luis Caceres - Importancia |
 |---------------------------------------------|-----------------------------------|------------------------------------|---------------------------------|----------------------------------|
@@ -237,7 +232,7 @@ El objetivo es entender sus metas, procesos, puntos de fricción, emociones y op
 
 Cada journey map describe el recorrido de principio a fin, desde la detección de una necesidad o problema relacionado con el uso de agua, hasta las acciones que actualmente realiza para resolverlo, identificando las brechas y dificultades que enfrentan en el camino.
 
-- Usuario Residencial
+- Hogares y familias
 
 ![Usuario Residencial.png](../../assests/chapter-2/Usuario%20Residencial.png)
 
@@ -249,7 +244,7 @@ Cada journey map describe el recorrido de principio a fin, desde la detección d
 
 Para los Empathy Mapping, utilizaremos a las User Personas María Fernanda Rojas, usuaria residencial que busca optimizar el consumo de agua en su hogar, y Jorge Luis Cáceres, gerente de operaciones de una PYMES que desea controlar y optimizar el uso de agua en su negocio, con el fin de comprender mejor sus motivaciones, frustraciones y necesidades para diseñar funcionalidades de QLic que les generen valor.
 
-- Usuario Residencial
+- Hogares y familias
 
 ![Maria Fernanda Rojas-Empathy Mapping.png](../../assests/chapter-2/Maria%20Fernanda%20Rojas-Empathy%20Mapping.png)
 
@@ -259,17 +254,13 @@ Para los Empathy Mapping, utilizaremos a las User Personas María Fernanda Rojas
 
 #### 2.3.5. As-is Scenario Mapping
 
-| Paso / Evento Clave                       | Actor Principal         | Actividades (Doing)                                                                 | Pensamientos (Thinking)                                         | Sentimientos (Feeling)                          | Sistemas Externos / Interacciones |
-|-------------------------------------------|-------------------------|--------------------------------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------|----------------------------------|
-| Preparación y promoción del servicio      | Propietario / Empresa   | Limpieza, organización, planificación de promoción                                    | ¿Cómo hago que se vea atractivo?                                | Emoción y preocupación por la recepción         | Herramientas de marketing digital |
-| Publicación de información                | Propietario / Empresa   | Creación de anuncios, carga de fotos, precios                                         | ¿Cómo destaco frente a la competencia?                          | Nerviosismo y esperanza por interés generado    | Plataformas en línea              |
-| Interacción con clientes potenciales      | Cliente / PYMES         | Envío de consultas, solicitud de información                                          | ¿Será confiable? ¿Se ajusta a mis necesidades?                  | Ansiedad y optimismo por una buena respuesta    | Sitio web / Chat / Email          |
-| Evaluación de idoneidad                   | Cliente / PYMES         | Comparación de opciones, revisión de condiciones                                      | ¿Este servicio resuelve mi problema mejor que otros?             | Preocupación por equivocarse                    | Competencia / Benchmarking        |
-| Confirmación de reservas / suscripción    | Ambos                   | Coordinación de horarios, pagos, confirmación                                         | Que no haya errores en el proceso                               | Alivio por confirmar, pero ansiedad por detalles | Pasarelas de pago, correo         |
-| Uso del servicio / experiencia en evento  | Cliente / PYMES         | Uso de plataforma, recepción de alertas, seguimiento                                  | ¿Está funcionando como esperaba?                                | Ansiedad por resultados, satisfacción parcial   | Plataforma IoT / App              |
-| Soporte y seguimiento                     | Propietario / Empresa   | Respuesta a incidencias, soporte en tiempo real                                       | ¿Cómo mantengo satisfecho al cliente?                           | Preocupación por fallos                          | Sistema de soporte / helpdesk     |
-| Post-evento / retroalimentación           | Ambos                   | Encuestas, recolección de feedback, mantenimiento                                     | ¿Qué mejoras implementar?                                       | Gratitud si es positivo, frustración si negativo | Encuestas online / CRM            |
+- Hogares y familias
 
+![As-Is Scenario Mapping 1.png](../../assests/chapter-2/As-Is%20Scenario%20Mapping%201.png)
+
+- PYMES
+
+![As-Is Scenario Mapping 2.png](../../assests/chapter-2/As-Is%20Scenario%20Mapping%202.png)
 
 ### 2.4. Ubiquitous Language
 A continuación, se presenta un glosario de términos clave del dominio que serán utilizados en el desarrollo de la plataforma Qlic, 
