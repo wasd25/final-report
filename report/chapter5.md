@@ -71,8 +71,60 @@ El prefijo de categorías se define de la siguiente forma:
 - test: Adding missing tests or correcting existing ones
 - chore: Changes to the build process or auxiliary tools
 
-
 ### 5.1.3. Source Code Style Guide & Conventions
+
+En esta sección se definen las convenciones de nombres y codificación adoptadas por el equipo para los lenguajes utilizados en el proyecto: HTML, CSS, JavaScript, TypeScript y Java. El idioma estándar para todo el código (nombres de variables, funciones, clases, archivos, etc.) es el **inglés**.
+
+#### Principios generales
+
+- **Idioma estándar:** Todo el código fuente está escrito en inglés, incluyendo nombres de archivos, clases, variables y funciones.
+- **Legibilidad ante todo:** Se prioriza el uso de nombres descriptivos y claros por encima de abreviaciones o tecnicismos innecesarios.
+- **Formato consistente:** Se aplica un estilo uniforme en todo el equipo y en todos los lenguajes, reforzado por herramientas automáticas.
+- **Nombres semánticos:** Se usan **sustantivos** para clases, componentes y archivos, y **verbos** para funciones o métodos.
+- **Indentación:** 2 espacios para HTML, CSS, JS y TS. 4 espacios para Java.
+
+#### HTML y CSS
+
+**HTML**
+- Archivos terminan en `.html`.
+- Se utilizan etiquetas semánticas como `<header>`, `<section>`, `<nav>`, `<footer>`, etc.
+- Se incluye `alt` en imágenes y atributos `aria-*` para accesibilidad.
+- Atributos con comillas dobles (`"`).
+- Se usa `camelCase` para ID's y `kebab-case` para clases.
+- Indentación: 2 espacios.
+
+**CSS**
+- Archivos terminan en `.css`.
+- Se usa `kebab-case` para nombres de clases y archivos: `main-header`, `product-card`, `login-form`.
+- Se agrupan estilos relacionados y se separan con comentarios.
+
+#### JavaScript y TypeScript
+
+- Archivos terminan en `.js` o `.ts`.
+- Se usa `camelCase` para variables y funciones: `userName`, `getUserData()`.
+- Se usa `PascalCase` para clases y componentes: `UserProfile`, `LoginForm`.
+- Se prefiere `const` y `let` en lugar de `var`.
+- Se prefieren funciones flecha (`=>`) y nombres explícitos.
+- Cada archivo debe tener una única responsabilidad o componente.
+
+Basado en:
+- [Guía de estilo TypeScript de Google](https://google.github.io/styleguide/tsguide.html)
+- [Guía de estilo JavaScript de Airbnb](https://github.com/airbnb/javascript)
+
+
+#### Java
+
+- Archivos terminan en `.java`.
+- Clases con `PascalCase`: `UserService`, `OrderController`.
+- Métodos y variables con `camelCase`: `getUserById()`, `userEmail`.
+- Constantes con `UPPER_SNAKE_CASE`: `MAX_ATTEMPTS`.
+- Una clase pública por archivo.
+- Se documentan métodos y clases públicas con JavaDoc.
+
+Basado en:
+- [Guía de estilo Java de Google](https://google.github.io/styleguide/javaguide.html)
+- [Buenas prácticas de Spring Boot](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
+
 ### 5.1.4. Software Deployment Configuration
 
 ## 5.2. Landing Page, Services & Applications Implementation
