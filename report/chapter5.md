@@ -30,6 +30,48 @@ Se clasificará en el siguiente orden:
 - GitHub Pages - Servicio de alojamiento web para proyectos estáticos.
 
 ### 5.1.2. Source Code Management
+
+Para la gestión del código fuente, se utilizará GitHub como plataforma central de control de versiones y colaboración entre los miembros del equipo. Se han creado repositorios separados para los distintos productos del proyecto.
+Los enlaces también están disponibles en la sección de anexos.
+
+- **Organización en GitHub:** [https://github.com/wasd25](https://github.com/wasd25)
+- **Repositorio del informe:** [https://github.com/wasd25/final-report](https://github.com/wasd25/final-report)
+- **Repositorio de la Landing Page:** [https://github.com/wasd25/landing-page](https://github.com/wasd25/landing-page)
+
+#### Modelo de ramificación: GitFlow
+
+Para el modelo de desarrollo, se decidió usar GitFlow como modelo de ramificación. Este modelo permite una gestión eficiente de las ramas y facilita la colaboración entre los desarrolladores.
+
+Para el repositorio del informe se crearon las siguientes ramas:
+- **main:** Rama principal de desarrollo, donde se integrarán todas las características y correcciones de errores.
+- **chapter-1:** Rama para el desarrollo del capítulo 1 del informe.
+- **chapter-2:** Rama para el desarrollo del capítulo 2 del informe.
+- **chapter-3:** Rama para el desarrollo del capítulo 3 del informe.
+- **chapter-4:** Rama para el desarrollo del capítulo 4 del informe.
+- **chapter-5:** Rama para el desarrollo del capítulo 5 del informe.
+
+Para el repositorio de Landing Page se crearon las siguientes ramas:
+
+# **actualizar cuando jafeth tenga la landing**
+
+#### Estilo de commits: Conventional Commits
+Para asegurar mensajes de commits claros y estandarizados, se seguirá la convención [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/). Algunos ejemplos:
+
+- feat: add search by name functionality
+- fix: correct form validation error
+- docs: update installation instructions
+- refactor: simplify calculation logic
+
+El prefijo de categorías se define de la siguiente forma:
+- feat: A new feature
+- fix: A bug fix
+- docs: Documentation only changes
+- style: Changes that do not affect the meaning of the code (formatting, missing semicolons, etc.)
+- refactor: A code change that neither fixes a bug nor adds a feature
+- test: Adding missing tests or correcting existing ones
+- chore: Changes to the build process or auxiliary tools
+
+
 ### 5.1.3. Source Code Style Guide & Conventions
 ### 5.1.4. Software Deployment Configuration
 
