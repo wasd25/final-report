@@ -197,8 +197,8 @@ Preguntas:
 ---
 ### Entrevista 2
 
-- **Nombres y apellidos:** Marcos
-- **Edad:** 29
+- **Nombres y apellidos:** Marco cotrina
+- **Edad:** 22
 - **Distrito:** Independencia
 - **Dispositivos:** Xiaomi Redmi Note 11
 - **Sucursales e influenciadores:** Marcas tecnológicas internacionales, tendencias de sostenibilidad
