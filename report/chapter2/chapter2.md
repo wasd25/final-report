@@ -154,9 +154,7 @@ Preguntas:
 - **Sucursales e influenciadores:** Empresa textil familiar en Lima, donde los padres (dueños) influyen directamente en la toma de decisiones sobre costos y consumo de agua
 - **Tecnologia:** Dispositivos móviles Apple para gestión
 - ***Navegador Preferido:** Chrome (antes Safari)
-  
-
-
+![Entrevista1-Segmento1.png](../../assests/chapter-2/Entrevista1-Segmento1.png)
 - **Inicio:**
 - **Duración:** 15 minutos
 - **URL:**  
@@ -171,8 +169,7 @@ Preguntas:
 - **Sucursales e influenciadores:** Florería en Lima; el entrevistado, como administrador, influye directamente en la gestión de recursos y toma de decisiones para reducir costos operativos.
 - **Tecnologia:** Computadoras Mac y laptops para la gestión del negocio, con acceso a sistemas virtuales vía navegador
 - ***Navegador Preferido:** Google Chrome
-
-
+ ![Entrevista2-Segmento1.png](../../assests/chapter-2/Entrevista2-Segmento1.png)
 - **Inicio:**
 - **Duración:** 15 minutos
 - **URL:**   
@@ -189,7 +186,7 @@ Preguntas:
 - **Sucursales e influenciadores:** Productos de consumo básico, recomendaciones de amigos y familiares
 - **Tecnologia:** Dell Inspiron
 - ***Navegador Preferido:** Edge y Chrome
-  
+ ![Entrevista 1 - segmento2.jpg](../../assests/chapter-2/Entrevista%201%20-%20Segmento2.png)
 - **Inicio:**
 - **Duración:** 15 minutos
 - **URL:**   
@@ -204,7 +201,7 @@ Preguntas:
 - **Sucursales e influenciadores:** Marcas tecnológicas internacionales, tendencias de sostenibilidad
 - **Tecnologia:** HP Pavilion
 - ***Navegador Preferido:** Chrome
-  
+ ![Entrevista 2 - segmento 2.jpg](../../assests/chapter-2/Entrevista%202%20-%20segmento%202.jpg)
 - **Inicio:**
 - **Duración:** 15 minutos
 - **URL:**   
