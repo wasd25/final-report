@@ -127,6 +127,21 @@ Basado en:
 
 ### 5.1.4. Software Deployment Configuration
 
+En esta sección se describe la configuración necesaria para desplegar cada uno de los componentes del proyecto: Landing Page, Web Services y Frontend Web Application. El objetivo es garantizar que, a partir del código fuente almacenado en los repositorios, se pueda lograr una publicación funcional y accesible para los usuarios.
+
+#### Despliegue de Landing Page
+
+La **Landing Page** fue desarrollada usando HTML y CSS, y fue desplegada mediante **GitHub Pages**, un servicio gratuito de hosting para sitios estáticos.
+
+**Pasos de despliegue:**
+1. Se creó el repositorio `landing-page` en GitHub.
+2. Se subió el código fuente HTML, CSS y recursos estáticos.
+3. Desde la configuración del repositorio, se activó **GitHub Pages** seleccionando la rama `main` y la carpeta raíz (`/`).
+4. Automáticamente, GitHub publicó el sitio web en una URL pública.
+
+**Repositorio:** [https://github.com/wasd25/landing-page](https://github.com/wasd25/landing-page)<br>
+**URL desplegada:** []()
+
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
@@ -144,3 +159,4 @@ Basado en:
 # Bibliografía
 
 # Anexos
+
