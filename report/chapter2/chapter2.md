@@ -150,23 +150,31 @@ Preguntas:
 ---
 ### Entrevista 1
 
-- **Nombres y apellidos:** Diego Ramírez
-- **Edad:** 26
+- **Nombres y apellidos:** Piero Tenerio
+- **Edad:** 20
 - **Distrito:** San Juan de Miraflores
 - **Duración:** 15 minutos
-- **URL:** (no aplica)
-
+- **URL:**
+- **Dispositivos:** Samsung Galaxy A54
+- **Sucursales e influenciadores:** Productos de consumo básico, recomendaciones de amigos y familiares
+- **Tecnologia:** Dell Inspiron
+- ***Navegador Preferido:** Edge y Chrome
+  
 **Resumen:**  
 
 - El entrevistado comentó que controla el consumo principalmente revisando el recibo mensual. Ha tenido problemas con medidores defectuosos que generaron cobros excesivos. Identifica fugas cuando escucha goteos o nota movimiento en el medidor. Para ahorrar agua, reutiliza la de la lavadora y cierra llaves al cepillarse. Considera muy útil recibir alertas en el celular y estaría dispuesto a usar un plan básico o avanzado según el costo. Resaltó la importancia del ahorro en la economía familiar y espera que la aplicación sea sencilla, con alertas claras y reportes fáciles de entender.
 ---
 ### Entrevista 2
 
-- **Nombres y apellidos:** Sebastián Torres
+- **Nombres y apellidos:** Marcos
 - **Edad:** 29
-- **Distrito:** San Borja
+- **Distrito:** Independencia
 - **Duración:** 18 minutos
-- **URL:** (no aplica)
+- **URL:**
+- **Dispositivos:** Xiaomi Redmi Note 11
+- **Sucursales e influenciadores:** Marcas tecnológicas internacionales, tendencias de sostenibilidad
+- **Tecnologia:** HP Pavilion
+- ***Navegador Preferido:** Chrome
 
 **Resumen:**  
 - El entrevistado revisa ocasionalmente el medidor y promueve duchas cortas y uso responsable en casa. Ha tenido problemas de cobros inesperados y reclamó ante Sedapal. Detecta fugas por manchas de humedad o goteos. Entre sus medidas de ahorro, reutiliza agua de enjuague de ropa y usa recipientes en la cocina. Considera muy útil recibir alertas en el celular y prefiere un plan av
@@ -177,13 +185,36 @@ Preguntas:
 - **Edad:** 22
 - **Distrito:** Breña
 - **Duración:** 6 minutos
-- **URL:** (no aplica)
+- **URL:**
+- **Dispositivos:** iphone 13
+- **Sucursales e influenciadores:** Marcas ecofriendly, contenido en Instagram
+- **Tecnologia:** lenovo
+- ***Navegador Preferido:** Opera
 
 **Resumen:**  
 - La entrevistada indicó que no lleva un control riguroso del consumo, solo revisa el recibo mensual. Ha enfrentado cobros inusuales por fallas en el medidor. Identifica fugas por goteos o humedad en paredes. Sus medidas de ahorro incluyen cerrar la ducha mientras se enjabona y la llave al cepillar
 ---
 
 #### 2.2.3. Análisis de entrevistas
+
+
+## Hallazgos para el Segmento #1: PYMES (negocios pequeños y medianos)
+
+## Hallazgos para el segmento #2: Hogares y Familias
+
+Basándonos en las entrevistas, hemos llevado a cabo un análisis en el que destacamos los puntos compartidos y tendencias comunes entre los usuarios.
+
+### Hallazgos
+
+- Todos los entrevistados revisan el **recibo de agua** como su principal forma de control del consumo, aunque reconocen que no siempre es suficiente para detectar problemas a tiempo.  
+- Los tres mencionaron haber tenido **experiencias negativas con medidores defectuosos o cobros inesperados**, lo que genera desconfianza y preocupación en la gestión del servicio.  
+- La identificación de fugas se realiza principalmente a través de **señales visibles o auditivas** (goteos, manchas de humedad, movimiento del medidor), lo que refleja la falta de herramientas preventivas en los hogares.  
+- Entre las medidas de ahorro más comunes destacan: **cerrar llaves al cepillarse o ducharse, reutilizar agua de la lavadora o de enjuagues, y usar recipientes** para optimizar el consumo.  
+- Existe consenso en que **recibir alertas en el celular** sería muy útil, ya que ayudaría a detectar fugas o consumos excesivos antes de que se reflejen en el recibo.  
+- Mientras algunos prefieren un **plan básico** por razones de simplicidad y costo, otros valoran un **plan avanzado** con estadísticas y reportes detallados. Esto indica que el mercado presenta distintos perfiles de usuarios, desde los que buscan soluciones prácticas hasta los más interesados en datos y control.  
+- El **ahorro de agua** es visto como un tema muy importante para la economía familiar, pero también algunos lo asocian a la **sostenibilidad y cuidado del medio ambiente**.  
+- Todos coinciden en que esperan que la aplicación sea **sencilla de usar, brinde reportes claros y emita alertas rápidas y confiables** sobre consumos irregulares o fugas.  
+
 
 ### 2.3. Needfinding
 
