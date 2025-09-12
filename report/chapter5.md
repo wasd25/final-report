@@ -154,9 +154,71 @@ La **Landing Page** fue desarrollada usando HTML y CSS, y fue desplegada mediant
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
 # Conclusiones
-- Conclusiones y recomendaciones
+Durante el proceso de creación y desarrollo de este trabajo pudimos llegar a las siguientes conclusiones:
+
+### 1. Trabajo en equipo y colaboración
+El éxito de este proyecto demuestra la importancia del trabajo en equipo y la colaboración efectiva entre los miembros del grupo.
+La sinergia, comunicación constante y distribución de roles permitieron integrar diferentes perspectivas y habilidades, 
+logrando un desarrollo más robusto y eficiente.
+
+### 2. Planificación y organización en el desarrollo de software
+Una adecuada planificación y organización fueron clave para el cumplimiento de los objetivos del proyecto. 
+La metodología empleada (como Agile o SCRUM) facilitó la gestión de tareas, la priorización de funcionalidades y la entrega 
+de resultados en los tiempos establecidos, asegurando un producto de calidad.
+
+### 3. Tecnología y herramientas aplicadas a las realidad
+El uso de tecnologías modernas y herramientas innovadoras permitió desarrollar una solución alineada con las necesidades 
+reales del sector. La integración de frameworks ágiles, bases de datos eficientes y sistemas en la nube garantizó un producto
+escalable, seguro y adaptable al contexto peruano.
+
+### 4. Solución rentable y sostenible contra el desperdicio alimentario
+Este proyecto se consolida como una solución rentable y sostenible para reducir el desperdicio de alimentos en Perú, 
+especialmente en el sector restaurantero. Al conectar a establecimientos con consumidores, se optimiza el uso de excedentes, 
+generando un impacto económico, social y ambiental positivo.
+
 
 # Bibliografía
 
+
+- Conne, M(2024). _The Markdown Guide_. MarkdownGuide. Recuperado de: https://www.markdownguide.org/
+
+- Conventional Commits. (n.d.). *Conventional commits v1.0.0.* Retrieved from https://www.conventionalcommits.org/en/v1.0.0/
+
+- BrowserStack. (n.d.). Responsive Web Design: A Complete Guide. Recuperado de https://www.browserstack.com/guide/responsive-web-design
+
+- Spring Boot. (n.d.). Spring Boot Documentation. Retrieved from https://docs.spring.io/spring-boot/documentation.html#documentation.web
+
+- Modyo. (n.d.). Domain-Driven Design (DDD) - Patrones de arquitectura. Retrieved from https://docs.modyo.com/es/architecture/patterns/ddd.html
+
+- Pivotal Software (2024). Spring Boot Reference Documentation (v3.2.4). https://docs.spring.io/spring-boot/docs/current/reference/html/
+
+- Evans, E. (2004). Domain-Driven Design: Tackling Complexity in the Heart of Software. Addison-Wesley. https://www.domainlanguage.com/ddd/
+
+- Eser, A. (2025, 30 de mayo). *Marketing in the Water Industry Statistics*. ZipDo Education Reports. Recuperado de https://zipdo.co/marketing-in-the-water-industry-statistics/
+
+- América Noticias. (2025). *Sunass: cierre de brechas en agua y saneamiento requiere cerca de 95 mil millones inversión*. América TV. Recuperado de https://www.americatv.com.pe/noticias/actualidad/sunass-cierre-brechas-agua-y-saneamiento-requiere-cerca-s-95-mil-millones-inversion-n468439
+
+- Ministerio de Vivienda, Construcción y Saneamiento. (2024, 9 de agosto). *Más de 500 mil peruanos accederán a servicios de agua potable y saneamiento con obras que el Ministerio de Vivienda concluirá al 2025*. Gobierno del Perú. Recuperado de https://www.gob.pe/institucion/vivienda/noticias/1000795-mas-de-500-mil-peruanos-accederan-a-servicios-de-agua-potable-y-saneamiento-con-obras-que-el-ministerio-de-vivienda-concluira-al-2025
+
 # Anexos
 
+### VIDEOS:
+
+| Título                  | Descripción                                        | Enlace |
+|-------------------------|----------------------------------------------------|--------|
+| Video de exposición TB1 | Video explicativo de los avances de la entrega TB1 |        |
+| Video de entrevistas    | Video recopilatorio de todas las entrevistas       |        |
+
+
+
+### UX/UI
+| Título | Descripción                                                                                                | Enlace                       |
+|--------|------------------------------------------------------------------------------------------------------------|------------------------------|
+| Figma  | Enlace hacia el documento de Figma con todos los diseños planteados para tanto Frontend como Landing Page. | https://acortar.link/4gd758  | 
+
+### GITHUB
+
+| Título       | Descripción                            | Enlace                                 |
+|--------------|----------------------------------------|----------------------------------------|
+| Reporte      | Enlace al repositorio del reporte      | https://github.com/wasd25/final-report |
+| Landing Page | Enlace al repositorio del Landing Page | https://github.com/wasd25/landing-page |
