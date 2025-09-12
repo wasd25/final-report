@@ -150,32 +150,33 @@ Preguntas:
 - **Nombres y apellidos:** Raul Quintana
 - **Edad:** 29
 - **Distrito:** Surco
-- **Duración:** 15 minutos
-- **URL:**
 - **Dispositivos:** iphone 15
 - **Sucursales e influenciadores:** Empresa textil familiar en Lima, donde los padres (dueños) influyen directamente en la toma de decisiones sobre costos y consumo de agua
 - **Tecnologia:** Dispositivos móviles Apple para gestión
 - ***Navegador Preferido:** Chrome (antes Safari)
   
-**Resumen:**  
 
-- El entrevistado señaló que en su empresa textil controlan el consumo de agua de forma manual, leyendo el medidor al inicio y fin de mes. Han tenido problemas con fugas internas y desperdicio en procesos de limpieza y baños. Aunque el agua no es el mayor gasto, sí impacta cuando hay pérdidas. Considera útil una app con alertas semanales y de fácil uso, especialmente para que sus padres también la puedan manejar. Usa iPhone e iPad, con navegador Chrome.
+
+- **Inicio:**
+- **Duración:** 15 minutos
+- **URL:**  
+- **Resumen:** El entrevistado señaló que en su empresa textil controlan el consumo de agua de forma manual, leyendo el medidor al inicio y fin de mes. Han tenido problemas con fugas internas y desperdicio en procesos de limpieza y baños. Aunque el agua no es el mayor gasto, sí impacta cuando hay pérdidas. Considera útil una app con alertas semanales y de fácil uso, especialmente para que sus padres también la puedan manejar. Usa iPhone e iPad, con navegador Chrome.
 ---
 ### Entrevista 2
 
 - **Nombres y apellidos:** Julio Gomez
 - **Edad:** 34
 - **Distrito:** Chorillos
-- **Duración:** 15 minutos
-- **URL:**
 - **Dispositivos:** Laptops personales (principalmente Mac)
 - **Sucursales e influenciadores:** Florería en Lima; el entrevistado, como administrador, influye directamente en la gestión de recursos y toma de decisiones para reducir costos operativos.
 - **Tecnologia:** Computadoras Mac y laptops para la gestión del negocio, con acceso a sistemas virtuales vía navegador
 - ***Navegador Preferido:** Google Chrome
-  
-**Resumen:**  
 
-- El entrevistado administra una florería y mencionó que actualmente controlan el consumo de agua revisando el recibo mensual, sin un medidor por áreas. Han tenido problemas con fugas en mangueras, goteros y riego excesivo por descuidos. Señaló que el agua es uno de los costos principales, especialmente en verano, cuando puede incrementarse hasta en un 25%. Considera muy útil contar con reportes semanales y alertas en tiempo real para detectar fugas. Espera que una aplicación sea simple, fácil de usar por el personal, y que permita separar el consumo por áreas e incluso planificar el riego según el clima. Estaría dispuesto a pagar una suscripción siempre que el costo sea menor al impacto económico de las fugas y desperdicios.
+
+- **Inicio:**
+- **Duración:** 15 minutos
+- **URL:**   
+- **Resumen:** El entrevistado administra una florería y mencionó que actualmente controlan el consumo de agua revisando el recibo mensual, sin un medidor por áreas. Han tenido problemas con fugas en mangueras, goteros y riego excesivo por descuidos. Señaló que el agua es uno de los costos principales, especialmente en verano, cuando puede incrementarse hasta en un 25%. Considera muy útil contar con reportes semanales y alertas en tiempo real para detectar fugas. Espera que una aplicación sea simple, fácil de usar por el personal, y que permita separar el consumo por áreas e incluso planificar el riego según el clima. Estaría dispuesto a pagar una suscripción siempre que el costo sea menor al impacto económico de las fugas y desperdicios.
 
 ---
 ## Segmento objetivo #2: Hogares y familias
@@ -184,46 +185,45 @@ Preguntas:
 - **Nombres y apellidos:** Piero Tenerio
 - **Edad:** 20
 - **Distrito:** San Juan de Miraflores
-- **Duración:** 15 minutos
-- **URL:**
 - **Dispositivos:** Samsung Galaxy A54
 - **Sucursales e influenciadores:** Productos de consumo básico, recomendaciones de amigos y familiares
 - **Tecnologia:** Dell Inspiron
 - ***Navegador Preferido:** Edge y Chrome
   
-**Resumen:**  
-
-- El entrevistado comentó que controla el consumo principalmente revisando el recibo mensual. Ha tenido problemas con medidores defectuosos que generaron cobros excesivos. Identifica fugas cuando escucha goteos o nota movimiento en el medidor. Para ahorrar agua, reutiliza la de la lavadora y cierra llaves al cepillarse. Considera muy útil recibir alertas en el celular y estaría dispuesto a usar un plan básico o avanzado según el costo. Resaltó la importancia del ahorro en la economía familiar y espera que la aplicación sea sencilla, con alertas claras y reportes fáciles de entender.
+- **Inicio:**
+- **Duración:** 15 minutos
+- **URL:**   
+- **Resumen:** El entrevistado comentó que controla el consumo principalmente revisando el recibo mensual. Ha tenido problemas con medidores defectuosos que generaron cobros excesivos. Identifica fugas cuando escucha goteos o nota movimiento en el medidor. Para ahorrar agua, reutiliza la de la lavadora y cierra llaves al cepillarse. Considera muy útil recibir alertas en el celular y estaría dispuesto a usar un plan básico o avanzado según el costo. Resaltó la importancia del ahorro en la economía familiar y espera que la aplicación sea sencilla, con alertas claras y reportes fáciles de entender.
 ---
 ### Entrevista 2
 
 - **Nombres y apellidos:** Marcos
 - **Edad:** 29
 - **Distrito:** Independencia
-- **Duración:** 18 minutos
-- **URL:**
 - **Dispositivos:** Xiaomi Redmi Note 11
 - **Sucursales e influenciadores:** Marcas tecnológicas internacionales, tendencias de sostenibilidad
 - **Tecnologia:** HP Pavilion
 - ***Navegador Preferido:** Chrome
-
-**Resumen:**  
-- El entrevistado revisa ocasionalmente el medidor y promueve duchas cortas y uso responsable en casa. Ha tenido problemas de cobros inesperados y reclamó ante Sedapal. Detecta fugas por manchas de humedad o goteos. Entre sus medidas de ahorro, reutiliza agua de enjuague de ropa y usa recipientes en la cocina. Considera muy útil recibir alertas en el celular y prefiere un plan av
+  
+- **Inicio:**
+- **Duración:** 15 minutos
+- **URL:**   
+- **Resumen:** El entrevistado revisa ocasionalmente el medidor y promueve duchas cortas y uso responsable en casa. Ha tenido problemas de cobros inesperados y reclamó ante Sedapal. Detecta fugas por manchas de humedad o goteos. Entre sus medidas de ahorro, reutiliza agua de enjuague de ropa y usa recipientes en la cocina. Considera muy útil recibir alertas en el celular y prefiere un plan av
 ---
 ### Entrevista 3
 
 - **Nombres y apellidos:** Angie Apaza
 - **Edad:** 22
 - **Distrito:** Breña
-- **Duración:** 6 minutos
-- **URL:**
 - **Dispositivos:** iphone 13
 - **Sucursales e influenciadores:** Marcas ecofriendly, contenido en Instagram
 - **Tecnologia:** lenovo
 - ***Navegador Preferido:** Opera
-
-**Resumen:**  
-- La entrevistada indicó que no lleva un control riguroso del consumo, solo revisa el recibo mensual. Ha enfrentado cobros inusuales por fallas en el medidor. Identifica fugas por goteos o humedad en paredes. Sus medidas de ahorro incluyen cerrar la ducha mientras se enjabona y la llave al cepillar
+  
+- **Inicio:**
+- **Duración:** 15 minutos
+- **URL:**   
+- **Resumen:** La entrevistada indicó que no lleva un control riguroso del consumo, solo revisa el recibo mensual. Ha enfrentado cobros inusuales por fallas en el medidor. Identifica fugas por goteos o humedad en paredes. Sus medidas de ahorro incluyen cerrar la ducha mientras se enjabona y la llave al cepillar
 ---
 
 #### 2.2.3. Análisis de entrevistas
