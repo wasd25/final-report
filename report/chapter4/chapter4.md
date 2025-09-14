@@ -249,7 +249,17 @@ Se emplean etiquetas claras, simples y orientadas al usuario para identificar ca
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
 
+El wireframe de la página de inicio de Qlic organiza los elementos clave para 
+ofrecer una navegación intuitiva. Incluye un encabezado con el logo y un menú de 
+navegación, seguido de una propuesta de valor clara con botones de acción destacados 
+como "Contact Sales" y "Get Started?". La página cuenta con secciones que hablan sobre el proyecto
+, las funcionalidades clave del sistema, nuestro quipo, planes de suscripciones, testimonios de usuarios y otras pantallas informativas
+. Al final, se encuentra un formulario de contacto para que los 
+usuarios se puedan contactar con nosotros, junto con enlaces legales 
+en el pie de página.
+
 ### 4.3.2. Landing Page Mock-up
+
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
