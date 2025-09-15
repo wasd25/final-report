@@ -244,7 +244,7 @@ suscripciones, testimonios de usuarios y otras pantallas informativas
 usuarios se puedan contactar con nosotros, junto con enlaces legales 
 en el pie de página.
 
-![SystemContext.png](../../assests/chapter-4/Wireframe_Qlic.png)
+![SystemContext.png](../../assests/chapter-4/Wireframe_Qlic.png) 
 
 ### 4.3.2. Landing Page Mock-up
 
