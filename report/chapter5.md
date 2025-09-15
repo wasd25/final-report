@@ -52,7 +52,15 @@ Para el repositorio del informe se crearon las siguientes ramas:
 
 Para el repositorio de Landing Page se crearon las siguientes ramas:
 
-# **actualizar cuando jafeth tenga la landing**
+- Features
+1. header
+2. hero
+3. about-us
+4. solutions
+5. subscriptions
+6. contact-sales
+7. faq
+8. footer
 
 #### Estilo de commits: Conventional Commits
 Para asegurar mensajes de commits claros y estandarizados, se seguirá la convención [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/). Algunos ejemplos:
@@ -145,7 +153,34 @@ La **Landing Page** fue desarrollada usando HTML y CSS, y fue desplegada mediant
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
+
+A continuación, se presentará el sprint planning 1 donde se mostrarán las evidencias de planificación e implementación del landing page.
+
+| Campo                    | Sprint 1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|--------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sprint #                 | Sprint 1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Date                     | 28/08/2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Time                     | 6:00 PM                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Location                 | Google Meet                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Prepared by              | Pedro Andre Guia Carrasco                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Attendees (to meeting)   | - Ayrton Briceno <br> - Mateo Loechle  <br> - Anyelo Alejos <br> - Jafeth Ynga                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Sprint 1 Review Summary  | Este fue el primer sprint realizado por el equipo.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Sprint 1 Retrospective Summary                         | Se acordó implementar una primera versión funcional de la Landing Page del sistema Qlic.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Sprint 1 Goal                         | Nos enfocamos en implementar la Landing Page de Qlic con una arquitectura sólida basada en HTML, CSS y JavaScript, priorizando la adaptabilidad a distintos dispositivos y una navegación consistente. Creemos que esto permitirá comunicar efectivamente el propósito del sistema, facilitar el acceso a la información clave y sentar las bases técnicas para evoluciones posteriores del proyecto. Creemos que esto permitirá comunicar efectivamente el propósito del sistema, facilitar el acceso a la información clave y sentar las bases técnicas para evoluciones posteriores del proyecto. |
+| Sprint 1 Velocity                         | 8                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Sum of Story Points                        | 8                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+
 #### 5.2.1.2. Aspect Leaders and Collaborators
+
+| Team Member (Last Name, First Name) | GitHub Username | Landing Page (L/C) | Documentation (L/C) | Epics (L/C) |
+|-------------------------------------|-----------------|--------------------|---------------------|-------------|
+| Guia Carrasco, Pedro Andre          | Pedrivizz       | C                  | C                   | L           |
+| Briceño Llanos, Ayrton Omar         | AyrtonBriceno   | C                  | L                   | C           |
+| Loechle Arias, Mateo Ítalo          | LowMathzzz                | C                  | C                   | C           |
+| Ynga Amado, Jafeth Worren           | Jafeth-MV                | L                  | C                   | C           |
+| Alejos Jesus, Anyelo Bill                      | Everkoe                | C                  | C                   | C           |
+
+
 #### 5.2.1.3. Sprint Backlog 1
 #### 5.2.1.4. Development Evidence for Sprint Review
 #### 5.2.1.5. Execution Evidence for Sprint Review
