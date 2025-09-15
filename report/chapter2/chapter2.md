@@ -1,4 +1,4 @@
-# Capítulo II: Requirements Elicitation & Analysis
+ # Capítulo II: Requirements Elicitation & Analysis
 
 ## 2.1. Competidores.
 
@@ -299,7 +299,7 @@ Cada journey map describe el recorrido de principio a fin, desde la detección d
 
 - PYMES
   
-![Usuario PYM.png](../../assests/chapter-2/Usuario%20PYM.png)
+![PYM.png](../../assests/chapter-2/PYM.png)
 
 Este User Journey Map muestra la experiencia de Jorge Luis Caceres, administrador de una florería, en la adopción de Qlic. Inicia con frustración por la falta de control y visibilidad del consumo de agua, pasa por dudas en la evaluación y configuración, y finaliza con satisfacción al optimizar costos y planificar el riego eficientemente. Los puntos de contacto incluyen Google, la app web y móvil, notificaciones y reportes, reflejando una transición positiva gracias a la facilidad de uso y beneficios tangibles.
 
