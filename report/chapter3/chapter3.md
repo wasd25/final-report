@@ -22,7 +22,9 @@ los negocios frente a los desafíos actuales.
 
 ## 3.2 User Stories
 
-En esta sección se presentan las historias de usuario que reflejan las necesidades y expectativas de las familias y de los locales.
+En esta sección, estructuraremos nuestro proceso de desarrollo y aseguraremos de cubrir los os necesarios para satisfacer las necesidades del usuario.
+
+A continuación, estableceremos las épicas, para luego detallarlas en historias de usuario. De este modo estableceremos los objetivos y funcionalidades.
 
 | Epic/Story ID | Título                                                    | Descripción                                                                                                                                                                                     | Crtierios de Aceptación                                                                                                                                                                                                                                                                                 | Relacionado con (Epic ID) |
 |---------------|-----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
@@ -70,6 +72,8 @@ En esta sección se presentan las historias de usuario que reflejan las necesida
 | US30          | Pago con billetera digital                                | **Como** usuario <br>**Quiero** pagar mi plan usando Yape o Plin <br>**Para** facilitar el proceso de pago con billetera digital.                | **Escenario 1 - Pago exitoso con QR:**<br>**Dado que** el usuario selecciona la opción de pago con Yape o Plin,<br>**Cuando** escanea el código QR generado y confirma el pago,<br>**Entonces** el sistema valida la transacción y muestra un mensaje de confirmación.<br><br>**Escenario 2 - Pago no confirmado:**<br>**Dado que** el usuario escanea el QR pero no confirma el pago,<br>**Cuando** el tiempo de espera excede el límite,<br>**Entonces** el sistema cancela la solicitud y muestra un mensaje de pago no procesado.<br><br>**Escenario 3 - Error en la validación de pago:**<br>**Dado que** el sistema presenta un error al validar la transacción,<br>**Cuando** el usuario intenta completar el pago,<br>**Entonces** el sistema muestra un mensaje indicando que hubo un problema y que debe intentarlo nuevamente. | EP12 |
 
 ## 3.3 Impact Mapping.
+
+l Impact Map es una herramienta que se utiliza en la planificación de proyectos, productos o iniciativas, donde su objetivo es alinear las actividades de un equipo con los objetivos de negocio, asegurando que los esfuerzos se concentren en generar un impacto real y valioso. Para ello tomaremos algunas de las User Stories y como estos ayudan a los usuarios que usarán nuestra plataforma.
 
 ![impact mappung.png](../assets/impact%20mappung.png)
 
