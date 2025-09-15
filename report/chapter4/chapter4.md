@@ -244,9 +244,19 @@ suscripciones, testimonios de usuarios y otras pantallas informativas
 usuarios se puedan contactar con nosotros, junto con enlaces legales 
 en el pie de página.
 
-![SystemContext.png](../../assests/chapter-4/Wireframe_Qlic.png) 
+![SystemContext.png](../../assests/chapter-4/Wireframe_Qlic.png)
+**Figura 1:** Wireframe de la Landing Page.
 
 ### 4.3.2. Landing Page Mock-up
+
+El Landing Page Mock-up de Qlic muestra un diseño limpio y organizado, 
+con una estructura intuitiva que guía a los usuarios a través de la plataforma. 
+Incluye una propuesta de valor destacada en la parte superior, seguida de secciones 
+clave como las funcionalidades clave, los beneficios para empresas y hogares,
+y una explicación clara de cómo funciona el servicio. También cuenta con testimonios de
+clientes, detalles sobre la empresa y un formulario para contactar con el area de ventas
+, todo con un enfoque en facilitar la conversión de visitantes a usuarios activos.
+
 
 
 ## 4.4. Web Applications UX/UI Design
