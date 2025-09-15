@@ -75,6 +75,10 @@ En este escenario, surge la necesidad de **soluciones tecnológicas accesibles**
 
 ### 1.2.2 Lean UX Process.
 
+En esta sección se aplica el enfoque Lean UX para alinear el desarrollo del producto con las necesidades reales del negocio y los usuarios. 
+Se define la visión del modelo de negocio que respaldará el software, abarcando elementos clave como los Problem Statements (con información sobre el dominio, segmentos de clientes, puntos de dolor, brechas, visión y estrategia), así como las suposiciones (Assumptions) y las hipótesis (Hypothesis Statements) iniciales. 
+La sección concluye con la elaboración del Lean UX Canvas, herramienta central para guiar el proceso iterativo de diseño enfocado en generar valor desde las primeras etapas.
+
 #### 1.2.2.1. Lean UX Problem Statements.
 
 Actualmente, negocios y hogares enfrentan dificultades para gestionar eficientemente el uso del agua, lo que provoca desperdicios, costos elevados y desabastecimientos inesperados.
@@ -113,9 +117,18 @@ Frente a esta problemática, planteamos la siguiente pregunta:
   Sabremos que esta hipótesis es cierta si observamos una tasa creciente de suscripciones activas en ambos planes y un bajo índice de cancelaciones.
 
 #### 1.2.2.4. Lean UX Canvas.
+
+La imagen representa un Lean UX Canvas del proyecto Qlic, una herramienta estratégica que organiza de forma visual los elementos clave para diseñar una solución centrada en el usuario. El canvas parte del problema central —las pérdidas económicas y riesgos por fugas, evaporación o almacenamiento inadecuado de líquidos en fábricas— y propone una solución basada en sensores IoT, monitoreo en tiempo real, alarmas automáticas y un dashboard personalizable, con beneficios como reducción de pérdidas, mayor seguridad y optimización de la producción.
+
+Se identifican claramente los usuarios directos (operadores y supervisores) e indirectos (gerentes y responsables de seguridad), junto con sus necesidades, hipótesis a validar y los aprendizajes clave para definir el producto. Además, se establecen las acciones mínimas necesarias, como entrevistas, prototipos y simulaciones, para validar la propuesta de manera ágil. En conjunto, este canvas guía el desarrollo de Qlic desde la comprensión del problema hasta la validación y mejora continua de la solución.
+
 ![Lean UX Canvas.png](../../assets/chapter1/Lean%20UX%20Canvas.png)
 
 ## 1.3. Segmentos objetivos.
+
+Qlic es una plataforma enfocada en dos segmentos clave: hogares/familias y pequeñas y medianas empresas (PYMES). Estos grupos son los principales responsables de gestionar y optimizar el uso del agua en sus entornos, ya sea para garantizar el consumo seguro y eficiente en el hogar o para mantener la operación sostenible y rentable de sus negocios.
+
+Por ello, Qlic se centra en brindarles soluciones inteligentes de monitoreo en tiempo real y control automatizado, que facilitan la gestión del agua, reducen desperdicios y mejoran la toma de decisiones, promoviendo así un uso responsable y eficiente del recurso tanto a nivel doméstico como empresarial.
 
 ### Segmento objetivo #1: 
 
