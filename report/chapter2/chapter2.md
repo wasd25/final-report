@@ -291,13 +291,13 @@ El objetivo es entender sus metas, procesos, puntos de fricción, emociones y op
 
 Cada journey map describe el recorrido de principio a fin, desde la detección de una necesidad o problema relacionado con el uso de agua, hasta las acciones que actualmente realiza para resolverlo, identificando las brechas y dificultades que enfrentan en el camino.
 
+- PYMES
+  
+![Usuario PYM.png](../../assests/chapter-2/Usuario%20PYM.png)
+
 - Hogares y familias
 
 ![Usuario Residencial.png](../../assests/chapter-2/Usuario%20Residencial.png)
-
-- PYMES
-
-(aca va la imagen del uxpressia)
 
 #### 2.3.4. Empathy Mapping
 
