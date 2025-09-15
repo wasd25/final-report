@@ -117,6 +117,8 @@ Desarrollar estrategias y tácticas efectivas para enfrentar a nuestros competid
 
 #### 2.2.1. Diseño de entrevistas
 
+A continuación, se presentan las preguntas para las entrevistas para ambos segmentos objetivo.
+
 ### Segmento 1: PYMES (negocios pequeños y medianos)
 
 Preguntas:
@@ -143,6 +145,8 @@ Preguntas:
 
 ---
 #### 2.2.2. Registro de entrevistas
+
+En esta sección se aborda la información recolectada de cada entrevista incluyendo un resumen de las respuestas de los entrevistados.
 
 ## Segmento objetivo #1: PYMES (negocios pequeños y medianos)
 ### Entrevista 1
@@ -246,6 +250,8 @@ Basándonos en las entrevistas, hemos llevado a cabo un análisis en el que dest
 
 ### 2.3. Needfinding
 
+Esta sección presenta los resultados del proceso de análisis de la información recolectada sobre los usuarios y sus necesidades. Se incluyen artefactos clave como las User Personas, que representan perfiles de usuarios típicos; la User Task Matrix, que organiza las tareas según su importancia y frecuencia; los User Journey Maps, que trazan la experiencia del usuario; el Empathy Mapping, que profundiza en sus emociones y motivaciones; y el As-Is Scenario Mapping, que describe cómo los usuarios actualmente enfrentan sus problemas. Estos elementos permiten comprender mejor el contexto del usuario y fundamentar decisiones de diseño centradas en él.
+
 #### 2.3.1. User Personas
 
 En esta sección, se incluyen las fichas de User Personas que representan arquetipos detallados de los segmentos objetivo definidos para nuestro sitio web. Estos arquetipos se han creado a partir de un análisis de las entrevistas que hemos realizado con usuarios reales y un estudio comparativo de la competencia, con el objetivo de capturar las caracterí­sticas, necesidades, y comportamientos de nuestros usuarios.
@@ -295,9 +301,15 @@ Cada journey map describe el recorrido de principio a fin, desde la detección d
   
 ![Usuario PYM.png](../../assests/chapter-2/Usuario%20PYM.png)
 
+Este User Journey Map muestra la experiencia de Jorge Luis Caceres, administrador de una florería, en la adopción de Qlic. Inicia con frustración por la falta de control y visibilidad del consumo de agua, pasa por dudas en la evaluación y configuración, y finaliza con satisfacción al optimizar costos y planificar el riego eficientemente. Los puntos de contacto incluyen Google, la app web y móvil, notificaciones y reportes, reflejando una transición positiva gracias a la facilidad de uso y beneficios tangibles.
+
 - Hogares y familias
 
 ![Usuario Residencial.png](../../assests/chapter-2/Usuario%20Residencial.png)
+
+Este User Journey Map muestra la experiencia de María Fernanda Rojas, usuaria residencial, en la adopción de Qlic para controlar su consumo de agua. Comienza con frustración por la falta de información clara, pasa por indecisión ante múltiples opciones y desafíos en la instalación, y finaliza con satisfacción al optimizar su consumo y reducir gastos.
+
+Los puntos de contacto incluyen redes sociales, la app Qlic, notificaciones y reportes, reflejando una transición emocional positiva impulsada por la facilidad de uso, datos claros y hábitos de consumo más eficientes.
 
 #### 2.3.4. Empathy Mapping
 
@@ -307,17 +319,23 @@ Para los Empathy Mapping, utilizaremos a las User Personas María Fernanda Rojas
 
 ![Maria Fernanda Rojas-Empathy Mapping.png](../../assests/chapter-2/Maria%20Fernanda%20Rojas-Empathy%20Mapping.png)
 
+Este empathy map describe a Maria Fernanda, una usuaria doméstica comprometida con el uso responsable del agua. Se siente frustrada por no poder controlar su consumo de manera efectiva y por recibir facturas elevadas sin entender claramente el origen de los gastos. Escucha consejos de amigos y medios sobre cómo ahorrar agua, y busca activamente dispositivos y aplicaciones que le ayuden a monitorear su consumo. Sin embargo, encuentra fricciones al usar algunas herramientas digitales y siente que la información disponible no siempre es clara. Maria desea soluciones que le permitan ahorrar agua, reducir sus costos y tener tranquilidad al saber que está contribuyendo al cuidado del medio ambiente. Valora especialmente aquellas tecnologías que sean fáciles de usar y que le brinden información precisa y útil.
+
 - Pequeñas y medianas empresas (PYMES)
 
 ![Jorge Luis Caceres - Empathy Mapping.png](../../assests/chapter-2/Jorge%20Luis%20Caceres%20-%20Empathy%20Mapping.png)
 
+Este empathy map describe a Jorge, un Project Manager y Scrum Master que enfrenta constantes desafíos para coordinar equipos y gestionar proyectos con recursos limitados. Se siente frustrado por la falta de visibilidad sobre los puntos críticos del proceso y por no tener control suficiente sobre el uso de recursos. Vive rodeado de sugerencias y recomendaciones de distintas áreas que buscan mejorar la eficiencia, pero la información desorganizada y la dificultad para identificar problemas lo mantienen en un estado de incertidumbre. Jorge busca herramientas que le permitan tomar decisiones más informadas, reducir el desperdicio y aumentar la productividad. Está abierto a soluciones tecnológicas que le ofrezcan claridad, control y eficiencia sin requerir una curva de aprendizaje elevada.
+
 #### 2.3.5. As-is Scenario Mapping
 
-- Hogares y familias
+Para los As-Is Scenario, es una herramienta que nos ayuda a ejemplificar de mejor manera cual es el escenario actual sobre el problema que se intentará resolver, en este caso revisar el estado de las mesas, inventerio de ingredientes, asignar tareas al personal, y al momento de completar dichas tareas, comunicar su estado al supervisor.
+
+- Hogares y familias: El escenario actual refleja las principales dificultades que enfrentan los usuarios residenciales en la gestión de su consumo de agua. El monitoreo se realiza de forma reactiva, ya que solo se revisa el medidor o el recibo una vez que llega, lo que genera incertidumbre y ansiedad por no tener control en tiempo real. La detección de problemas como fugas suele ocurrir tarde, cuando el daño ya está hecho y el gasto elevado. El proceso de reporte es lento y presencial, lo que implica pérdida de tiempo y estrés. Los pagos se realizan en efectivo y fuera del hogar, generando incomodidad y fricción. Finalmente, aunque existe motivación por ahorrar, los usuarios carecen de herramientas claras y accesibles para optimizar su consumo. Este mapeo evidencia la necesidad de soluciones digitales que permitan monitoreo proactivo, comunicación eficiente y gestión automatizada para mejorar la experiencia del usuario y fomentar el uso responsable del recurso.
 
 ![As-Is Scenario Mapping 1.png](../../assests/chapter-2/As-Is%20Scenario%20Mapping%201.png)
 
-- PYMES
+- PYMES: Este mapeo revela cómo los responsables del consumo y gestión de recursos en pequeñas y medianas empresas enfrentan procesos fragmentados, manuales y poco confiables que dificultan la toma de decisiones operativas. El monitoreo del consumo se realiza de forma reactiva, revisando medidores o esperando el recibo, sin una visión integral por áreas. Los problemas como fugas solo se detectan cuando el costo del recibo es elevado, generando estrés y pérdidas en la producción. La comunicación de incidencias se hace por correo o llamada, dependiendo de la urgencia, lo que provoca impaciencia ante respuestas lentas. Los pagos se gestionan manualmente, lo que genera preocupación por errores y recargos. Finalmente, los intentos de optimización se basan en hojas de cálculo con datos incompletos, lo que frustra la identificación de oportunidades de ahorro. Las emociones predominantes son la preocupación, el estrés y la frustración, lo que evidencia una clara oportunidad para implementar soluciones digitales que integren monitoreo, comunicación y análisis en tiempo real.
 
 ![As-Is Scenario Mapping 2.png](../../assests/chapter-2/As-Is%20Scenario%20Mapping%202.png)
 
