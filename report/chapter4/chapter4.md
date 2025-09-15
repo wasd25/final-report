@@ -48,6 +48,8 @@ En esta sección, se presentan las pautas de estilo y diseño que guiarán la cr
 
 ### 4.1.2. Web Style Guidelines
 
+Desarrollaremos una plataforma digital que pueda usarse en cualquier dispositivo tecnológico, manteniendo el mismo diseño y estructura, para eso debemos tener en cuenta las cualidades de cada dispositivo para poder mantener un buen orden y diseño para todos los dispositivos.
+
 **Responsive Design:**
 - La página es completamente adaptable a dispositivos móviles, tablets y desktops
 - Navegación hamburger para dispositivos móviles
@@ -232,6 +234,9 @@ Se emplean etiquetas claras, simples y orientadas al usuario para identificar ca
 - Métricas de confiabilidad y resultados cuantificables
 
 ## 4.3. Landing Page UI Design
+
+En esta sección se presenta la propuesta de diseño de interfaz de usuario para la Landing Page del producto. Se inicia con una introducción donde se explica cómo las decisiones de diseño visual y arquitectura de la información se traducen en una experiencia clara, atractiva y funcional para el usuario. La propuesta busca reflejar la identidad del producto, captar la atención de los visitantes y facilitar la comprensión de su valor desde el primer contacto.
+
 ### 4.3.1. Landing Page Wireframe
 
 El wireframe de la página de inicio de Qlic organiza los elementos clave para 
@@ -268,16 +273,25 @@ clientes, detalles sobre la empresa y un formulario para contactar con el area d
 ## 4.5. Web Applications Prototyping
 
 ## 4.6. Domain-Driven Software Architecture
+
+En esta sección se desarrolla la arquitectura de software basada en el enfoque Domain-Driven Design (DDD), centrada en modelar el dominio del problema con precisión y alineación al negocio. Se identifican los Bounded Contexts, las entidades, agregados, servicios del dominio, repositorios y eventos relevantes, promoviendo una separación clara de responsabilidades. Esta arquitectura permite que el sistema evolucione de forma coherente con las reglas del dominio, facilitando la escalabilidad, el mantenimiento y la colaboración entre equipos técnicos y expertos del negocio.
+
 ### 4.6.1. Design-Level Event Storming
 ### 4.6.2. Software Architecture Context Diagram
+
+En el diagrama de contexto se presenta cómo los usuarios, que incluyen a los hogares/familias y pequeñas o medianas empresas, interactúan tanto con nuestro software.
 
 ![SystemContext.png](../../assests/chapter-4/SystemContext.png)
 
 ### 4.6.3. Software Architecture Container Diagrams
 
+A continuación, se presentará el diagrama de contenedores de nuestro sistema. Este artefacto corresponde al segundo nivel del modelo C4 y ofrece una descripción más detallada de los componentes técnicos, lo que proporciona una visión ampliada de la arquitectura del software.
+
 ![Container.png](../../assests/chapter-4/Container.png)
 
 ### 4.6.4. Software Architecture Components Diagrams
+
+A continuación, se mostrarán los diagramas de componentes para cada Bounded Context, junto con detalles sobre las tecnologías utilizadas e implementaciones específica.
 
 - Profiles Component Diagram
 
@@ -300,11 +314,17 @@ clientes, detalles sobre la empresa y un formulario para contactar con el area d
 ![SubscriptionsComponent.png](../../assests/chapter-4/SubscriptionsComponent.png)
 
 ## 4.7. Software Object-Oriented Design
+
+En esta sección se presenta el diseño orientado a objetos del software, donde se definen las clases, sus responsabilidades y relaciones, siguiendo principios fundamentales como la encapsulación, herencia, abstracción y polimorfismo. El diseño busca garantizar la modularidad, reutilización y mantenibilidad del sistema, apoyándose en patrones de diseño y buenas prácticas de modelado. Se incluyen diagramas (como diagramas de clases) que reflejan la estructura lógica del software y su alineación con los requerimientos funcionales.
+
 ### 4.7.1. Class Diagrams
 
 ![DIagramaClases.png](../../assests/chapter-4/DIagramaClases.png)
 
 ## 4.8. Database Design
+
+En esta sección se presenta el diseño de la base de datos que soporta el funcionamiento del sistema, alineado con los modelos del dominio y los requerimientos funcionales. Se definen las entidades, relaciones, claves primarias y foráneas, así como las restricciones necesarias para garantizar la integridad de los datos. El diseño busca eficiencia, escalabilidad y facilidad de mantenimiento, considerando tanto el modelo lógico como el modelo físico de la base de datos. Se incluyen diagramas (como el modelo entidad-relación) para representar visualmente la estructura y organización de los datos.
+
 ### 4.8.1. Database Diagrams
 
 ![database-model.png](../../assests/chapter-4/database-model.png)
