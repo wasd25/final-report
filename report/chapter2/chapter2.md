@@ -216,7 +216,7 @@ Preguntas:
 - **Sucursales e influenciadores:** Marcas ecofriendly, contenido en Instagram
 - **Tecnologia:** lenovo
 - ***Navegador Preferido:** Opera
-  
+  ![Entrevista 3 - segmento 2.png](../../assests/chapter-2/Entrevista3%20-%20Segmento2.png)
 - **Inicio:**
 - **Duración:** 15 minutos
 - **URL:**   
