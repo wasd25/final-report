@@ -149,6 +149,7 @@ Preguntas:
 En esta sección se aborda la información recolectada de cada entrevista incluyendo un resumen de las respuestas de los entrevistados.
 
 ## Segmento objetivo #1: PYMES (negocios pequeños y medianos)
+
 ### Entrevista 1
 
 - **Nombres y apellidos:** Raul Quintana
@@ -178,9 +179,25 @@ En esta sección se aborda la información recolectada de cada entrevista incluy
 - **Duración:** 15 minutos
 - **URL:**   
 - **Resumen:** El entrevistado administra una florería y mencionó que actualmente controlan el consumo de agua revisando el recibo mensual, sin un medidor por áreas. Han tenido problemas con fugas en mangueras, goteros y riego excesivo por descuidos. Señaló que el agua es uno de los costos principales, especialmente en verano, cuando puede incrementarse hasta en un 25%. Considera muy útil contar con reportes semanales y alertas en tiempo real para detectar fugas. Espera que una aplicación sea simple, fácil de usar por el personal, y que permita separar el consumo por áreas e incluso planificar el riego según el clima. Estaría dispuesto a pagar una suscripción siempre que el costo sea menor al impacto económico de las fugas y desperdicios.
-
 ---
+### Entrevista 3
+
+- **Nombres y apellidos:** Bandit Gustafson  
+- **Edad:** 42  
+- **Distrito:** San Borja  
+- **Dispositivos:** Samsung Galaxy S22, Laptop Lenovo ThinkPad  
+- **Sucursales e influenciadores:** Restaurante de parrillas de ahumados *“Deoxa Parrillas”*, negocio propio; la toma de decisiones depende directamente del entrevistado.  
+- **Tecnología:** Uso básico de medidor físico, facturación mensual de la empresa de agua y laptop para gestión administrativa.  
+- **Navegador preferido:** Chrome
+ ![Entrevista-Pym3.png](../../assests/chapter-2/Entrevista-Pym3.png)
+- **Inicio:**  
+- **Duración:** 12 minutos  
+- **URL:** (no aplica)  
+
+- **Resumen:** El entrevistado, dueño de un restaurante de parrillas, indicó que actualmente no lleva un control riguroso del consumo de agua, limitándose a revisar el recibo mensual. Mencionó un incidente con una fuga de más de 12 horas que incrementó drásticamente sus costos. Revisa el medidor ocasionalmente, una vez por semana o solo cuando percibe algún problema. Considera que el agua es un gasto alto en su ciudad y que afecta significativamente sus costos operativos. Le resultaría útil recibir reportes semanales y especialmente alertas en tiempo real para detectar fugas o consumos inusuales. Prefiere que la aplicación sea simple y fácil de usar, sin complicaciones. Está dispuesto a pagar una suscripción mensual o anual siempre que la solución le ayude a reducir costos de manera efectiva.
+
 ## Segmento objetivo #2: Hogares y familias
+
 ### Entrevista 1
 
 - **Nombres y apellidos:** Piero Tenerio
