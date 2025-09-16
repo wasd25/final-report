@@ -265,11 +265,9 @@ En esta sección se aborda la información recolectada de cada entrevista incluy
 - El **costo del agua**, aunque no siempre es el mayor gasto, se vuelve crítico cuando hay desperdicios.  
 - Están dispuestos a **pagar una suscripción** siempre que el ahorro supere el costo de la solución.  
 
----
-
 ### Hypothesis Statement – Segmento #1
 
-> **"Las PYMES que enfrentan fugas y desperdicios de agua carecen de herramientas de monitoreo automatizado. Una aplicación sencilla que brinde reportes semanales y alertas en tiempo real permitiría reducir costos operativos, optimizar el uso del recurso y garantizar la sostenibilidad del negocio."**
+Las PYMES que enfrentan fugas y desperdicios de agua carecen de herramientas de monitoreo automatizado. Una aplicación sencilla que brinde reportes semanales y alertas en tiempo real permitiría reducir costos operativos, optimizar el uso del recurso y garantizar la sostenibilidad del negocio.
 
 
 ## Hallazgos para el segmento #2: Hogares y Familias
