@@ -148,7 +148,7 @@ La **Landing Page** fue desarrollada usando HTML y CSS, y fue desplegada mediant
 4. Automáticamente, GitHub publicó el sitio web en una URL pública.
 
 **Repositorio:** [https://github.com/wasd25/landing-page](https://github.com/wasd25/landing-page)<br>
-**URL desplegada:** []()
+**URL desplegada:** [https://wasd25.github.io/landing-page/](https://wasd25.github.io/landing-page/)<br>
 
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
@@ -182,11 +182,110 @@ A continuación, se presentará el sprint planning 1 donde se mostrarán las evi
 
 
 #### 5.2.1.3. Sprint Backlog 1
+
+En esta secciones se muestra las tareas que se realizaron en el sprint 1, se adjunta la captura del tablero y el link. Link del tablero:
+
+https://trello.com/invite/b/68b32abbe82181450f7bac82/ATTI10b281445d67389941f4f6ffbdd6e4385B21C1B4/sprint-1
+
+![sprint-backlog-1.png](../assests/chapter-5/sprint-backlog-1.png)
+
+| Id   | Title                         | Id   | Title                        | Description                                                                 | Estimation (Hours) | Assigned To | Status (To-do/In-Process/To-Review/Done) |
+|------|-------------------------------|------|------------------------------|-----------------------------------------------------------------------------|--------------------|-------------|------------------------------------------|
+| US01 | Descripción clara del producto | T01  | Crear sección "¿Qué es Qlic?" | Diseñar e implementar la sección que describe el producto en la landing page | 5                  | Mateo       | Done                                     |
+| US01 | Descripción clara del producto | T02  | Redactar contenido            | Redactar texto claro y conciso sobre Qlic y su propuesta de valor           | 5                  | Mateo       | Done                                     |
+| US02 | Soluciones por segmento       | T03  | Diseñar sección de soluciones | Diseñar UI para mostrar soluciones para residenciales y PYMES                | 3                  | Jafeth      | Done                                     |
+| US02 | Soluciones por segmento       | T04  | Implementar lógica por segmento| Implementar lógica para filtrar soluciones según el segmento seleccionado   | 4                  | Jafeth      | Done                                     |
+| US03 | Monitoreo en Tiempo Real      | T05  | Diseñar panel de monitoreo    | Crear diseño inicial para visualizar datos IoT en tiempo real                | 5                  | Mateo       | Done                                  |
+| US03 | Monitoreo en Tiempo Real      | T06  | Integración de datos IoT      | Conectar datos simulados para mostrar información en el panel                | 5                  | Mateo       | Done                                   |
+| US04 | Seguimiento de presión        | T07  | Crear módulo de presión       | Desarrollar componente para visualizar y registrar datos de presión          | 5                  | Mateo       | Done                                    |
+| US05 | Control de temperatura        | T08  | Crear módulo de temperatura   | Desarrollar componente para mostrar la temperatura en tiempo real            | 5                  | Mateo       | Done                                    |
+| US06 | Gestión de volumen            | T09  | Crear módulo de volumen       | Desarrollar componente para visualizar niveles de volumen                    | 5                  | Mateo       | Done                                    |
+| US07 | Ver y selección de planes     | T10  | Diseñar página de planes      | Crear diseño visual para la sección de planes de suscripción                 | 6                  | Jafeth       | Done                                    |
+| US07 | Ver y selección de planes     | T11  | Implementar lógica de selección| Permitir la selección de un plan desde la interfaz                          | 8                  | Jafeth       | Done                                    |
+| US08 | Ver preguntas frecuentes (FAQ)| T12  | Crear sección FAQ             | Desarrollar sección de preguntas frecuentes con contenido inicial            | 4                  | Jafeth       | Done                                    |
+| US09 | Contactar ventas              | T13  | Implementar formulario contacto| Crear formulario funcional para contacto directo con el equipo de ventas    | 6                  | Jafeth       | Done                                    |
+| US10 | Visualizar información del equipo | T14 | Crear sección "Nuestro equipo" | Diseñar y desarrollar sección con información e imágenes del equipo           | 4                  | Pedro       | Done                                    |
+
 #### 5.2.1.4. Development Evidence for Sprint Review
+
+| Repository        | Branch                | Commit Id                                | Commit Message | Commit Message Body            | Commit on (Date) |
+|-------------------|-----------------------|------------------------------------------|----------------|--------------------------------|------------------|
+| wasd-landing-page | main                  | ad74632a88b42b0b219e8becb6d75586b9745870 | update: landing page finished               | update: landing page finished  | 15/09/2025       |
+| wasd-landing-page | feature/header        | 9bb9fd2bfc10eb985c96349ced1d74977554629f | update(js): header section               | update(js): header section                               | 15/09/2025       |
+| wasd-landing-page | feature/hero          | edd2d9d143b4d9523d778d37ba36b7ee3ece7dd1           | feat: added hero section               | feat: added hero section                               | 15/09/2025       |
+| wasd-landing-page | feature/about-us      | 5ff4976080591571fd12c5eab510965063d5e7bc           | feat(about-us): add structure and styles for the about-us section.               |  feat(about-us): add structure and styles for the about-us section.                              | 15/09/2025       |
+| wasd-landing-page | feature/product       | a9b7aee8c76cc4917b1689770f34c2632a768b2b                   | add: added home section + css for items. on designed branch , waiting for main merge               | add: added home section + css for items. on designed branch , waiting for main merge                               | 15/09/2025       |
+| wasd-landing-page | feature/solutions     | 0f9324142f3145abcbef05385641a39de8a51d2a                | feat: added solutions section               |  feat: added solutions section                              | 15/09/2025       |
+| wasd-landing-page | feature/subscriptions | e88936be85bd1c5b3e00d735e4d1723069d368e7                 | update(js): subscriptions section               | update(js): subscriptions section                               | 15/09/2025       |
+| wasd-landing-page | feature/faq           | 5a34dfccb18eaa743287f794b72e0675096542d2                | feat: added faq section               | feat: added faq section                               | 15/09/2025       |
+| wasd-landing-page | feature/contact-sales | 183a8625ac1eef1bcd085cf5f70945d9e9f9f06a                | update(js): contact-sales section               | update(js): contact-sales section                               | 15/09/2025       |
+| wasd-landing-page | feature/footer        | 757e65a3a7b035b793a2e6b6f1b657fbda341836                                         | update(js): footer section and internationalization               | update(js): footer section and internationalization                               | 15/09/2025       |
+
 #### 5.2.1.5. Execution Evidence for Sprint Review
+
+Después de finalizar el Sprint 1, hemos logrado implementar todas las secciones de nuestra Landing Page, aunque con algunos desperfectos en cuanto a diseño. A continuación, te invitamos a explorar nuestros avances a través de imágenes que muestran el resultado obtenido.
+
+1. Seccion header: Aqui mostramos la barra de navegacion de nuestro sitio web.
+
+![header.png](../assests/chapter-5/header.png)
+
+2. Seccion de monitoreo: Demostramos el monitoreo inteligente de liquidos en hogares y empresas.
+
+![hero.png](../assests/chapter-5/hero.png)
+
+3. Seccion de visibilidad de liquidos: Monitorea tanques y tuberías de líquidos, midiendo volumen, presión y temperatura con paneles claros y alertas configurables.
+
+![production.png](../assests/chapter-5/production.png)
+
+4. Seccion de Nosotros y Equipo de trabajo: Se visualiza el proposito del producto y presenta a los desarrolladores del grupo.
+
+![about-us.png](../assests/chapter-5/about-us.png)
+
+5. Seccion de soluciones: Mostramos las soluciones por cada segmento, en este caso residencias y negocios.
+
+![solutions.png](../assests/chapter-5/solutions.png)
+
+6. Seccion de funcionalidades: Descubre las interesantes funcionalidades de esta empresa.
+
+![features.png](../assests/chapter-5/features.png)
+
+7. Seccion de comentarios de clientes: Historias reales de equipos que usan Qlic para líquidos.
+
+![questions.png](../assests/chapter-5/questions.png)
+
+8. Seccion de subscripcion: Presentamos los planes de subscripcion del producto.
+
+![plans.png](../assests/chapter-5/plans.png)
+
+9. Seccion de preguntas frecuentes: Detallamos algunas dudas antes de que optes en utilizar el producto.
+
+![faq.png](../assests/chapter-5/faq.png)
+
+10. Seccion de contactar: Si necesitas ayuda, no dudes en dejar un mensaje.
+
+![contact-sales.png](../assests/chapter-5/contact-sales.png)
+
+11. Seccion footer: La parte final del sitio web.
+
+![footer.png](../assests/chapter-5/footer.png)
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+**Esta sección no aplica para esta entrega.**
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+Se desplegó la landing page usando el servicio de GitHub Pages. Se configuró para utilizar la rama main como base del proyecto a desplegar.
+
+![deploy.png](../assests/chapter-5/deploy.png)
+
+URL de Landing Page Desplegada: https://wasd25.github.io/landing-page/
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+
+La meta de este sprint fue la implementación de la Landing Page. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, Visual Studio Code, HTML, CSS y JavaScript. Como evidencias del trabajo realizado tenemos los diagramas de flujo que representan los commits realizados por cada miembro del equipo KeepItFresh.
+
+![insigths.png](../assests/chapter-5/insigths.png)
 
 # Conclusiones
 Durante el proceso de creación y desarrollo de este trabajo pudimos llegar a las siguientes conclusiones:
@@ -257,3 +356,4 @@ generando un impacto económico, social y ambiental positivo.
 |--------------|----------------------------------------|----------------------------------------|
 | Reporte      | Enlace al repositorio del reporte      | https://github.com/wasd25/final-report |
 | Landing Page | Enlace al repositorio del Landing Page | https://github.com/wasd25/landing-page |
+| Landing Page | Enlace de Landing Page Desplegada      | https://wasd25.github.io/landing-page/ |
