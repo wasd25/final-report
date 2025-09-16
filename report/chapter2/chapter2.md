@@ -255,6 +255,23 @@ En esta sección se aborda la información recolectada de cada entrevista incluy
 
 ## Hallazgos para el Segmento #1: PYMES (negocios pequeños y medianos)
 
+
+### Hallazgos
+
+- Los entrevistados controlan el consumo de agua de manera **manual**, ya sea revisando recibos o medidores.  
+- Han experimentado problemas con **fugas, riego excesivo o descuidos** que generan sobrecostos.  
+- Consideran útil una **app que brinde reportes semanales y alertas en tiempo real** para detectar fugas.  
+- Valoran la **simplicidad de uso**, de modo que tanto dueños como personal puedan manejarla fácilmente.  
+- El **costo del agua**, aunque no siempre es el mayor gasto, se vuelve crítico cuando hay desperdicios.  
+- Están dispuestos a **pagar una suscripción** siempre que el ahorro supere el costo de la solución.  
+
+---
+
+### Hypothesis Statement – Segmento #1
+
+> **"Las PYMES que enfrentan fugas y desperdicios de agua carecen de herramientas de monitoreo automatizado. Una aplicación sencilla que brinde reportes semanales y alertas en tiempo real permitiría reducir costos operativos, optimizar el uso del recurso y garantizar la sostenibilidad del negocio."**
+
+
 ## Hallazgos para el segmento #2: Hogares y Familias
 
 Basándonos en las entrevistas, hemos llevado a cabo un análisis en el que destacamos los puntos compartidos y tendencias comunes entre los usuarios.
