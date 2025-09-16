@@ -283,7 +283,7 @@ URL de Landing Page Desplegada: https://wasd25.github.io/landing-page/
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
-La meta de este sprint fue la implementación de la Landing Page. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, Visual Studio Code, HTML, CSS y JavaScript. Como evidencias del trabajo realizado tenemos los diagramas de flujo que representan los commits realizados por cada miembro del equipo KeepItFresh.
+La meta de este sprint fue la implementación de la Landing Page. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, Visual Studio Code, HTML, CSS y JavaScript. Como evidencias del trabajo realizado tenemos los diagramas de flujo que representan los commits realizados por cada miembro del equipo WASD.
 
 ![insigths.png](../assests/chapter-5/insigths.png)
 
