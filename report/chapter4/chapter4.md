@@ -18,26 +18,26 @@ En esta sección, se presentan las pautas de estilo y diseño que guiarán la cr
 - Jerarquía tipográfica clara con tamaños contrastantes entre títulos y contenido
 
 **Colores de Marca:**
-- **Primario:** Azul vibrante (#2563eb) – Color principal para navegación, header y elementos destacados
+- **Primario:** Azul vibrante (#0C4AFD) – Color principal para navegación, header y elementos destacados
 - **Secundario:** Azul oscuro – Para elementos de contraste, títulos y texto principal
 - **Accento azul:** Azul medio (#3b82f6) – Para la mayoría de botones CTA como "Get Started", "Choose Plan"
 - **Accento verde:** Verde (#22c55e) – Uso específico para el botón "Send" del formulario de contacto
 - **Neutro oscuro:** Gris oscuro/negro – Para textos principales y títulos de sección
 - **Neutro claro:** Gris medio – Para textos secundarios y descripciones
 - **Fondo:** Gradientes suaves y fondos claros – Para secciones de transición
-- **Fondo principal:** Blanco y gris muy claro – Para contenido general
+- **Fondo principal:** Blanco y verde o celeste muy claro – Para contenido general
 
 **Paleta de Colores:**
 
-| Color | Código Hex | Uso Principal |
-|-------|------------|---------------|
-| Azul Principal | #2563eb | Header, navegación, elementos brand |
-| Azul CTA | #3b82f6 | Botones principales: "Get Started", "Choose Plan", CTAs generales |
-| Verde Específico | #22c55e | Botón "Send" del formulario únicamente |
-| Azul Recomendado | #3b82f6 | Badge "Recommended" en plan Pro |
-| Gris/Negro | #1f2937 | Textos principales y títulos de sección |
-| Gris Medio | #6b7280 | Textos secundarios y descripciones |
-| Fondo Claro | #ffffff/#f8fafc | Fondo general, cards, limpieza visual |
+| Color             | Código Hex        | Uso Principal |
+|-------------------|-------------------|---------------|
+| Azul Principal    | #0C4AFD           | Header, navegación, elementos brand |
+| Azul CTA          | #0C4AFD           | Botones principales: "Get Started", "Choose Plan", CTAs generales |
+| Verde Específico  | #22c55e           | Botón "Send" del formulario únicamente |
+| Azul Recomendado  | #22c55e           | Badge "Recommended" en plan Pro |
+| Gris Oscuro/Negro | #0F0F0F           | Textos principales y títulos de sección |
+| Gris Medio        | #6b7280           | Textos secundarios y descripciones |
+| Fondo Claro       | #ffffff / #E8FFEE | Fondo general, cards, limpieza visual |
 
 **Spacing y Layout:**
 - Espacios amplios entre secciones para evitar saturación
@@ -262,7 +262,8 @@ y una explicación clara de cómo funciona el servicio. También cuenta con test
 clientes, detalles sobre la empresa y un formulario para contactar con el area de ventas
 , todo con un enfoque en facilitar la conversión de visitantes a usuarios activos.
 
-
+![SystemContext.png](../../assests/chapter-4/Mockup_Qlic.png)
+**Figura 2:** Mockup de la Landing Page.
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
@@ -274,7 +275,17 @@ clientes, detalles sobre la empresa y un formulario para contactar con el area d
 
 ## 4.6. Domain-Driven Software Architecture
 
-En esta sección se desarrolla la arquitectura de software basada en el enfoque Domain-Driven Design (DDD), centrada en modelar el dominio del problema con precisión y alineación al negocio. Se identifican los Bounded Contexts, las entidades, agregados, servicios del dominio, repositorios y eventos relevantes, promoviendo una separación clara de responsabilidades. Esta arquitectura permite que el sistema evolucione de forma coherente con las reglas del dominio, facilitando la escalabilidad, el mantenimiento y la colaboración entre equipos técnicos y expertos del negocio.
+En esta sección se desarrolla la arquitectura 
+de software basada en el enfoque Domain-Driven 
+Design (DDD), centrada en modelar el dominio del
+problema con precisión y alineación al negocio. Se 
+identifican los Bounded Contexts, las entidades, agregados, 
+servicios del dominio, repositorios y eventos relevantes,
+promoviendo una separación clara de responsabilidades. 
+Esta arquitectura permite que el sistema evolucione de 
+forma coherente con las reglas del dominio, facilitando 
+la escalabilidad, el mantenimiento y la colaboración entre 
+equipos técnicos y expertos del negocio.
 
 ### 4.6.1. Design-Level Event Storming
 ### 4.6.2. Software Architecture Context Diagram
