@@ -323,10 +323,10 @@ generando un impacto económico, social y ambiental positivo.
 
 ### VIDEOS:
 
-| Título                  | Descripción                                        | Enlace |
-|-------------------------|----------------------------------------------------|--------|
-| Video de exposición TB1 | Video explicativo de los avances de la entrega TB1 |        |
-| Video de entrevistas    | Video recopilatorio de todas las entrevistas       |        |
+| Título                  | Descripción                                        | Enlace                      |
+|-------------------------|----------------------------------------------------|-----------------------------|
+| Video de exposición TB1 | Video explicativo de los avances de la entrega TB1 |                             |
+| Video de entrevistas    | Video recopilatorio de todas las entrevistas       | https://acortar.link/CHjPcJ |
 
 
 
