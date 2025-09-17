@@ -163,7 +163,7 @@ En esta sección se aborda la información recolectada de cada entrevista incluy
 ![Entrevista1-Segmento1.png](../../assests/chapter-2/Entrevista1-Segmento1.png)
 
 - **Duración de la Entrevista** 00:00 - 5:58
-- **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231d149_upc_edu_pe/EUzzGyHVa7ZFgZ1qs6eZk1wB7K4jO4oVXQf9s9nKAlXpyg?e=Yx8eaF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+- **URL:** https://acortar.link/CHjPcJ
 - **Resumen:** El entrevistado señaló que en su empresa textil controlan el consumo de agua de forma manual, leyendo el medidor al inicio y fin de mes. Han tenido problemas con fugas internas y desperdicio en procesos de limpieza y baños. Aunque el agua no es el mayor gasto, sí impacta cuando hay pérdidas. Considera útil una app con alertas semanales y de fácil uso, especialmente para que sus padres también la puedan manejar. Usa iPhone e iPad, con navegador Chrome.
 ---
 ### Entrevista 2
@@ -179,7 +179,7 @@ En esta sección se aborda la información recolectada de cada entrevista incluy
  ![Entrevista2-Segmento1.png](../../assests/chapter-2/Entrevista2-Segmento1.png)
 
 - **Duración de la Entrevista** 5:58 - 11:18
-- **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231d149_upc_edu_pe/EUzzGyHVa7ZFgZ1qs6eZk1wB7K4jO4oVXQf9s9nKAlXpyg?e=Yx8eaF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+- **URL:** https://acortar.link/CHjPcJ
 - **Resumen:** El entrevistado administra una florería y mencionó que actualmente controlan el consumo de agua revisando el recibo mensual, sin un medidor por áreas. Han tenido problemas con fugas en mangueras, goteros y riego excesivo por descuidos. Señaló que el agua es uno de los costos principales, especialmente en verano, cuando puede incrementarse hasta en un 25%. Considera muy útil contar con reportes semanales y alertas en tiempo real para detectar fugas. Espera que una aplicación sea simple, fácil de usar por el personal, y que permita separar el consumo por áreas e incluso planificar el riego según el clima. Estaría dispuesto a pagar una suscripción siempre que el costo sea menor al impacto económico de las fugas y desperdicios.
 ---
 ### Entrevista 3
@@ -195,7 +195,7 @@ En esta sección se aborda la información recolectada de cada entrevista incluy
  ![Entrevista-Pym3.png](../../assests/chapter-2/Entrevista-Pym3.png) 
 
 - **Duración de la Entrevista** 11:18 - 15:00
-- **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231d149_upc_edu_pe/EUzzGyHVa7ZFgZ1qs6eZk1wB7K4jO4oVXQf9s9nKAlXpyg?e=Yx8eaF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D  
+- **URL:** https://acortar.link/CHjPcJ
 
 - **Resumen:** El entrevistado, dueño de un restaurante de parrillas, indicó que actualmente no lleva un control riguroso del consumo de agua, limitándose a revisar el recibo mensual. Mencionó un incidente con una fuga de más de 12 horas que incrementó drásticamente sus costos. Revisa el medidor ocasionalmente, una vez por semana o solo cuando percibe algún problema. Considera que el agua es un gasto alto en su ciudad y que afecta significativamente sus costos operativos. Le resultaría útil recibir reportes semanales y especialmente alertas en tiempo real para detectar fugas o consumos inusuales. Prefiere que la aplicación sea simple y fácil de usar, sin complicaciones. Está dispuesto a pagar una suscripción mensual o anual siempre que la solución le ayude a reducir costos de manera efectiva.
 
@@ -214,7 +214,7 @@ En esta sección se aborda la información recolectada de cada entrevista incluy
  ![Entrevista 1 - segmento2.jpg](../../assests/chapter-2/Entrevista%201%20-%20Segmento2.png)
 
 - **Duración de la Entrevista** 15:00 - 18:17
-- **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231d149_upc_edu_pe/EUzzGyHVa7ZFgZ1qs6eZk1wB7K4jO4oVXQf9s9nKAlXpyg?e=Yx8eaF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
+- **URL:** https://acortar.link/CHjPcJ
 - **Resumen:** El entrevistado comentó que controla el consumo principalmente revisando el recibo mensual. Ha tenido problemas con medidores defectuosos que generaron cobros excesivos. Identifica fugas cuando escucha goteos o nota movimiento en el medidor. Para ahorrar agua, reutiliza la de la lavadora y cierra llaves al cepillarse. Considera muy útil recibir alertas en el celular y estaría dispuesto a usar un plan básico o avanzado según el costo. Resaltó la importancia del ahorro en la economía familiar y espera que la aplicación sea sencilla, con alertas claras y reportes fáciles de entender.
 ---
 ### Entrevista 2
@@ -230,7 +230,7 @@ En esta sección se aborda la información recolectada de cada entrevista incluy
  ![Entrevista 2 - segmento 2.jpg](../../assests/chapter-2/Entrevista%202%20-%20segmento%202.jpg)
 
 - **Duración de la Entrevista** 18:17 - 21:17
-- **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231d149_upc_edu_pe/EUzzGyHVa7ZFgZ1qs6eZk1wB7K4jO4oVXQf9s9nKAlXpyg?e=Yx8eaF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D   
+- **URL:** https://acortar.link/CHjPcJ
 - **Resumen:** El entrevistado revisa ocasionalmente el medidor y promueve duchas cortas y uso responsable en casa. Ha tenido problemas de cobros inesperados y reclamó ante Sedapal. Detecta fugas por manchas de humedad o goteos. Entre sus medidas de ahorro, reutiliza agua de enjuague de ropa y usa recipientes en la cocina. Considera muy útil recibir alertas en el celular y prefiere un plan av
 ---
 ### Entrevista 3
@@ -246,7 +246,7 @@ En esta sección se aborda la información recolectada de cada entrevista incluy
   ![Entrevista 3 - segmento 2.png](../../assests/chapter-2/Entrevista3%20-%20Segmento2.png)
 
 - **Duración de la Entrevista** 21:17 - 25:35
-- **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231d149_upc_edu_pe/EUzzGyHVa7ZFgZ1qs6eZk1wB7K4jO4oVXQf9s9nKAlXpyg?e=Yx8eaF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D   
+- **URL:** https://acortar.link/CHjPcJ
 - **Resumen:** La entrevistada indicó que no lleva un control riguroso del consumo, solo revisa el recibo mensual. Ha enfrentado cobros inusuales por fallas en el medidor. Identifica fugas por goteos o humedad en paredes. Sus medidas de ahorro incluyen cerrar la ducha mientras se enjabona y la llave al cepillar
 ---
 
