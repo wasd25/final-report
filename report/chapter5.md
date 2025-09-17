@@ -98,10 +98,22 @@ En esta sección se definen las convenciones de nombres y codificación adoptada
 - Se utilizan etiquetas semánticas como `<header>`, `<section>`, `<nav>`, `<footer>`, etc.
 - Se incluye `alt` en imágenes y atributos `aria-*` para accesibilidad.
 - Atributos con comillas dobles (`"`).
+- Indentación: 2 espacios.
 
 **CSS**
 - Archivos terminan en `.css`.
+- Los selectores y clases se nombran en minúsculas y guiones medios `.form-container`, `.btn-enviar`.
 - Se agrupan estilos relacionados y se separan con comentarios.
+- Se define una paleta de colores base en variables CSS para mantener consistencia.
+
+#### JavaScript
+
+**JS**
+- Archivos terminan en `.js`.
+- Las variables se escriben en minúsculas con guiones bajos: `datos_usuario`, `correo_valido`.
+- Se evita el uso de var y let, priorizando const para mayor seguridad.
+- Se emplea indentación de 4 espacios para bloques de código.
+- Se prefiere la declaración explícita de funciones en lugar de funciones flecha para mayor legibilidad
 
 Basado en:
 - [Guía de estilo JavaScript de Airbnb](https://github.com/airbnb/javascript)
