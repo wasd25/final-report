@@ -61,6 +61,7 @@ Para el repositorio de Landing Page se crearon las siguientes ramas:
 6. contact-sales
 7. faq
 8. footer
+9. product
 
 #### Estilo de commits: Conventional Commits
 Para asegurar mensajes de commits claros y estandarizados, se seguirá la convención [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/). Algunos ejemplos:
@@ -124,7 +125,7 @@ En esta sección se describe la configuración necesaria para desplegar cada uno
 
 #### Despliegue de Landing Page
 
-La **Landing Page** fue desarrollada usando HTML y CSS, y fue desplegada mediante **GitHub Pages**, un servicio gratuito de hosting para sitios estáticos.
+La **Landing Page** fue desarrollada usando HTML, CSS y JS, y fue desplegada mediante **GitHub Pages**, un servicio gratuito de hosting para sitios estáticos.
 
 **Pasos de despliegue:**
 1. Se creó el repositorio `landing-page` en GitHub.
@@ -136,6 +137,28 @@ La **Landing Page** fue desarrollada usando HTML y CSS, y fue desplegada mediant
 **URL desplegada:** [https://wasd25.github.io/landing-page/](https://wasd25.github.io/landing-page/)<br>
 
 ## 5.2. Landing Page, Services & Applications Implementation
+
+En esta sección se detalla y evidencia la implementación de cada entregable de Qlic.
+
+**Landing page:** La landing page fue realizada de manera grupal y desplegada debidamente con la herramienta GitHub Pages. 
+A continuación las siguientes imágenes sirven de referencia para evidenciar la implementación de la Landing Page.
+
+![landing1.jpg](../assests/chapter-5/landing1.jpg)
+![landing2.jpg](../assests/chapter-5/landing2.jpg)
+![landing3.jpg](../assests/chapter-5/landing3.jpg)
+![landing4.jpg](../assests/chapter-5/landing4.jpg)
+![landing5.jpg](../assests/chapter-5/landing5.jpg)
+![landing6.jpg](../assests/chapter-5/landing6.jpg)
+![landing7.jpg](../assests/chapter-5/landing7.jpg)
+![landing8.jpg](../assests/chapter-5/landing8.jpg)
+![landing9.jpg](../assests/chapter-5/landing9.jpg)
+
+
+
+
+
+
+
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
 
