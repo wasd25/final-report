@@ -286,6 +286,30 @@ SUPPORT WIREFRAME:
 ![supportwireframe.png](../../assests/chapter-4/supportwireframe.png)
 
 ### 4.4.2. Web Applications Wireflow Diagrams
+- **Usergoal 15,16,28** : Alertas de anomalías en consumo, Alertas de fallas IoT, Notificaciones configurables
+![usergoal 15,16,28.png](../../assests/chapter-4/usergoal%2015%2C16%2C28.png)
+
+- **Usergoal 8,9,10,27** : Ver preguntas frecuentes (FAQ), Contactar ventas, Visualizar informacion de los integrantes del equipo, Soporte técnico
+![usergoal 8,9,10,27.png](../../assests/chapter-4/usergoal%208%2C9%2C10%2C27.png)
+
+- **Usergoal 20,21,22,23** : Historial de facturación, Proyección de consumo y costo, Comparación de consumo, Reportes personalizados
+![usergoal 20,21,22,23.png](../../assests/chapter-4/usergoal%2020%2C21%2C22%2C23.png)
+
+- **Usergoal 3,4,5,12,13,17,18,19,26** : Monitoreo en Tiempo Real, Seguimiento de presión, Control de temperatura, Monitoreo por habitación, Detección de patrones de uso, Recomendaciones personalizadas, Consejos de sostenibilidad, Metas de consumo, Integración de dispositivos IoT
+![usergoal3,4,5,12,13,17,18,19,26.png](../../assests/chapter-4/usergoal3%2C4%2C5%2C12%2C13%2C17%2C18%2C19%2C26.png)
+
+- **Usergoal 6** : Gestión de volumen
+![usergoal6creo.png](../../assests/chapter-4/usergoal6creo.png)
+
+- **Usergoal 7,29,30** : Ver y selección de planes de suscripción, Pago con tarjeta de crédito, Pago con billetera digital
+![usergoal7,29,30.png](../../assests/chapter-4/usergoal7%2C29%2C30.png)
+
+- **Usergoal 11** : Acceder a la Web App desde la landing page
+![usergoal11.png](../../assests/chapter-4/usergoal11.png)
+
+- **Usergoal 24,25** : Inventario de agua en tanques, Predicciones de reabastecimiento
+![usergoal24,25.png](../../assests/chapter-4/usergoal24%2C25.png)
+
 ### 4.4.2. Web Applications Mock-ups
 ### 4.4.3. Web Applications User Flow Diagrams
 
