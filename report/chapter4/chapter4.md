@@ -267,6 +267,24 @@ clientes, detalles sobre la empresa y un formulario para contactar con el area d
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
+LOGIN WIREFRAME:
+![loginwireframe.png](../../assests/chapter-4/loginwireframe.png)
+
+REGISTER WIREFRAME:
+![registerwireframe.png](../../assests/chapter-4/registerwireframe.png)
+
+MAIN DASHBOARD WIREFRAME:
+![maindashboardwireframe.png](../../assests/chapter-4/maindashboardwireframe.png)
+
+ALERTS WIREFRAME:
+![alertswireframe.png](../../assests/chapter-4/alertswireframe.png)
+
+INVENTORY & FEATURES WIREFRAME:
+![inventoryfeaturewireframe.png](../../assests/chapter-4/inventoryfeaturewireframe.png)
+
+SUPPORT WIREFRAME:
+![supportwireframe.png](../../assests/chapter-4/supportwireframe.png)
+
 ### 4.4.2. Web Applications Wireflow Diagrams
 ### 4.4.2. Web Applications Mock-ups
 ### 4.4.3. Web Applications User Flow Diagrams
