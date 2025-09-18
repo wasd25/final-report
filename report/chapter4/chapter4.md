@@ -213,7 +213,6 @@ Se emplean etiquetas claras, simples y orientadas al usuario para identificar ca
 
 **Barra de navegación principal:**
 - Navegación horizontal sticky con acceso a todas las secciones
-- Logo clickeable que regresa al inicio
 - Botón "Contact Sales" prominente como CTA principal
 
 **Botones de llamada a la acción (CTA):**
