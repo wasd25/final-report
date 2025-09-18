@@ -153,30 +153,65 @@ A continuación las siguientes imágenes sirven de referencia para evidenciar la
 ![landing8.jpg](../assests/chapter-5/landing8.jpg)
 ![landing9.jpg](../assests/chapter-5/landing9.jpg)
 
-
-
-
-
-
-
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
 
 A continuación, se presentará el sprint planning 1 donde se mostrarán las evidencias de planificación e implementación del landing page.
 
-| Campo                    | Sprint 1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-|--------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Sprint #                 | Sprint 1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| Date                     | 28/08/2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| Time                     | 6:00 PM                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| Location                 | Google Meet                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| Prepared by              | Pedro Andre Guia Carrasco                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| Attendees (to meeting)   | - Ayrton Briceno <br> - Mateo Loechle  <br> - Anyelo Alejos <br> - Jafeth Ynga                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| Sprint 1 Review Summary  | Este fue el primer sprint realizado por el equipo.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| Sprint 1 Retrospective Summary                         | Se acordó implementar una primera versión funcional de la Landing Page del sistema Qlic.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| Sprint 1 Goal                         | Nos enfocamos en implementar la Landing Page de Qlic con una arquitectura sólida basada en HTML, CSS y JavaScript, priorizando la adaptabilidad a distintos dispositivos y una navegación consistente. Creemos que esto permitirá comunicar efectivamente el propósito del sistema, facilitar el acceso a la información clave y sentar las bases técnicas para evoluciones posteriores del proyecto. Creemos que esto permitirá comunicar efectivamente el propósito del sistema, facilitar el acceso a la información clave y sentar las bases técnicas para evoluciones posteriores del proyecto. |
-| Sprint 1 Velocity                         | 8                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Sum of Story Points                        | 8                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+<table>
+<tr>
+    <th colspan="5">Sprint 1</th>
+    <th colspan="9">Sprint 1</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2025-09-18</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">12:08 PM</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Via Zoom</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Guía Carrasco Pedro Andre</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Ayrton Omar Briceño Llanos, Loechle Arias Mateo Ítalo, Guia Carrasco Pedro Andre, Jafeth Worren, Ynga Amado, Anyelo Bill, Alejos Jesus.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 1 Review Summary</td>
+    <td colspan="8">En este primer sprint se asignaron responsabilidades a cada integrante y se planteó los requerimientos para el desarrollo de la Landing Page.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 1 Retrospective Summary</td>
+    <td colspan="8">En esta sección todos los integrantes mencionaron tener aciertos en partes del código y en otras partes poder mejorar sus habilidades realizando la Landing Page</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 1 Goal</td>
+    <td colspan="8">
+Nos centramos en desarrollar y desplegar una landing page que presente información a los usuarios a través de imágenes y datos. Creemos que la página debe ser completamente adaptable a cualquier tipo de dispositivo que utilicen los usuarios. El éxito de este sprint se confirmará cuando garanticemos una experiencia de usuario fluida y responsiva.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 1 Velocity</td>
+    <td colspan="8">
+8</td>
+</tr>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8">
+8</td>
+</tr>
+</table>
 
 #### 5.2.1.2. Aspect Leaders and Collaborators
 
@@ -191,7 +226,7 @@ A continuación, se presentará el sprint planning 1 donde se mostrarán las evi
 
 #### 5.2.1.3. Sprint Backlog 1
 
-En esta secciones se muestra las tareas que se realizaron en el sprint 1, se adjunta la captura del tablero y el link. Link del tablero:
+En esta sección se muestra las tareas que se realizaron en el sprint 1, se adjunta la captura del tablero y el link. Link del tablero:
 
 https://trello.com/invite/b/68b32abbe82181450f7bac82/ATTI10b281445d67389941f4f6ffbdd6e4385B21C1B4/sprint-1
 
