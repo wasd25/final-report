@@ -253,7 +253,7 @@ en el pie de página.
 
 ### 4.3.2. Landing Page Mock-up
 
-El Landing Page Mock-up de Qlic muestra un diseño limpio y organizado, 
+La Landing Page Mock-up de Qlic muestra un diseño limpio y organizado, 
 con una estructura intuitiva que guía a los usuarios a través de la plataforma. 
 Incluye una propuesta de valor destacada en la parte superior, seguida de secciones 
 clave como las funcionalidades clave, los beneficios para empresas y hogares,
@@ -265,7 +265,14 @@ clientes, detalles sobre la empresa y un formulario para contactar con el area d
 **Figura 2:** Mockup de la Landing Page.
 
 ## 4.4. Web Applications UX/UI Design
+En esta sección, se presentan los wireframes y mock-ups de la aplicación web de Qlic. Así como también,
+los wireflow y user flow diagrams. Estos diseños son esenciales para establecer la estructura y funcionalidad de la plataforma, 
+asegurando una experiencia de usuario intuitiva y eficiente.
+
 ### 4.4.1. Web Applications Wireframes
+Los wireframes de la plataforma web Qlic muestran la estructura funcional pensada para ayudar a
+propietarios y gestores a mantener un control eficiente sobre su agua con sensores inteligentes.
+
 LOGIN WIREFRAME:
 ![loginwireframe.png](../../assests/chapter-4/loginwireframe.png)
 
@@ -285,6 +292,7 @@ SUPPORT WIREFRAME:
 ![supportwireframe.png](../../assests/chapter-4/supportwireframe.png)
 
 ### 4.4.2. Web Applications Wireflow Diagrams
+
 - **Usergoal 15,16,28** : Alertas de anomalías en consumo, Alertas de fallas IoT, Notificaciones configurables
 ![usergoal 15,16,28.png](../../assests/chapter-4/usergoal%2015%2C16%2C28.png)
 
