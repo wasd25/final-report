@@ -311,6 +311,31 @@ SUPPORT WIREFRAME:
 ![usergoal24,25.png](../../assests/chapter-4/usergoal24%2C25.png)
 
 ### 4.4.2. Web Applications Mock-ups
+- LOGIN MOCK-UP:
+![loginmockup.png](../../assests/chapter-4/loginmockup.png)
+
+- REGISTER MOCK-UP:
+![registermockup.png](../../assests/chapter-4/registermockup.png)
+
+- MAIN DASHBOARD MOCK-UP:
+![maindashboardmockup.png](../../assests/chapter-4/maindashboardmockup.png)
+
+- ALERTS MOCK-UP:
+![alertasmockup.png](../../assests/chapter-4/alertasmockup.png)
+
+- REPORTS MOCK-UP:
+![reportesmockup.png](../../assests/chapter-4/reportesmockup.png)
+
+- BILLING MOCK-UP:
+![billingmockup.png](../../assests/chapter-4/billingmockup.png)
+
+- INVENTORY & FEATURES MOCK-UP:
+![inventariobusionessmockup.png](../../assests/chapter-4/inventariobusionessmockup.png)
+
+- SUPPORT MOCK-UP:
+![supportmockup.png](../../assests/chapter-4/supportmockup.png)
+
+
 ### 4.4.3. Web Applications User Flow Diagrams
 
 ## 4.5. Web Applications Prototyping
