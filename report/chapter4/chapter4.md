@@ -422,6 +422,14 @@ A continuación, se mostrarán los diagramas de componentes para cada Bounded Co
 
 ![SubscriptionsComponent.png](../../assests/chapter-4/SubscriptionsComponent.png)
 
+- User Water Analytics Component Diagram
+
+![UserWaterAnalytics.png](../../assests/chapter-4/UserWaterAnalytics.png)
+
+- Anomaly Detection Component Diagram
+
+![AnomalyDetection.png](../../assests/chapter-4/AnomalyDetection.png)
+
 ## 4.7. Software Object-Oriented Design
 
 En esta sección se presenta el diseño orientado a objetos del software, donde se definen las clases, sus responsabilidades y relaciones, siguiendo principios fundamentales como la encapsulación, herencia, abstracción y polimorfismo. El diseño busca garantizar la modularidad, reutilización y mantenibilidad del sistema, apoyándose en patrones de diseño y buenas prácticas de modelado. Se incluyen diagramas (como diagramas de clases) que reflejan la estructura lógica del software y su alineación con los requerimientos funcionales.
