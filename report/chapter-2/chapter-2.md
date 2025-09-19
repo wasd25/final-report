@@ -6,101 +6,23 @@ En esta sección, se presenta un análisis de los competidores de Qlic y sus res
 
 ### 2.1.1. Análisis competitivo.
 
-<table>
-  <tr>
-    <th colspan="22">Competitive Analysis Landscape</th>
-  </tr>
-  <tr>
-    <td colspan="1">¿Por qué llevar a cabo el análisis?</td>
-    <td colspan="17">Este análisis se lleva a cabo con la finalidad de poder conocer la competencia y cómo “nombre de la empresa” se diferencia ante esta.</td>
-  </tr>
-  <tr>
-    <td colspan="2"></td>
-    <td><img src="/assets/chapter-2/badger-meter.jpg" alt="badger-meter"><br></td>
-    <td><img src="/assets/chapter-2/itron.jpg" alt="itron"><br></td>
-    <td><img src="/assets/chapter-2/optirtc.jpg" alt="optirtc"><br></td>
-    <td><img src="/assets/chapter-2/qlic.jpg" alt="qlic"><br></td>
-</tr>
-  <tr>
-    <td rowspan="2">Perfil</td>
-    <td>Overview</td>
-    <td>Badger Meter ofrece soluciones inteligentes de gestión del agua a través de su suite BlueEdge™, que combina hardware de medición, comunicación confiable, software de análisis y soporte especializado. Sus tecnologías IoT permiten a los clientes monitorear el consumo en tiempo real, optimizar operaciones, reducir costos y contribuir al uso sostenible del recurso.</td>
-    <td>OptiRTC desarrolla soluciones de control adaptativo de aguas pluviales basadas en IoT, pronósticos climáticos y monitoreo en tiempo real. Su enfoque permite prevenir inundaciones, reducir descargas contaminantes, reutilizar agua y mejorar la resiliencia urbana.</td>
-    <td>Itron transforma la forma en que se gestionan la energía, el agua y los servicios urbanos, ofreciendo soluciones de infraestructura inteligente que integran dispositivos, datos y análisis en el borde de la red. Con décadas de experiencia, busca mejorar la eficiencia, resiliencia y sostenibilidad de ciudades y utilities, impulsando un mundo más inteligente y con mejor uso de los recursos.</td>
-    <td>Qlic es una empresa emergente enfocada en soluciones innovadoras para la gestión eficiente de recursos hídricos. Su propuesta busca combinar tecnología digital y accesible para que locales e instituciones optimicen el uso del agua, reduzcan costos y promuevan la sostenibilidad en sus operaciones diarias.</td>
-</tr>
-  <tr>
-  <td>Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
-    <td>Ofrece medición inteligente y análisis en tiempo real que permiten optimizar el consumo de agua y reducir costos operativos.</td>
-    <td>Brinda control adaptativo de aguas pluviales con IoT y pronósticos climáticos para prevenir inundaciones y reutilizar el agua de manera eficiente.</td>
-    <td>Integra energía, agua y servicios urbanos con infraestructura inteligente que aumenta la eficiencia, resiliencia y sostenibilidad de las ciudades.</td>
-    <td>Propone soluciones digitales accesibles que ayudan a locales e institutos a gestionar el agua de forma eficiente y sostenible por medio de dispositivos IoT.</td>
-    </tr>
-<tr>
-    <td rowspan="2">Perfil de Marketing</td>
-    <td>Mercado Objetivo</td>
-    <td>Su mercado objetivo son utilities de agua, municipios e industrias que requieren monitoreo inteligente del consumo y soluciones IoT para optimizar costos y eficiencia.</td>
-    <td>Está enfocado en ciudades, gobiernos locales y organizaciones ambientales que necesitan gestionar aguas pluviales, reducir inundaciones y cumplir con regulaciones ambientales.</td>
-    <td>Su mercado son utilities de energía y agua, además de ciudades inteligentes, buscando modernizar servicios urbanos con infraestructura conectada y sostenible.</td>
-    <td>Apunta a instituciones y locales que necesitan herramientas digitales accesibles para mejorar la gestión del agua y reducir costos en su consumo diario.</td>
-  </tr>
-  <tr>
-  <td>Estrategias de Marketing</td>
-    <td>Publicidad especializada en medios del sector, participación en ferias de agua y energía, posicionamiento en buscadores y generación de informes técnicos para demostrar resultados.</td>
-    <td>Campañas educativas sobre resiliencia urbana, estudios de caso con ciudades, posicionamiento en buscadores y presencia en conferencias ambientales y de infraestructura.</td>
-    <td>Marketing basado en innovación y sostenibilidad, Google Ads y posicionamiento en buscadores, fuerte presencia en eventos internacionales de smart cities y empresas de servicios públicos, además de alianzas estratégicas.</td>
-    <td>Uso activo de redes sociales, landing pages con enfoque en ahorro de costos, posicionamiento en buscadores y campañas digitales dirigidas a comunidades y organizaciones locales.</td>
-    </tr>
-<tr>
-    <td rowspan="3">Perfil de Producto</td>
-    <td>Productos y Servicios</td>
-    <td>Software de control adaptativo de aguas pluviales. Monitoreo en tiempo real con IoT. Gestión de infraestructuras urbanas para reutilización y reducción de riesgos de inundación.</td>
-    <td>Campañas educativas sobre resiliencia urbana, estudios de caso con ciudades, posicionamiento en buscadores y presencia en conferencias ambientales y de infraestructura.</td>
-    <td>Infraestructura inteligente para agua, energía y servicios urbanos. Sensores y dispositivos conectados. Plataformas de análisis de datos con edge intelligence.</td>
-    <td>Aplicación digital para gestión del consumo de agua. Herramientas accesibles de monitoreo y reducción de costos</td>
-  </tr>
-  <tr>
-  <td>Precios y Costos</td>
-    <td>Venta de hardware de medición y comunicación IoT. Costos adicionales por implementación y mantenimiento. Modelos de servicio ligados a su plataforma BlueEdge™.</td>
-    <td>Modelo de software como servicio con planes de suscripción según tamaño del sistema y necesidades de la ciudad.</td>
-    <td>Venta de dispositivos de infraestructura inteligente y soluciones integradas. Contratos a gran escala con empresas de servicios públicos, con costos de implementación y soporte.</td>
-    <td>Modelo de software como servicio con planes mensuales o anuales accesibles.</td>
-    </tr>
-<td>Canales de distribución (Web y/o Móvil)</td>
-    <td>Plataforma web y aplicaciones móviles ligadas a su sistema de monitoreo.</td>
-    <td>Plataforma web de gestión en la nube, accesible desde navegadores y dispositivos móviles.</td>
-    <td>Plataforma web con integración móvil para monitoreo y gestión en tiempo real.</td>
-    <td>Aplicación web y móvil para la gestión y visualización de datos.</td>
-<tr>
-    <td rowspan="4">Análisis SWOT</td>
-    <td>Fortalezas</td>
-    <td>Amplia trayectoria y confianza en el mercado, soluciones integradas con hardware, software y soporte.</td>
-    <td>Especialización en infraestructura pluvial inteligente con tecnología predictiva.</td>
-    <td>Escala global, portafolio diversificado en energía, agua y ciudades inteligentes.</td>
-    <td>Enfoque en simplicidad y accesibilidad, soluciones digitales intuitivas para gestión del agua.</td>
-  </tr>
-  <tr>
-  <td>Debilidades</td>
-    <td>Altos costos de implementación inicial.</td>
-    <td>Mercado muy nicho y limitado a gestión de tormentas.</td>
-    <td>Complejidad en la integración de sus múltiples servicios.</td>
-    <td>Startup en etapa temprana con recursos limitados frente a grandes competidores.</td>
-    </tr>
-  <tr>
-<td>Oportunidades</td>
-    <td>Creciente demanda por gestión inteligente del agua y sostenibilidad.</td>
-    <td>Mayor inversión en infraestructura resiliente frente al cambio climático.</td>
-    <td>Crecimiento del mercado de smart cities y digitalización de utilities.</td>
-    <td>Conciencia creciente sobre ahorro de costos y sostenibilidad hídrica en negocios.</td>
-</tr>
-  <tr>
-<td>Amenazas</td>
-    <td>Competencia de nuevas startups con soluciones más accesibles.</td>
-    <td>Regulaciones cambiantes y presión por diversificación de servicios.</td>
-    <td>Competidores más especializados en sectores concretos.</td>
-    <td>Entrada de empresas consolidadas con productos similares.</td>
-</tr>
-</table>
+# Competitive Analysis Landscape
+
+| Categoría / Empresa | Badger Meter | OptiRTC | Itron | Qlic |
+|---------------------|--------------|---------|-------|------|
+|  | ![Badger Meter](/assets/chapter-2/badger-meter.jpg) | ![OptiRTC](/assets/chapter-2/optirtc.jpg) | ![Itron](/assets/chapter-2/itron.jpg) | ![Qlic](/assets/chapter-2/qlic.jpg) |
+| **Overview** | Ofrece soluciones inteligentes de gestión del agua a través de su suite **BlueEdge™**, que combina hardware de medición, comunicación confiable, software de análisis y soporte especializado. Permite monitorear el consumo en tiempo real, optimizar operaciones y reducir costos promoviendo la sostenibilidad. | Desarrolla soluciones de control adaptativo de aguas pluviales basadas en IoT, pronósticos climáticos y monitoreo en tiempo real. Ayuda a prevenir inundaciones, reducir descargas contaminantes, reutilizar agua y mejorar la resiliencia urbana. | Transforma la gestión de energía, agua y servicios urbanos con soluciones de infraestructura inteligente que integran dispositivos, datos y análisis. Busca mejorar la eficiencia y sostenibilidad de ciudades y utilities. | Empresa emergente que ofrece soluciones innovadoras para la gestión eficiente de recursos hídricos mediante tecnología digital accesible, ayudando a locales e instituciones a optimizar el uso del agua y reducir costos. |
+| **Ventaja Competitiva** | Medición inteligente y análisis en tiempo real para optimizar consumo de agua y reducir costos operativos. | Control adaptativo de aguas pluviales con IoT y pronósticos climáticos para prevenir inundaciones y reutilizar agua de forma eficiente. | Integración de energía, agua y servicios urbanos mediante infraestructura inteligente que aumenta la eficiencia y sostenibilidad. | Soluciones digitales accesibles para gestionar el agua de forma eficiente y sostenible mediante dispositivos IoT. |
+| **Mercado Objetivo** | Utilities de agua, municipios e industrias que requieren monitoreo inteligente y soluciones IoT para optimizar costos y eficiencia. | Ciudades, gobiernos locales y organizaciones ambientales que necesitan gestionar aguas pluviales y reducir inundaciones. | Utilities de energía y agua, además de ciudades inteligentes que buscan modernizar servicios urbanos. | Instituciones y locales que necesitan herramientas digitales accesibles para mejorar la gestión del agua y reducir costos. |
+| **Estrategias de Marketing** | Publicidad en medios especializados, participación en ferias de agua y energía, SEO y generación de informes técnicos. | Campañas educativas sobre resiliencia urbana, casos de estudio con ciudades, SEO y presencia en conferencias ambientales. | Marketing basado en innovación y sostenibilidad, Google Ads, SEO, eventos internacionales de smart cities y alianzas estratégicas. | Uso activo de redes sociales, landing pages enfocadas en ahorro de costos, SEO y campañas digitales dirigidas a comunidades locales. |
+| **Productos y Servicios** | Software de control adaptativo de aguas pluviales, monitoreo en tiempo real con IoT, gestión de infraestructuras urbanas para reutilización y reducción de riesgos de inundación. | Campañas educativas, estudios de caso con ciudades, posicionamiento en buscadores y conferencias ambientales. | Infraestructura inteligente para agua, energía y servicios urbanos, sensores conectados y plataformas de análisis con edge intelligence. | Aplicación digital para gestión del consumo de agua, herramientas accesibles de monitoreo y reducción de costos. |
+| **Precios y Costos** | Venta de hardware IoT, costos de implementación y mantenimiento, servicios ligados a BlueEdge™. | Modelo de software como servicio con planes de suscripción según tamaño y necesidades. | Venta de dispositivos e infraestructura inteligente, contratos a gran escala con costos de implementación y soporte. | SaaS con planes mensuales o anuales accesibles. |
+| **Canales de Distribución** | Plataforma web y apps móviles integradas con su sistema de monitoreo. | Plataforma web en la nube accesible desde navegadores y móviles. | Plataforma web con integración móvil para monitoreo y gestión en tiempo real. | Aplicación web y móvil para gestión y visualización de datos. |
+| **Fortalezas (SWOT)** | Trayectoria y confianza en el mercado, soluciones integradas de hardware, software y soporte. | Especialización en infraestructura pluvial inteligente con tecnología predictiva. | Escala global y portafolio diversificado en energía, agua y smart cities. | Simplicidad y accesibilidad en soluciones digitales para gestión del agua. |
+| **Debilidades (SWOT)** | Altos costos de implementación inicial. | Mercado nicho y limitado a gestión de tormentas. | Complejidad en la integración de múltiples servicios. | Startup en etapa temprana con recursos limitados frente a competidores. |
+| **Oportunidades (SWOT)** | Mayor demanda de gestión inteligente del agua y sostenibilidad. | Aumento de inversión en infraestructura resiliente frente al cambio climático. | Crecimiento de smart cities y digitalización de utilities. | Conciencia creciente sobre ahorro de costos y sostenibilidad hídrica en negocios. |
+| **Amenazas (SWOT)** | Competencia de nuevas startups con soluciones más accesibles. | Regulaciones cambiantes y presión por diversificación de servicios. | Competidores más especializados en sectores concretos. | Entrada de empresas consolidadas con productos similares. |
+
 
 #### 2.1.2. Estrategias y tácticas frente a competidores
 
