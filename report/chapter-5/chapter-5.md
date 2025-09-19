@@ -143,15 +143,15 @@ En esta sección se detalla y evidencia la implementación de cada entregable de
 **Landing page:** La landing page fue realizada de manera grupal y desplegada debidamente con la herramienta GitHub Pages.
 A continuación las siguientes imágenes sirven de referencia para evidenciar la implementación de la Landing Page.
 
-![landing1.jpg](../assests/chapter-5/landing1.jpg)
-![landing2.jpg](../assests/chapter-5/landing2.jpg)
-![landing3.jpg](../assests/chapter-5/landing3.jpg)
-![landing4.jpg](../assests/chapter-5/landing4.jpg)
-![landing5.jpg](../assests/chapter-5/landing5.jpg)
-![landing6.jpg](../assests/chapter-5/landing6.jpg)
-![landing7.jpg](../assests/chapter-5/landing7.jpg)
-![landing8.jpg](../assests/chapter-5/landing8.jpg)
-![landing9.jpg](../assests/chapter-5/landing9.jpg)
+![landing1.jpg](../../assets/chapter-5/landing1.jpg)
+![landing2.jpg](../../assets/chapter-5/landing2.jpg)
+![landing3.jpg](../../assets/chapter-5/landing3.jpg)
+![landing4.jpg](../../assets/chapter-5/landing4.jpg)
+![landing5.jpg](../../assets/chapter-5/landing5.jpg)
+![landing6.jpg](../../assets/chapter-5/landing6.jpg)
+![landing7.jpg](../../assets/chapter-5/landing7.jpg)
+![landing8.jpg](../../assets/chapter-5/landing8.jpg)
+![landing9.jpg](../../assets/chapter-5/landing9.jpg)
 
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
@@ -230,7 +230,7 @@ En esta sección se muestra las tareas que se realizaron en el sprint 1, se adju
 
 https://trello.com/invite/b/68b32abbe82181450f7bac82/ATTI10b281445d67389941f4f6ffbdd6e4385B21C1B4/sprint-1
 
-![sprint-backlog-1.png](../assests/chapter-5/sprint-backlog-1.png)
+![trello.jpg](../../assets/chapter-5/trello.jpg)
 
 | Id   | Title                         | Id   | Title                        | Description                                                                 | Estimation (Hours) | Assigned To | Status (To-do/In-Process/To-Review/Done) |
 |------|-------------------------------|------|------------------------------|-----------------------------------------------------------------------------|--------------------|-------------|------------------------------------------|
@@ -270,47 +270,47 @@ Después de finalizar el Sprint 1, hemos logrado implementar todas las secciones
 
 1. Seccion header: Aqui mostramos la barra de navegacion de nuestro sitio web.
 
-![header.png](../assests/chapter-5/header.png)
+![header.png](../../assets/chapter-5/header.png)
 
 2. Seccion de monitoreo: Demostramos el monitoreo inteligente de liquidos en hogares y empresas.
 
-![hero.png](../assests/chapter-5/hero.png)
+![hero.png](../../assets/chapter-5/hero.png)
 
 3. Seccion de visibilidad de liquidos: Monitorea tanques y tuberías de líquidos, midiendo volumen, presión y temperatura con paneles claros y alertas configurables.
 
-![production.png](../assests/chapter-5/production.png)
+![production.png](../../assets/chapter-5/production.png)
 
 4. Seccion de Nosotros y Equipo de trabajo: Se visualiza el proposito del producto y presenta a los desarrolladores del grupo.
 
-![about-us.png](../assests/chapter-5/about-us.png)
+![about-us.png](../../assets/chapter-5/about-us.png)
 
 5. Seccion de soluciones: Mostramos las soluciones por cada segmento, en este caso residencias y negocios.
 
-![solutions.png](../assests/chapter-5/solutions.png)
+![solutions.png](../../assets/chapter-5/solutions.png)
 
 6. Seccion de funcionalidades: Descubre las interesantes funcionalidades de esta empresa.
 
-![features.png](../assests/chapter-5/features.png)
+![features.png](../../assets/chapter-5/features.png)
 
 7. Seccion de comentarios de clientes: Historias reales de equipos que usan Qlic para líquidos.
 
-![questions.png](../assests/chapter-5/questions.png)
+![questions.png](../../assets/chapter-5/questions.png)
 
 8. Seccion de subscripcion: Presentamos los planes de subscripcion del producto.
 
-![plans.png](../assests/chapter-5/plans.png)
+![plans.png](../../assets/chapter-5/plans.png)
 
 9. Seccion de preguntas frecuentes: Detallamos algunas dudas antes de que optes en utilizar el producto.
 
-![faq.png](../assests/chapter-5/faq.png)
+![faq.png](../../assets/chapter-5/faq.png)
 
 10. Seccion de contactar: Si necesitas ayuda, no dudes en dejar un mensaje.
 
-![contact-sales.png](../assests/chapter-5/contact-sales.png)
+![contact-sales.png](../../assets/chapter-5/contact-sales.png)
 
 11. Seccion footer: La parte final del sitio web.
 
-![footer.png](../assests/chapter-5/footer.png)
+![footer.png](../../assets/chapter-5/footer.png)
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -320,7 +320,7 @@ Después de finalizar el Sprint 1, hemos logrado implementar todas las secciones
 
 Se desplegó la landing page usando el servicio de GitHub Pages. Se configuró para utilizar la rama main como base del proyecto a desplegar.
 
-![deploy.png](../assests/chapter-5/deploy.png)
+![deploy.png](../../assets/chapter-5/deploy.png)
 
 URL de Landing Page Desplegada: https://wasd25.github.io/landing-page/
 
@@ -328,7 +328,7 @@ URL de Landing Page Desplegada: https://wasd25.github.io/landing-page/
 
 La meta de este sprint fue la implementación de la Landing Page. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, Visual Studio Code, HTML, CSS y JavaScript. Como evidencias del trabajo realizado tenemos los diagramas de flujo que representan los commits realizados por cada miembro del equipo WASD.
 
-![insigths.png](../assests/chapter-5/insigths.png)
+![insigths.png](../../assets/chapter-5/insigths.png)
 
 # Conclusiones
 Durante el proceso de creación y desarrollo de este trabajo pudimos llegar a las siguientes conclusiones:

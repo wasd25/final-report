@@ -68,7 +68,7 @@ Ciclo 2025-20
 #### Repositorio del informe del proyecto
 El informe del proyecto se encuentra alojado en el siguiente repositorio de la organización de GitHub del equipo:
 
-🔗 Enlace del repositorio: https://github.com/wasd25/final-report
+🔗 Enlace del repositorio: https://github.com/wasd25
 
 A continuación, se detallan las actividades realizadas en cada entrega, la participación de los miembros del equipo, y las evidencias correspondientes.
 
