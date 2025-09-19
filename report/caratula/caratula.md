@@ -76,7 +76,7 @@ A continuación, se detallan las actividades realizadas en cada entrega, la part
 Para la primera entrega (TB1) se trabajó en la estructura inicial del informe, definiendo el índice y distribuyendo las secciones entre los miembros.
 
 ##### Evidencia de colaboración
-(IMAGEN CON INSIGHTS)
+![insights reporte.png](../../assets/chapter-1/insights%20reporte.png)
 
 # Contenido
 
