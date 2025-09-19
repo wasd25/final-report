@@ -391,12 +391,12 @@ generando un impacto económico, social y ambiental positivo.
 ### UX/UI
 | Título | Descripción                                                                                                | Enlace                       |
 |--------|------------------------------------------------------------------------------------------------------------|------------------------------|
-| Figma  | Enlace hacia el documento de Figma con todos los diseños planteados para tanto Frontend como Landing Page. | https://acortar.link/4gd758  | 
+| Figma  | Enlace hacia el documento de Figma con todos los diseños planteados para tanto Frontend como Landing Page. | https://acortar.link/aGZMSk  | 
 
 ### GITHUB
 
-| Título       | Descripción                            | Enlace                                 |
-|--------------|----------------------------------------|----------------------------------------|
-| Reporte      | Enlace al repositorio del reporte      | https://github.com/wasd25/final-report |
-| Landing Page | Enlace al repositorio del Landing Page | https://github.com/wasd25/landing-page |
-| Landing Page | Enlace de Landing Page Desplegada      | https://wasd25.github.io/landing-page/ |
+| Título                  | Descripción                            | Enlace                                 |
+|-------------------------|----------------------------------------|----------------------------------------|
+| Reporte                 | Enlace al repositorio del reporte      | https://github.com/wasd25/final-report |
+| Landing Page            | Enlace al repositorio del Landing Page | https://github.com/wasd25/landing-page |
+| Landing Page Desplegada | Enlace de Landing Page Desplegada      | https://wasd25.github.io/landing-page/ |
