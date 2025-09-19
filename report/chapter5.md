@@ -343,7 +343,7 @@ Una adecuada planificación y organización fueron clave para el cumplimiento de
 La metodología empleada (como Agile o SCRUM) facilitó la gestión de tareas, la priorización de funcionalidades y la entrega 
 de resultados en los tiempos establecidos, asegurando un producto de calidad.
 
-### 3. Tecnología y herramientas aplicadas a las realidad
+### 3. Tecnología y herramientas aplicadas a la realidad
 El uso de tecnologías modernas y herramientas innovadoras permitió desarrollar una solución alineada con las necesidades 
 reales del sector. La integración de frameworks ágiles, bases de datos eficientes y sistemas en la nube garantizó un producto
 escalable, seguro y adaptable al contexto peruano.
