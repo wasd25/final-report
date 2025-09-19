@@ -371,6 +371,25 @@ SUPPORT WIREFRAME:
 
 ## 4.5. Web Applications Prototyping
 
+En esta sección, se presentan los prototipos de la aplicación web de Qlic. 
+Estos prototipos son representaciones interactivas que permiten a los usuarios explorar y experimentar con 
+la interfaz antes de su desarrollo final. Proporcionan una visión clara de la navegación, la disposición de 
+los elementos y la funcionalidad general de la aplicación.
+
+Punto de entrada: El flujo comienza con wireframes de registro Sign Up y LogIn, 
+estableciendo el sistema de autenticación como puerta de entrada. Se observa una estructura que combina:
+
+Módulos principales:
+
+Alertas - Gestión de alertas del sistema.
+Dashboard - Vista general y métricas.
+Reportes - Reporte analitico de uso del agua.
+Pagos - Gestión de pagos del usuario.
+Inventario - Gestión de tanques de agua.
+Soporte - Soporte técnico de la app.
+
+
+
 ## 4.6. Domain-Driven Software Architecture
 
 En esta sección se desarrolla la arquitectura 
