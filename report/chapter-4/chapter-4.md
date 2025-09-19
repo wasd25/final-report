@@ -388,6 +388,10 @@ Pagos - Gestión de pagos del usuario.
 Inventario - Gestión de tanques de agua.
 Soporte - Soporte técnico de la app.
 
+![prototype.png](../../assets/chapter-4/prototype.png)
+
+Link de video Web Prototyping: https://acortar.link/MoZW8o
+
 
 
 ## 4.6. Domain-Driven Software Architecture
