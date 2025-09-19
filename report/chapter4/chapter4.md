@@ -18,26 +18,26 @@ En esta sección, se presentan las pautas de estilo y diseño que guiarán la cr
 - Jerarquía tipográfica clara con tamaños contrastantes entre títulos y contenido
 
 **Colores de Marca:**
-- **Primario:** Azul vibrante (#2563eb) – Color principal para navegación, header y elementos destacados
+- **Primario:** Azul vibrante (#0C4AFD) – Color principal para navegación, header y elementos destacados
 - **Secundario:** Azul oscuro – Para elementos de contraste, títulos y texto principal
 - **Accento azul:** Azul medio (#3b82f6) – Para la mayoría de botones CTA como "Get Started", "Choose Plan"
 - **Accento verde:** Verde (#22c55e) – Uso específico para el botón "Send" del formulario de contacto
 - **Neutro oscuro:** Gris oscuro/negro – Para textos principales y títulos de sección
 - **Neutro claro:** Gris medio – Para textos secundarios y descripciones
 - **Fondo:** Gradientes suaves y fondos claros – Para secciones de transición
-- **Fondo principal:** Blanco y gris muy claro – Para contenido general
+- **Fondo principal:** Blanco y verde o celeste muy claro – Para contenido general
 
 **Paleta de Colores:**
 
-| Color | Código Hex | Uso Principal |
-|-------|------------|---------------|
-| Azul Principal | #2563eb | Header, navegación, elementos brand |
-| Azul CTA | #3b82f6 | Botones principales: "Get Started", "Choose Plan", CTAs generales |
-| Verde Específico | #22c55e | Botón "Send" del formulario únicamente |
-| Azul Recomendado | #3b82f6 | Badge "Recommended" en plan Pro |
-| Gris/Negro | #1f2937 | Textos principales y títulos de sección |
-| Gris Medio | #6b7280 | Textos secundarios y descripciones |
-| Fondo Claro | #ffffff/#f8fafc | Fondo general, cards, limpieza visual |
+| Color             | Código Hex        | Uso Principal |
+|-------------------|-------------------|---------------|
+| Azul Principal    | #0C4AFD           | Header, navegación, elementos brand |
+| Azul CTA          | #0C4AFD           | Botones principales: "Get Started", "Choose Plan", CTAs generales |
+| Verde Específico  | #22c55e           | Botón "Send" del formulario únicamente |
+| Azul Recomendado  | #22c55e           | Badge "Recommended" en plan Pro |
+| Gris Oscuro/Negro | #0F0F0F           | Textos principales y títulos de sección |
+| Gris Medio        | #6b7280           | Textos secundarios y descripciones |
+| Fondo Claro       | #ffffff / #E8FFEE | Fondo general, cards, limpieza visual |
 
 **Spacing y Layout:**
 - Espacios amplios entre secciones para evitar saturación
@@ -47,6 +47,8 @@ En esta sección, se presentan las pautas de estilo y diseño que guiarán la cr
 - Layout centrado con máximo ancho para legibilidad óptima
 
 ### 4.1.2. Web Style Guidelines
+
+Desarrollaremos una plataforma digital que pueda usarse en cualquier dispositivo tecnológico, manteniendo el mismo diseño y estructura, para eso debemos tener en cuenta las cualidades de cada dispositivo para poder mantener un buen orden y diseño para todos los dispositivos.
 
 **Responsive Design:**
 - La página es completamente adaptable a dispositivos móviles, tablets y desktops
@@ -211,7 +213,6 @@ Se emplean etiquetas claras, simples y orientadas al usuario para identificar ca
 
 **Barra de navegación principal:**
 - Navegación horizontal sticky con acceso a todas las secciones
-- Logo clickeable que regresa al inicio
 - Botón "Contact Sales" prominente como CTA principal
 
 **Botones de llamada a la acción (CTA):**
@@ -232,6 +233,9 @@ Se emplean etiquetas claras, simples y orientadas al usuario para identificar ca
 - Métricas de confiabilidad y resultados cuantificables
 
 ## 4.3. Landing Page UI Design
+
+En esta sección se presenta la propuesta de diseño de interfaz de usuario para la Landing Page del producto. Se inicia con una introducción donde se explica cómo las decisiones de diseño visual y arquitectura de la información se traducen en una experiencia clara, atractiva y funcional para el usuario. La propuesta busca reflejar la identidad del producto, captar la atención de los visitantes y facilitar la comprensión de su valor desde el primer contacto.
+
 ### 4.3.1. Landing Page Wireframe
 
 El wireframe de la página de inicio de Qlic organiza los elementos clave para 
@@ -244,28 +248,178 @@ suscripciones, testimonios de usuarios y otras pantallas informativas
 usuarios se puedan contactar con nosotros, junto con enlaces legales 
 en el pie de página.
 
+![SystemContext.png](../../assests/chapter-4/Wireframe_Qlic.png)
+**Figura 1:** Wireframe de la Landing Page.
+
 ### 4.3.2. Landing Page Mock-up
 
+La Landing Page Mock-up de Qlic muestra un diseño limpio y organizado, 
+con una estructura intuitiva que guía a los usuarios a través de la plataforma. 
+Incluye una propuesta de valor destacada en la parte superior, seguida de secciones 
+clave como las funcionalidades clave, los beneficios para empresas y hogares,
+y una explicación clara de cómo funciona el servicio. También cuenta con testimonios de
+clientes, detalles sobre la empresa y un formulario para contactar con el area de ventas
+, todo con un enfoque en facilitar la conversión de visitantes a usuarios activos.
+
+![SystemContext.png](../../assests/chapter-4/Mockup_Qlic.png)
+**Figura 2:** Mockup de la Landing Page.
 
 ## 4.4. Web Applications UX/UI Design
+En esta sección, se presentan los wireframes y mock-ups de la aplicación web de Qlic. Así como también,
+los wireflow y user flow diagrams. Estos diseños son esenciales para establecer la estructura y funcionalidad de la plataforma, 
+asegurando una experiencia de usuario intuitiva y eficiente.
+
 ### 4.4.1. Web Applications Wireframes
+Los wireframes de la plataforma web Qlic muestran la estructura funcional pensada para ayudar a
+propietarios y gestores a mantener un control eficiente sobre su agua con sensores inteligentes.
+
+LOGIN WIREFRAME:
+![loginwireframe.png](../../assests/chapter-4/loginwireframe.png)
+
+REGISTER WIREFRAME:
+![registerwireframe.png](../../assests/chapter-4/registerwireframe.png)
+
+MAIN DASHBOARD WIREFRAME:
+![maindashboardwireframe.png](../../assests/chapter-4/maindashboardwireframe.png)
+
+ALERTS WIREFRAME:
+![alertswireframe.png](../../assests/chapter-4/alertswireframe.png)
+
+INVENTORY & FEATURES WIREFRAME:
+![inventoryfeaturewireframe.png](../../assests/chapter-4/inventoryfeaturewireframe.png)
+
+SUPPORT WIREFRAME:
+![supportwireframe.png](../../assests/chapter-4/supportwireframe.png)
+
 ### 4.4.2. Web Applications Wireflow Diagrams
+
+- **Usergoal 15,16,28** : Alertas de anomalías en consumo, Alertas de fallas IoT, Notificaciones configurables
+![usergoal 15,16,28.png](../../assests/chapter-4/usergoal%2015%2C16%2C28.png)
+
+- **Usergoal 8,9,10,27** : Ver preguntas frecuentes (FAQ), Contactar ventas, Visualizar informacion de los integrantes del equipo, Soporte técnico
+![usergoal 8,9,10,27.png](../../assests/chapter-4/usergoal%208%2C9%2C10%2C27.png)
+
+- **Usergoal 20,21,22,23** : Historial de facturación, Proyección de consumo y costo, Comparación de consumo, Reportes personalizados
+![usergoal 20,21,22,23.png](../../assests/chapter-4/usergoal%2020%2C21%2C22%2C23.png)
+
+- **Usergoal 3,4,5,12,13,17,18,19,26** : Monitoreo en Tiempo Real, Seguimiento de presión, Control de temperatura, Monitoreo por habitación, Detección de patrones de uso, Recomendaciones personalizadas, Consejos de sostenibilidad, Metas de consumo, Integración de dispositivos IoT
+![usergoal3,4,5,12,13,17,18,19,26.png](../../assests/chapter-4/usergoal3%2C4%2C5%2C12%2C13%2C17%2C18%2C19%2C26.png)
+
+- **Usergoal 6** : Gestión de volumen
+![usergoal6creo.png](../../assests/chapter-4/usergoal6creo.png)
+
+- **Usergoal 7,29,30** : Ver y selección de planes de suscripción, Pago con tarjeta de crédito, Pago con billetera digital
+![usergoal7,29,30.png](../../assests/chapter-4/usergoal7%2C29%2C30.png)
+
+- **Usergoal 11** : Acceder a la Web App desde la landing page
+![usergoal11.png](../../assests/chapter-4/usergoal11.png)
+
+- **Usergoal 24,25** : Inventario de agua en tanques, Predicciones de reabastecimiento
+![usergoal24,25.png](../../assests/chapter-4/usergoal24%2C25.png)
+
 ### 4.4.2. Web Applications Mock-ups
+- LOGIN MOCK-UP:
+![loginmockup.png](../../assests/chapter-4/loginmockup.png)
+
+- REGISTER MOCK-UP:
+![registermockup.png](../../assests/chapter-4/registermockup.png)
+
+- MAIN DASHBOARD MOCK-UP:
+![maindashboardmockup.png](../../assests/chapter-4/maindashboardmockup.png)
+
+- ALERTS MOCK-UP:
+![alertasmockup.png](../../assests/chapter-4/alertasmockup.png)
+
+- REPORTS MOCK-UP:
+![reportesmockup.png](../../assests/chapter-4/reportesmockup.png)
+
+- BILLING MOCK-UP:
+![billingmockup.png](../../assests/chapter-4/billingmockup.png)
+
+- INVENTORY & FEATURES MOCK-UP:
+![inventariobusionessmockup.png](../../assests/chapter-4/inventariobusionessmockup.png)
+
+- SUPPORT MOCK-UP:
+![supportmockup.png](../../assests/chapter-4/supportmockup.png)
+
+
 ### 4.4.3. Web Applications User Flow Diagrams
+- **Usergoal 15,16,28** : Alertas de anomalías en consumo, Alertas de fallas IoT, Notificaciones configurables
+![15,16,28.png](../../assests/chapter-4/15%2C16%2C28.png)
+
+- **Usergoal 8,9,10,27** : Ver preguntas frecuentes (FAQ), Contactar ventas, Visualizar informacion de los integrantes del equipo, Soporte técnico
+![8,9,10,27.png](../../assests/chapter-4/8%2C9%2C10%2C27.png)
+
+- **Usergoal 20,21,22,23** : Historial de facturación, Proyección de consumo y costo, Comparación de consumo, Reportes personalizados
+![20,21,22,23.png](../../assests/chapter-4/20%2C21%2C22%2C23.png)
+
+- **Usergoal 3,4,5,12,13,17,18,19,26** : Monitoreo en Tiempo Real, Seguimiento de presión, Control de temperatura, Monitoreo por habitación, Detección de patrones de uso, Recomendaciones personalizadas, Consejos de sostenibilidad, Metas de consumo, Integración de dispositivos IoT
+![3,4,5,12,13,17,18,19,26.png](../../assests/chapter-4/3%2C4%2C5%2C12%2C13%2C17%2C18%2C19%2C26.png)
+
+- **Usergoal 6** : Gestión de volumen
+ ![6.png](../../assests/chapter-4/6.png)
+
+- **Usergoal 7,29,30** : Ver y selección de planes de suscripción, Pago con tarjeta de crédito, Pago con billetera digital
+ ![7,29,30.png](../../assests/chapter-4/7%2C29%2C30.png)
+
+- **Usergoal 11** : Acceder a la Web App desde la landing page
+![11.png](../../assests/chapter-4/11.png)
+
+- **Usergoal 24,25** : Inventario de agua en tanques, Predicciones de reabastecimiento
+![24 y 25.png](../../assests/chapter-4/24%20y%2025.png)
+
 
 ## 4.5. Web Applications Prototyping
 
+En esta sección, se presentan los prototipos de la aplicación web de Qlic. 
+Estos prototipos son representaciones interactivas que permiten a los usuarios explorar y experimentar con 
+la interfaz antes de su desarrollo final. Proporcionan una visión clara de la navegación, la disposición de 
+los elementos y la funcionalidad general de la aplicación.
+
+Punto de entrada: El flujo comienza con wireframes de registro Sign Up y LogIn, 
+estableciendo el sistema de autenticación como puerta de entrada. Se observa una estructura que combina:
+
+Módulos principales:
+
+Alertas - Gestión de alertas del sistema.
+Dashboard - Vista general y métricas.
+Reportes - Reporte analitico de uso del agua.
+Pagos - Gestión de pagos del usuario.
+Inventario - Gestión de tanques de agua.
+Soporte - Soporte técnico de la app.
+
+
+
 ## 4.6. Domain-Driven Software Architecture
+
+En esta sección se desarrolla la arquitectura 
+de software basada en el enfoque Domain-Driven 
+Design (DDD), centrada en modelar el dominio del
+problema con precisión y alineación al negocio. Se 
+identifican los Bounded Contexts, las entidades, agregados, 
+servicios del dominio, repositorios y eventos relevantes,
+promoviendo una separación clara de responsabilidades. 
+Esta arquitectura permite que el sistema evolucione de 
+forma coherente con las reglas del dominio, facilitando 
+la escalabilidad, el mantenimiento y la colaboración entre 
+equipos técnicos y expertos del negocio.
+
 ### 4.6.1. Design-Level Event Storming
 ### 4.6.2. Software Architecture Context Diagram
+
+En el diagrama de contexto se presenta cómo los usuarios, que incluyen a los hogares/familias y pequeñas o medianas empresas, interactúan tanto con nuestro software.
 
 ![SystemContext.png](../../assests/chapter-4/SystemContext.png)
 
 ### 4.6.3. Software Architecture Container Diagrams
 
+A continuación, se presentará el diagrama de contenedores de nuestro sistema. Este artefacto corresponde al segundo nivel del modelo C4 y ofrece una descripción más detallada de los componentes técnicos, lo que proporciona una visión ampliada de la arquitectura del software.
+
 ![Container.png](../../assests/chapter-4/Container.png)
 
 ### 4.6.4. Software Architecture Components Diagrams
+
+A continuación, se mostrarán los diagramas de componentes para cada Bounded Context, junto con detalles sobre las tecnologías utilizadas e implementaciones específica.
 
 - Profiles Component Diagram
 
@@ -287,12 +441,26 @@ en el pie de página.
 
 ![SubscriptionsComponent.png](../../assests/chapter-4/SubscriptionsComponent.png)
 
+- User Water Analytics Component Diagram
+
+![UserWaterAnalytics.png](../../assests/chapter-4/UserWaterAnalytics.png)
+
+- Anomaly Detection Component Diagram
+
+![AnomalyDetection.png](../../assests/chapter-4/AnomalyDetection.png)
+
 ## 4.7. Software Object-Oriented Design
+
+En esta sección se presenta el diseño orientado a objetos del software, donde se definen las clases, sus responsabilidades y relaciones, siguiendo principios fundamentales como la encapsulación, herencia, abstracción y polimorfismo. El diseño busca garantizar la modularidad, reutilización y mantenibilidad del sistema, apoyándose en patrones de diseño y buenas prácticas de modelado. Se incluyen diagramas (como diagramas de clases) que reflejan la estructura lógica del software y su alineación con los requerimientos funcionales.
+
 ### 4.7.1. Class Diagrams
 
 ![DIagramaClases.png](../../assests/chapter-4/DIagramaClases.png)
 
 ## 4.8. Database Design
+
+En esta sección se presenta el diseño de la base de datos que soporta el funcionamiento del sistema, alineado con los modelos del dominio y los requerimientos funcionales. Se definen las entidades, relaciones, claves primarias y foráneas, así como las restricciones necesarias para garantizar la integridad de los datos. El diseño busca eficiencia, escalabilidad y facilidad de mantenimiento, considerando tanto el modelo lógico como el modelo físico de la base de datos. Se incluyen diagramas (como el modelo entidad-relación) para representar visualmente la estructura y organización de los datos.
+
 ### 4.8.1. Database Diagrams
 
 ![database-model.png](../../assests/chapter-4/database-model.png)
