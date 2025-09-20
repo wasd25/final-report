@@ -381,12 +381,12 @@ estableciendo el sistema de autenticación como puerta de entrada. Se observa un
 
 Módulos principales:
 
-Alertas - Gestión de alertas del sistema.
-Dashboard - Vista general y métricas.
-Reportes - Reporte analitico de uso del agua.
-Pagos - Gestión de pagos del usuario.
-Inventario - Gestión de tanques de agua.
-Soporte - Soporte técnico de la app.
+- Alertas - Gestión de alertas del sistema.
+- Dashboard - Vista general y métricas.
+- Reportes - Reporte analitico de uso del agua.
+- Pagos - Gestión de pagos del usuario.
+- Inventario - Gestión de tanques de agua.
+- Soporte - Soporte técnico de la app.
 
 
 
