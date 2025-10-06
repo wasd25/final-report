@@ -226,9 +226,9 @@ Nos centramos en desarrollar y desplegar una landing page que presente informaci
 
 #### 5.2.1.3. Sprint Backlog 1
 
-En esta sección se muestra las tareas que se realizaron en el sprint 1, se adjunta la captura del tablero y el link. Link del tablero:
+En esta sección se muestra las tareas que se realizaron en el sprint 1, se adjunta la captura del tablero y el link. 
 
-https://trello.com/invite/b/68b32abbe82181450f7bac82/ATTI10b281445d67389941f4f6ffbdd6e4385B21C1B4/sprint-1
+Link del tablero: https://trello.com/invite/b/68b32abbe82181450f7bac82/ATTI10b281445d67389941f4f6ffbdd6e4385B21C1B4/sprint-1
 
 ![trello.jpg](../../assets/chapter-5/trello.jpg)
 
@@ -329,6 +329,163 @@ URL de Landing Page Desplegada: https://wasd25.github.io/landing-page/
 La meta de este sprint fue la implementación de la Landing Page. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, Visual Studio Code, HTML, CSS y JavaScript. Como evidencias del trabajo realizado tenemos los diagramas de flujo que representan los commits realizados por cada miembro del equipo WASD.
 
 ![insigths.png](../../assets/chapter-5/insigths.png)
+
+### 5.2.2. Sprint 2
+#### 5.2.2.1. Sprint Planning 2
+
+A continuación, se presentará el sprint planning 2 donde se mostrarán las evidencias de planificación e implementación del frontend.
+
+<table>
+<tr>
+    <th colspan="5">Sprint 2</th>
+    <th colspan="9">Sprint 2</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2025-09-29</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">14:00 PM</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Via Zoom</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Guía Carrasco Pedro Andre</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Ayrton Omar Briceño Llanos, Loechle Arias Mateo Ítalo, Guia Carrasco Pedro Andre, Jafeth Worren, Ynga Amado, Anyelo Bill, Alejos Jesus.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 2 Review Summary</td>
+    <td colspan="8">En este primer sprint se asignaron responsabilidades a cada integrante y se planteó los requerimientos para el desarrollo del frontend.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 2 Retrospective Summary</td>
+    <td colspan="8">En esta sección todos los integrantes mencionaron tener aciertos en partes del código y en otras partes poder mejorar sus habilidades realizando el frontend</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 2 Goal</td>
+    <td colspan="8">
+Nos centramos en desarrollar el frontend del sistema, mostrando las funcionalidades más importantes para los usuarios, como las notificaciones de alertas, los pagos mediante suscripción y los gráficos estadísticos generados a partir de las anomalías detectadas por los sensores IoT, los cuales permiten ofrecer un reporte visual y de consulta.<br>
+Creemos que la página debe ser completamente adaptable a cualquier tipo de dispositivo que utilicen los usuarios, garantizando una experiencia fluida, responsiva y eficiente durante la interacción con la aplicación.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 1 Velocity</td>
+    <td colspan="8">
+87</td>
+</tr>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8">
+87</td>
+</tr>
+</table>
+
+#### 5.2.2.2. Aspect Leaders and Collaborators
+
+| Team Member (Last Name, First Name) | GitHub Username | Dashboard (L/C) | Profiles (L/C)   | Reports (L/C) | Notifications (L/C) | Payments (L/C) | Subscriptions (L/C) | Anomaly Detection (L/C) |
+|-------------------------------------|-----------------|-----------------|------------------|---------------|---------------------|----------------|---------------------|-------------------------| 
+| Guia Carrasco, Pedro Andre          | Pedrivizz       | C               | C                | C             | L                   | C              | L                   | L                       |
+| Briceño Llanos, Ayrton Omar         | AyrtonBriceno   | L               | L                | C             | C                   | C              | C                   | C                       |
+| Loechle Arias, Mateo Ítalo          | LowMathzzz                | C               | C                | C             | C                   | L              | C                   | C                       |
+| Ynga Amado, Jafeth Worren           | Jafeth-MV                | C               | C                | C             | L                   | C              | C                   | L                       |
+| Alejos Jesus, Anyelo Bill                      | Everkoe                | C               | C                | L             | C                   | C              | C                   | C                       |
+
+#### 5.2.2.3. Sprint Backlog 2
+
+En esta sección se muestra las tareas que se realizaron en el sprint 2, se adjunta la captura del tablero y el link.
+
+Link del tablero: https://trello.com/invite/b/686e63dafe11604aff081028/ATTI47bdd25ebb6893adb859e3804c68ad9c0E4A61FE/sprint-2
+
+(imagen)
+
+| Id     | Title                                         | Id     | Title                                          | Description                                                                                                    | Estimation (Hours) | Assigned To | Status (To-do/In-Process/To-Review/Done) |
+|--------|-----------------------------------------------|--------|------------------------------------------------|----------------------------------------------------------------------------------------------------------------|--------------------|-------------|------------------------------------------|
+| US11   | Acceder a la Web App desde la landing page    | T01    | Implementar botón CTA "Get Started"            | Crear y enlazar el botón principal de la landing page que redirige a la Web App.                               | 4                  | Jafeth      | Done                                     |
+| US11   | Acceder a la Web App desde la landing page    | T02    | Validar redirección a la URL de la Web App     | Configurar la navegación y verificar que el acceso lleve correctamente a la pantalla de inicio de sesión.      | 3                  | Jafeth      | Done                                     |
+| US12   | Monitoreo por habitación                      | T03    | Diseñar panel de consumo por habitación        | Diseñar una vista de dashboard con gráficos que muestren el consumo por habitación o dispositivo.              | 6                  | Mateo       | In-Process                               |
+| US12   | Monitoreo por habitación                      | T04    | Integrar datos simulados de sensores IoT       | Implementar datos de ejemplo para representar lecturas de consumo por zona.                                    | 5                  | Anyelo      | To-Review                                |
+| US13   | Detección de patrones de uso                  | T05    | Implementar análisis básico de patrones IoT    | Simular detección de patrones anómalos y generar notificaciones dentro del dashboard.                          | 6                  | Pedro       | In-Process                               |
+| US13   | Detección de patrones de uso                  | T06    | Diseñar vista de "Insights"                    | Crear interfaz para visualizar los patrones detectados y mensajes informativos cuando no hay historial.        | 5                  | Mateo       | In-Process                               |
+| US14   | Riego automático inteligente *(Pendiente)*    | T13    | Diseñar interfaz de configuración de riego     | Crear UI para configurar horarios de riego y parámetros (humedad, clima) — pendiente de validación.            | 6                  | Jafeth      | To-Do                                    |
+| US14   | Riego automático inteligente *(Pendiente)*    | T14    | Simular ajuste de riego por condiciones        | Simular la lógica que ajusta riego según condiciones climáticas/humedad (datos simulados).                     | 6                  | Pedro       | To-Do                                    |
+| US15   | Alertas de anomalías en consumo               | T07    | Crear componente de notificaciones             | Desarrollar componente visual para mostrar alertas inmediatas de consumo anormal (banner/push dentro app).     | 6                  | Jafeth      | In-Process                               |
+| US15   | Alertas de anomalías en consumo               | T08    | Configurar simulación de alertas IoT           | Generar eventos simulados que activen alertas push o visuales en el frontend.                                  | 5                  | Anyelo      | To-Review                                |
+| US16   | Alertas de fallas IoT                         | T15    | Crear componente de alerta de fallas           | Componente UI que notifica fallas de dispositivos (dispositivo afectado, estado).                              | 5                  | Jafeth      | In-Process                               |
+| US16   | Alertas de fallas IoT                         | T16    | Simular falla y recuperación de dispositivo    | Simular interrupción de envío de datos y la posterior recuperación para pruebas de notificaciones.             | 5                  | Pedro       | To-Do                                    |
+| US17   | Recomendaciones personalizadas                | T17    | Generar recomendaciones (simuladas)            | Implementar lógica que, con historial suficiente, entregue recomendaciones personalizadas (simulación).        | 6                  | Anyelo      | To-Do                                    |
+| US17   | Recomendaciones personalizadas                | T18    | Interfaz para mostrar recomendaciones          | Diseñar y mostrar la sección de recomendaciones con tarjetas y acciones sugeridas.                             | 4                  | Mateo       | To-Do                                    |
+| US18   | Consejos de sostenibilidad                    | T19    | Widget "Consejo del día"                       | Crear componente que muestre consejos de uso responsable del agua, actualizado al abrir la app.                | 4                  | Anyelo      | To-Do                                    |
+| US19   | Metas de consumo                              | T20    | Implementar metas y gráfico de progreso        | UI para definir metas de ahorro y visualizar progreso mediante gráfico.                                        | 5                  | Mateo       | In-Process                               |
+| US20   | Historial de facturación                      | T21    | Visualizar historial de facturación            | Implementar vista que muestre facturas previas organizadas por fecha con detalles y estado.                    | 6                  | Anyelo      | To-Do                                    |
+| US21   | Proyección de consumo y costo                 | T22    | Calcular y mostrar proyección de recibo        | Lógica y UI que muestre estimación del próximo recibo basada en historial y tarifas (simulada).                | 6                  | Anyelo      | To-Do                                    |
+| US22   | Comparación de consumo                        | T23    | Mostrar comparativa con promedio de zona       | Implementar gráfico comparativo entre consumo del usuario y el promedio de la zona (datos simulados).          | 5                  | Anyelo      | To-Do                                    |
+| US23   | Reportes personalizados                       | T24    | UI para selección de filtros de reportes       | Crear interfaz para elegir filtros (fechas, zonas, dispositivos) y visualizar resultados.                      | 6                  | Anyelo      | In-Process                               |
+| US23   | Reportes personalizados                       | T25    | Exportar reportes a PDF / Excel                | Implementar la funcionalidad (simulada) para exportar los reportes generados.                                  | 6                  | Anyelo      | To-Do                                    |
+| US24   | Inventario de agua en tanques *(Pendiente)*   | T26    | Panel de inventario para tanques               | Crear vista que muestre niveles de agua en tanques y estado por ubicación (datos simulados).                   | 5                  | Jafeth      | To-Do                                    |
+| US24   | Inventario de agua en tanques *(Pendiente)*   | T27    | Alertas por nivel bajo en tanques              | Implementar notificación cuando el nivel baja del umbral definido.                                             | 5                  | Pedro       | To-Do                                    |
+| US25   | Predicciones de reabastecimiento              | T28    | Implementar predicción de agotamiento          | Lógica que, con datos históricos, estime tiempo hasta agotamiento (simulación).                                | 6                  | Anyelo      | To-Do                                    |
+| US26   | Integración de dispositivos IoT               | T29    | Interfaz de registro/sincronización de IoT     | UI para añadir y sincronizar dispositivos IoT a la cuenta del usuario (registro básico).                       | 6                  | Pedro       | In-Process                               |
+| US26   | Integración de dispositivos IoT               | T30    | Validación de compatibilidad de dispositivo    | Lógica que indique si el dispositivo es compatible o no (simulada).                                            | 5                  | Jafeth      | To-Do                                    |
+| US27   | Soporte técnico                               | T31    | Implementar formulario de soporte              | Crear formulario funcional para crear tickets de soporte desde la app y mostrar confirmación.                  | 5                  | Pedro       | To-Do                                    |
+| US28   | Notificaciones configurables                  | T32    | UI de preferencias de notificación             | Interfaz para que el usuario elija push, email o SMS y active/desactive canales.                               | 4                  | Pedro       | In-Process                               |
+| US28   | Notificaciones configurables                  | T33    | Persistir preferencias (mock)                  | Guardar y recuperar preferencias en local storage o API simulada.                                              | 4                  | Jafeth      | To-Do                                    |
+| US29   | Pago con tarjeta de crédito                   | T09    | Diseñar interfaz de pagos                      | Crear formulario de pago con campos para ingresar datos de tarjeta de crédito.                                 | 5                  | Jafeth      | In-Process                               |
+| US29   | Pago con tarjeta de crédito                   | T10    | Implementar validación de pago simulado        | Simular proceso de transacción y mostrar mensajes de éxito o error según los escenarios definidos.             | 6                  | Pedro       | To-Review                                |
+| US30   | Pago con billetera digital                    | T11    | Diseñar vista de pago con QR                   | Crear interfaz visual para mostrar código QR de pago con Yape o Plin.                                          | 4                  | Jafeth      | To-Do                                    |
+| US30   | Pago con billetera digital                    | T12    | Simular validación de transacción QR           | Programar lógica para validar o cancelar pagos según confirmación del usuario.                                 | 5                  | Anyelo      | To-Do                                    |
+| US31   | Visualización del perfil                      | T34    | Diseñar vista de perfil                        | Mostrar datos personales: nombre, apellido, edad, correo, teléfono, dirección y foto de perfil.                | 4                  | Ayrton      | In-Process                               |
+| US32   | Edición de información básica                 | T35    | Implementar edición de datos básicos           | Habilitar campos editables en la pantalla "Perfil" y guardar cambios (simulado).                               | 5                  | Ayrton      | To-Do                                    |
+| US33   | Cambio de foto de perfil                      | T36    | Implementar subida y actualización de foto     | Permitir seleccionar y subir una nueva foto de perfil y mostrarla inmediatamente en la UI.                     | 4                  | Ayrton      | To-Do                                    |
+| US34   | Cambio de contraseña                          | T37    | Implementar cambio de contraseña               | UI y validaciones para cambiar contraseña desde perfil, mostrando mensajes de éxito/error.                     | 3                  | Ayrton      | To-Do                                    |
+
+#### 5.2.2.4. Development Evidence for Sprint Review
+
+| Repository         | Branch                    | Commit Id                                 | Commit Message                                                                                                                                      | Commit Message Body                                                                                                                                 | Commit on (Date) |
+|--------------------|---------------------------|-------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|------------------|
+| wasd-qlic-frontend | master                    |                                           |                                                                                                                                                     |                                                                                                                                                     |                  |
+| wasd-qlic-frontend | feature/profile           | a03a80b7325bd4ec0953d9cd8f83797fae2b2f04  | feat(profile): add password verification                                                                                                            | feat(profile): add password verification                                                                                                            | 06/10/2025       |
+| wasd-qlic-frontend | feature/reports           | 7ff7448e413b8655a744d06ed9d3f7ea5f8b06e1  | feat(reports): integrate new report components into main page                                                                                       | feat(reports): integrate new report components into main page                                                                                       | 04/10/2025       |
+| wasd-qlic-frontend | feature/notifications     | 5e73acc6fa3d32c7fcb022728700a4285e91e98d  | feat(notification): update notification assembler.                                                                                                  | feat(notification): update notification assembler.                                                                                                  | 03/10/2025       |
+| wasd-qlic-frontend | feature/subscription      | cb14902387fe18896d410e73c01551b00d058e42  | feat(subscriptions): update page subscription.                                                                                                      | feat(subscriptions): update page subscription.                                                                                                      | 06/10/2025       |
+| wasd-qlic-frontend | feature/payments          | d5f5a94d14f0e3068dfd7f65943065f358a7fc88  | feat: added Payments component on the router.js for referencing the correct route.                                                                  | feat: added Payments component on the router.js for referencing the correct route.                                                                  | 04/10/2025       |
+| wasd-qlic-frontend | feature/anomaly-detection | b04eb26c1d3973bd4d0d8c41ed2003c28aa64958  | fix: fixed values only calculating once when the component is first setup , added computed to make it update the variables and load them correclty  | fix: fixed values only calculating once when the component is first setup , added computed to make it update the variables and load them correclty  | 05/10/2025       |
+
+#### 5.2.2.5. Execution Evidence for Sprint Review
+
+Después de finalizar el Sprint 2, hemos logrado implementar todas las secciones del frontend. A continuación, te invitamos a explorar nuestros avances a través de imágenes que muestran el resultado obtenido.
+
+1. Dashboard: 
+
+
+2. Reports
+
+
+3. Profile
+
+
+4. Alerts
+
+
+5. Anomaly Detection
+
+
+6. Payments
+
+
+7. Subscription
+
+
 
 # Conclusiones
 Durante el proceso de creación y desarrollo de este trabajo pudimos llegar a las siguientes conclusiones:
