@@ -465,27 +465,50 @@ Link del tablero: https://trello.com/invite/b/686e63dafe11604aff081028/ATTI47bdd
 
 Después de finalizar el Sprint 2, hemos logrado implementar todas las secciones del frontend. A continuación, te invitamos a explorar nuestros avances a través de imágenes que muestran el resultado obtenido.
 
-1. Dashboard: 
+1. Dashboard: Panel principal de Qlic donde el usuario visualiza indicadores clave sobre el uso del agua, consumo en tiempo real y estado general del sistema.
+
+![dashboard.png](../../assets/chapter-5/sprint-2/dashboard.png)
+
+2. Reports: Sección que permite generar y descargar reportes detallados sobre el consumo de agua, eficiencia y patrones de uso.
+
+![reports.png](../../assets/chapter-5/sprint-2/reports.png)
+
+3. Profile: Espacio donde el usuario gestiona su información personal, configuración de cuenta y preferencias del sistema.
+
+![profile.png](../../assets/chapter-5/sprint-2/profile.png)
+
+4. Alerts: Centro de notificaciones que informa sobre fugas, mantenimiento o eventos relevantes detectados por el sistema.
+
+![alerts.png](../../assets/chapter-5/sprint-2/alerts.png)
+
+5. Anomaly Detection: Módulo inteligente de Qlic que identifica comportamientos anómalos en el consumo de agua mediante análisis de datos IoT.
+
+![anomaly.png](../../assets/chapter-5/sprint-2/anomaly.png)
+
+6. Payments: Área para revisar facturas, historial de pagos y gestionar los métodos de pago vinculados al servicio.
+
+![billing.png](../../assets/chapter-5/sprint-2/billing.png)
+
+7. Subscription: Sección dedicada a la gestión del plan de suscripción, donde el usuario puede cambiar de plan o verificar su estado actual.
+
+![subscription.png](../../assets/chapter-5/sprint-2/subscription.png)
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+En el segundo sprint principalmente hemos desarrollado la primera versión de la aplicación web de "Qlic". 
+Además se hemos utilizado servicios web para desplegar tanto el front-end de "Qlic", como el api fake de donde obtenemos los datos para simular una integración con una base de datos. 
+Por último se ha actualizado la Landing Page de "Qlic" para que pueda redirigir a la aplicación a traves de un botón Call-To-Action.
+
+| EndPoint                          | Funciones                      |
+|-----------------------------------|--------------------------------|
+|                                   | Desplegar Landing Page de Qlic |
+| https://qlic-fakeapi.vercel.app/  | Desplegar la Fake Api de Qlic  |
+|                                   | Deslplegar Frontend de Qlic    |
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
 
-2. Reports
-
-
-3. Profile
-
-
-4. Alerts
-
-
-5. Anomaly Detection
-
-
-6. Payments
-
-
-7. Subscription
-
-
+#### 5.2.2.8. Team Collaboration Insights during Sprint
 
 # Conclusiones
 Durante el proceso de creación y desarrollo de este trabajo pudimos llegar a las siguientes conclusiones:
