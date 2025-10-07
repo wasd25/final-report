@@ -29,15 +29,15 @@ En esta sección, se presentan las pautas de estilo y diseño que guiarán la cr
 
 **Paleta de Colores:**
 
-| Color             | Código Hex        | Uso Principal |
-|-------------------|-------------------|---------------|
-| Azul Principal    | #0C4AFD           | Header, navegación, elementos brand |
+| Color             | Código Hex        | Uso Principal                                                     |
+|-------------------|-------------------|-------------------------------------------------------------------|
+| Azul Principal    | #0C4AFD           | Header, navegación, elementos brand                               |
 | Azul CTA          | #0C4AFD           | Botones principales: "Get Started", "Choose Plan", CTAs generales |
-| Verde Específico  | #22c55e           | Botón "Send" del formulario únicamente |
-| Azul Recomendado  | #22c55e           | Badge "Recommended" en plan Pro |
-| Gris Oscuro/Negro | #0F0F0F           | Textos principales y títulos de sección |
-| Gris Medio        | #6b7280           | Textos secundarios y descripciones |
-| Fondo Claro       | #ffffff / #E8FFEE | Fondo general, cards, limpieza visual |
+| Verde Específico  | #22c55e           | Botón "Send" del formulario únicamente                            |
+| Azul Recomendado  | #22c55e           | Badge "Recommended" en plan Pro                                   |
+| Gris Oscuro/Negro | #0F0F0F           | Textos principales y títulos de sección                           |
+| Gris Medio        | #6b7280           | Textos secundarios y descripciones                                |
+| Fondo Claro       | #ffffff / #E8FFEE | Fondo general, cards, limpieza visual                             |
 
 **Spacing y Layout:**
 - Espacios amplios entre secciones para evitar saturación
@@ -83,7 +83,7 @@ Desarrollaremos una plataforma digital que pueda usarse en cualquier dispositivo
 - Water Temperature Control: "Ensure ideal water temperature ranges with smart alerts"
 
 **About Us:**
-- Descripción: "At Qlic we build sensor and software technology to provide total visibility of water usage. We believe in precise data, useful alerts and operational simplicity for water management"
+- Descripción: "At Qlic, we build sensor and software technology to provide total visibility of water usage. We believe in precise data, useful alerts and operational simplicity for water management"
 - Tres pilares con iconos rojos/amarillos/azules: Mission, Reliability, Customer focus
 - Imagen del dashboard a la derecha
 
@@ -106,9 +106,9 @@ Desarrollaremos una plataforma digital que pueda usarse en cualquier dispositivo
 - Enterprise Custom: Unlimited water tanks and sites, integrations and SLAs, water usage exports and audits, 24/7 support
 
 **What our customers say:** Sección de testimonios con tres cards de clientes:
-- **Laura P. (Facilities Lead):** "We finally have full visibility of our water tanks. Alerts prevented two outages last month." - 5 estrellas
-- **Daniel R. (Operations Manager):** "Setup was simple and the dashboards are clear. Great support as well." - 5 estrellas
-- **María G. (Plant Supervisor):** "We reduced water waste by 18% after a quarter using Qlic." - 5 estrellas
+- **Laura P. (Facilities Lead):** "We finally have full visibility of our water tanks. Alerts prevented two outages last month." — 5 estrellas
+- **Daniel R. (Operations Manager):** "Setup was simple and the dashboards are clear. Great support as well." — 5 estrellas
+- **María G. (Plant Supervisor):** "We reduced water waste by 18% after a quarter using Qlic." — 5 estrellas
 - Subtítulo: "Real stories from teams using Qlic for water"
 - Avatars circulares con iniciales en colores distintivos (LP, DR, MG)
 - Diseño de cards con bordes suaves y rating de estrellas prominente
@@ -219,7 +219,7 @@ Se emplean etiquetas claras, simples y orientadas al usuario para identificar ca
 - Hero section: "Get Started" (azul primario) y "Learn More" (outline secundario)
 - Planes de suscripción: "Choose Plan" (outline azul) en Basic y Enterprise, "Choose Plan" (azul sólido) en Pro
 - Formulario de contacto: "Send" (verde - único botón verde del sitio)
-- Distribución estratégica de CTAs en azul excepto el envío de formulario
+- Distribución estratégica de CTA en azul excepto el envío de formulario
 
 **Footer navigation:**
 - Enlaces organizados por categorías: Company, Get Help, Community, Follow Us
@@ -241,10 +241,10 @@ En esta sección se presenta la propuesta de diseño de interfaz de usuario para
 El wireframe de la página de inicio de Qlic organiza los elementos clave para
 ofrecer una navegación intuitiva. Incluye un encabezado con el logo y un menú de
 navegación, seguido de una propuesta de valor clara con botones de acción destacados
-como "Contact Sales" y "Get Started?". La página cuenta con secciones que hablan sobre
-el proyecto , las funcionalidades clave del sistema, nuestro quipo, planes de
-suscripciones, testimonios de usuarios y otras pantallas informativas
-. Al final, se encuentra un formulario de contacto para que los
+como "Contact Sales" y "Get Started". La página cuenta con secciones que hablan sobre
+el proyecto, las funcionalidades clave del sistema, nuestro quipo, planes de
+suscripciones, testimonios de usuarios y otras pantallas informativas.
+Al final, se encuentra un formulario de contacto para que los
 usuarios se puedan contactar con nosotros, junto con enlaces legales
 en el pie de página.
 
@@ -258,8 +258,8 @@ con una estructura intuitiva que guía a los usuarios a través de la plataforma
 Incluye una propuesta de valor destacada en la parte superior, seguida de secciones
 clave como las funcionalidades clave, los beneficios para empresas y hogares,
 y una explicación clara de cómo funciona el servicio. También cuenta con testimonios de
-clientes, detalles sobre la empresa y un formulario para contactar con el area de ventas
-, todo con un enfoque en facilitar la conversión de visitantes a usuarios activos.
+clientes, detalles sobre la empresa y un formulario para contactar con el área de ventas,
+todo con un enfoque en facilitar la conversión de visitantes a usuarios activos.
 
 ![Mockup_Qlic.png](../../assets/chapter-4/Mockup_Qlic.png)
 **Figura 2:** Mockup de la Landing Page.
@@ -293,28 +293,28 @@ SUPPORT WIREFRAME:
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
-- **Usergoal 15,16,28** : Alertas de anomalías en consumo, Alertas de fallas IoT, Notificaciones configurables
+- **Usergoal 15,16,28**: Alertas de anomalías en consumo, Alertas de fallas IoT, Notificaciones configurables
   ![usergoal 15,16,28.png](../../assets/chapter-4/usergoal%2015%2C16%2C28.png)
 
-- **Usergoal 8,9,10,27** : Ver preguntas frecuentes (FAQ), Contactar ventas, Visualizar informacion de los integrantes del equipo, Soporte técnico
+- **Usergoal 8,9,10,27**: Ver preguntas frecuentes (FAQ), Contactar ventas, Visualizar información de los integrantes del equipo, Soporte técnico
   ![usergoal 8,9,10,27.png](../../assets/chapter-4/usergoal%208%2C9%2C10%2C27.png)
 
-- **Usergoal 20,21,22,23** : Historial de facturación, Proyección de consumo y costo, Comparación de consumo, Reportes personalizados
+- **Usergoal 20,21,22,23**: Historial de facturación, Proyección de consumo y costo, Comparación de consumo, Reportes personalizados
   ![usergoal 20,21,22,23.png](../../assets/chapter-4/usergoal%2020%2C21%2C22%2C23.png)
 
-- **Usergoal 3,4,5,12,13,17,18,19,26** : Monitoreo en Tiempo Real, Seguimiento de presión, Control de temperatura, Monitoreo por habitación, Detección de patrones de uso, Recomendaciones personalizadas, Consejos de sostenibilidad, Metas de consumo, Integración de dispositivos IoT
+- **Usergoal 3,4,5,12,13,17,18,19,26**: Monitoreo en Tiempo Real, Seguimiento de presión, Control de temperatura, Monitoreo por habitación, Detección de patrones de uso, Recomendaciones personalizadas, Consejos de sostenibilidad, Metas de consumo, Integración de dispositivos IoT
   ![usergoal3,4,5,12,13,17,18,19,26.png](../../assets/chapter-4/usergoal3%2C4%2C5%2C12%2C13%2C17%2C18%2C19%2C26.png)
 
-- **Usergoal 6** : Gestión de volumen
+- **Usergoal 6**: Gestión de volumen
   ![usergoal6creo.png](../../assets/chapter-4/usergoal6creo.png)
 
-- **Usergoal 7,29,30** : Ver y selección de planes de suscripción, Pago con tarjeta de crédito, Pago con billetera digital
+- **Usergoal 7,29,30**: Ver y selección de planes de suscripción, Pago con tarjeta de crédito, Pago con billetera digital
   ![usergoal7,29,30.png](../../assets/chapter-4/usergoal7%2C29%2C30.png)
 
-- **Usergoal 11** : Acceder a la Web App desde la landing page
+- **Usergoal 11**: Acceder a la Web App desde la landing page
   ![usergoal11.png](../../assets/chapter-4/usergoal11.png)
 
-- **Usergoal 24,25** : Inventario de agua en tanques, Predicciones de reabastecimiento
+- **Usergoal 24,25**: Inventario de agua en tanques, Predicciones de reabastecimiento
   ![usergoal24,25.png](../../assets/chapter-4/usergoal24%2C25.png)
 
 ### 4.4.2. Web Applications Mock-ups
@@ -344,28 +344,28 @@ SUPPORT WIREFRAME:
 
 
 ### 4.4.3. Web Applications User Flow Diagrams
-- **Usergoal 15,16,28** : Alertas de anomalías en consumo, Alertas de fallas IoT, Notificaciones configurables
+- **Usergoal 15,16,28**: Alertas de anomalías en consumo, Alertas de fallas IoT, Notificaciones configurables
   ![15,16,28.png](../../assets/chapter-4/15%2C16%2C28.png)
 
-- **Usergoal 8,9,10,27** : Ver preguntas frecuentes (FAQ), Contactar ventas, Visualizar informacion de los integrantes del equipo, Soporte técnico
+- **Usergoal 8,9,10,27**: Ver preguntas frecuentes (FAQ), Contactar ventas, Visualizar información de los integrantes del equipo, Soporte técnico
   ![8,9,10,27.png](../../assets/chapter-4/8%2C9%2C10%2C27.png)
 
-- **Usergoal 20,21,22,23** : Historial de facturación, Proyección de consumo y costo, Comparación de consumo, Reportes personalizados
+- **Usergoal 20,21,22,23**: Historial de facturación, Proyección de consumo y costo, Comparación de consumo, Reportes personalizados
   ![20,21,22,23.png](../../assets/chapter-4/20%2C21%2C22%2C23.png)
 
-- **Usergoal 3,4,5,12,13,17,18,19,26** : Monitoreo en Tiempo Real, Seguimiento de presión, Control de temperatura, Monitoreo por habitación, Detección de patrones de uso, Recomendaciones personalizadas, Consejos de sostenibilidad, Metas de consumo, Integración de dispositivos IoT
+- **Usergoal 3,4,5,12,13,17,18,19,26**: Monitoreo en Tiempo Real, Seguimiento de presión, Control de temperatura, Monitoreo por habitación, Detección de patrones de uso, Recomendaciones personalizadas, Consejos de sostenibilidad, Metas de consumo, Integración de dispositivos IoT
   ![3,4,5,12,13,17,18,19,26.png](../../assets/chapter-4/3%2C4%2C5%2C12%2C13%2C17%2C18%2C19%2C26.png)
 
-- **Usergoal 6** : Gestión de volumen
+- **Usergoal 6**: Gestión de volumen
   ![6.png](../../assets/chapter-4/6.png)
 
-- **Usergoal 7,29,30** : Ver y selección de planes de suscripción, Pago con tarjeta de crédito, Pago con billetera digital
+- **Usergoal 7,29,30**: Ver y selección de planes de suscripción, Pago con tarjeta de crédito, Pago con billetera digital
   ![7,29,30.png](../../assets/chapter-4/7%2C29%2C30.png)
 
 - **Usergoal 11** : Acceder a la Web App desde la landing page
   ![11.png](../../assets/chapter-4/11.png)
 
-- **Usergoal 24,25** : Inventario de agua en tanques, Predicciones de reabastecimiento
+- **Usergoal 24,25**: Inventario de agua en tanques, Predicciones de reabastecimiento
   ![24 y 25.png](../../assets/chapter-4/24%20y%2025.png)
 
 
@@ -383,7 +383,7 @@ Módulos principales:
 
 Alertas - Gestión de alertas del sistema.
 Dashboard - Vista general y métricas.
-Reportes - Reporte analitico de uso del agua.
+Reportes - Reporte analítico de uso del agua.
 Pagos - Gestión de pagos del usuario.
 Inventario - Gestión de tanques de agua.
 Soporte - Soporte técnico de la app.
@@ -423,7 +423,7 @@ A continuación, se presentará el diagrama de contenedores de nuestro sistema. 
 
 ### 4.6.4. Software Architecture Components Diagrams
 
-A continuación, se mostrarán los diagramas de componentes para cada Bounded Context, junto con detalles sobre las tecnologías utilizadas e implementaciones específica.
+A continuación, se mostrarán los diagramas de componentes para cada Bounded Context, junto con detalles sobre las tecnologías utilizadas e implementaciones específicas.
 
 - Profiles Component Diagram
 

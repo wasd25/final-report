@@ -61,15 +61,15 @@ Ciclo 2025-20
 | 1.8     | 12/09/2025 | Jafeth Worren, Ynga Amado                                 | Diseño de mockups, elaboración de wire-flows y user-flows para la landing page.                        |
 | 1.9     | 13/09/2025 | Guia Carrasco, Pedro Andre                                | Elaboración de diagrama de base de datos,diagrama de clases, diccionario de clases.                    |
 | 1.10    | 15/09/2025 | Jafeth Worren, Ynga Amado                                 | Despliegue de la landing page.                                                                         |
-| 1.11    | 15/09/2025 | Loechle Arias, Mateo Ítalo                                | Diseño de wireframes y mockups de la aplicacion web.                                                   |
-| 2.0     | 29/09/2025 | Guia Carrasco, Pedro Andre                                | Creacion del repositorio de la aplicacion web.                                                         |
-| 2.1     | 03/10/2025 | Briceño Llanos, Ayrton Omar                               | Creacion del dashboard del Qlic.                                                                       |
-| 2.2     | 03/10/2025 | Briceño Llanos, Ayrton Omar                               | Creacion del bounded context Profile                                                                   |
-| 2.3     | 03/10/2025 | Anyelo Bill, Alejos Jesus                                 | Creacion del bounded context Reports                                                                   |
-| 2.4     | 03/10/2025 | Guia Carrasco, Pedro Andre <br> Jafeth Worren, Ynga Amado | Creacion del bounded context Notifications                                                             |
-| 2.5     | 03/10/2025 | Guia Carrasco, Pedro Andre <br> Jafeth Worren, Ynga Amado | Creacion del bounded context core Anomaly Detection                                                    |
-| 2.6     | 05/10/2025 | Loechle Arias, Mateo Ítalo                                | Creacion del bounded context Payments                                                                  |
-| 2.7     | 06/10/2025 | Guia Carrasco, Pedro Andre                                | Creacion del bounded context Subscriptions                                                             |
+| 1.11    | 15/09/2025 | Loechle Arias, Mateo Ítalo                                | Diseño de wireframes y mockups de la aplicación web.                                                   |
+| 2.0     | 29/09/2025 | Guia Carrasco, Pedro Andre                                | Creación del repositorio de la aplicación web.                                                         |
+| 2.1     | 03/10/2025 | Briceño Llanos, Ayrton Omar                               | Creación del dashboard del Qlic.                                                                       |
+| 2.2     | 03/10/2025 | Briceño Llanos, Ayrton Omar                               | Creación del bounded context Profile                                                                   |
+| 2.3     | 03/10/2025 | Anyelo Bill, Alejos Jesus                                 | Creación del bounded context Reports                                                                   |
+| 2.4     | 03/10/2025 | Guia Carrasco, Pedro Andre <br> Jafeth Worren, Ynga Amado | Creación del bounded context Notifications                                                             |
+| 2.5     | 03/10/2025 | Guia Carrasco, Pedro Andre <br> Jafeth Worren, Ynga Amado | Creación del bounded context core Anomaly Detection                                                    |
+| 2.6     | 05/10/2025 | Loechle Arias, Mateo Ítalo                                | Creación del bounded context Payments                                                                  |
+| 2.7     | 06/10/2025 | Guia Carrasco, Pedro Andre                                | Creación del bounded context Subscriptions                                                             |
 | 2.8     | 06/10/2025 | Guia Carrasco, Pedro Andre                                | Despliegue del frontend                                                                                |
 
 # Project Report Collaboration Insights
@@ -77,7 +77,7 @@ Ciclo 2025-20
 #### Repositorio del informe del proyecto
 El informe del proyecto se encuentra alojado en el siguiente repositorio de la organización de GitHub del equipo:
 
-🔗 Enlace de la organizacion: https://github.com/wasd25
+🔗 Enlace de la organización: https://github.com/wasd25
 🔗 Enlace de repositorios: https://github.com/orgs/wasd25/repositories
 
 A continuación, se detallan las actividades realizadas en cada entrega, la participación de los miembros del equipo, y las evidencias correspondientes.
@@ -88,7 +88,7 @@ Para la primera entrega (TB1) se trabajó en la estructura inicial del informe, 
 ![insights reporte.png](../../assets/chapter-1/insights%20reporte.png)
 
 ## TP1
-Para este entregable se realizo el desarrollo del sprint 2 que corresponde al desarrollo del frontend de Qlic.
+Para este entregable se realizó el desarrollo del sprint 2 que corresponde al desarrollo del frontend de Qlic.
 
 
 # Contenido
@@ -110,7 +110,7 @@ Para este entregable se realizo el desarrollo del sprint 2 que corresponde al de
         - [1.2.2.2. Lean UX Assumptions]()
         - [1.2.2.3. Lean UX Hypothesis Statements]()
         - [1.2.2.4. Lean UX Canvas]()
-- [1.3. Segmentos objetivo]()
+- [1.3. Segmentos objetivos]()
 
 ### [Capítulo II: Requirements Elicitation & Analysis]()
 - [2.1. Competidores]()
@@ -121,7 +121,7 @@ Para este entregable se realizo el desarrollo del sprint 2 que corresponde al de
     - [2.2.2. Registro de entrevistas]()
     - [2.2.3. Análisis de entrevistas]()
 - [2.3. Needfinding]()
-    - [2.3.1. User Personas]()
+    - [2.3.1. User Persona]()
     - [2.3.2. User Task Matrix]()
     - [2.3.3. User Journey Mapping]()
     - [2.3.4. Empathy Mapping]()

@@ -10,17 +10,17 @@ WASD es una startup enfocada en la gestión inteligente del agua. Utilizamos tec
 
 - **Misión:** Ayudar a negocios y hogares a optimizar el uso de agua, reducir desperdicios, disminuir costos y garantizar el reabastecimiento oportuno.
 - **Visión:** Ser la empresa más importante en Perú, en el ámbito de gestión y optimización de agua con el uso de soluciones tecnológicas.
-- **Producto:** "Qlic" es un servicio el cual permite el monitoreo de puntos críticos del agua en hogares o pequeñas y medianas empresas , optimizando el uso de líquidos, reduciendo desperdicios y disminuyendo costos además de garantizar el reabastecimiento oportuno.
+- **Producto:** "Qlic" es un servicio el cual permite el monitoreo de puntos críticos del agua en hogares o pequeñas y medianas empresas, optimizando el uso de líquidos, reduciendo desperdicios y disminuyendo costos además de garantizar el reabastecimiento oportuno.
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-| Foto de perfil                                   | Apellido y Nombre                        | Carrera                | Acerca de                                                                                                                  | Habilidades                                                              |
-|--------------------------------------------------|------------------------------------------|------------------------|----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
-| ![foto.png](../../assets/chapter-1/foto.png)     | Briceño Llanos, Ayrton Omar (u202311077) | Ingeniería de Software | Me apasiona el desarrollo de Software y la creación de soluciones tecnológicas que impacten positivamente en las personas. | JavaScript, C++, HTML, CSS, C#, MongoDB, SQL server, Angular, Vue.       |
-| ![foto4.jpg](../../assets/chapter-1/foto4.jpg)   | Guia Carrasco, Pedro Andre   (u202212010) | Ingenieria de Software | Soy Pedro Guia, estudiante de la UPC. Estoy llevando mi cuarto año en la universidad y sigo firme a mis logros a futuro.   | Java, Python, HTML, CSS, JavaScript, Angular, MySQL.                     |
-| ![mateo.jpg](../../assets/chapter-1/mateo.jpg)   | Loechle Arias, Mateo Italo   (u202215004) | Ingenieria de Software | Me interesa mucho el mundo de el desarrollo de software , y mejorar mis habilidades blandas con respecto a mi carrera.     | Java, Python , SQL , MongoDB, Sprinboot , Angular , Vue , Firebase, etc. |
-| ![Jafeth.jpg](../../assets/chapter-1/Jafeth.jpg) | Ynga Amado, Jafeth Worren   (u202314715) | Ingenieria de Software | Soy Jafeth, estudiante de 6to ciclo de ing. de software en la UPC y quiero poder crear soluciones eficientes que tengan un impacto en la sociedad. | C++, HTML, CSS, Python, MySQL, MongoDB.                                  |
-| ![Anyelo.png](../../assets/chapter-1/Anyelo.png) | Alejos Jesus, Anyelo Bill   (u20231d149) | Ingenieria de Software | Me considero una persona responsable y proactiva para dar lo mejor de mi en el proyecto que se realizará. | C++, HTML, CSS, Python.                                                  |
+| Foto de perfil                                       | Apellido y Nombre                          | Carrera                | Acerca de                                                                                                                                          | Habilidades                                                               |
+|------------------------------------------------------|--------------------------------------------|------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| ![foto.png](../../assets/chapter-1/foto.png)         | Briceño Llanos, Ayrton Omar (u202311077)   | Ingeniería de Software | Me apasiona el desarrollo de Software y la creación de soluciones tecnológicas que impacten positivamente en las personas.                         | JavaScript, C++, HTML, CSS, C#, MongoDB, SQL server, Angular, Vue.        |
+| ![foto4.jpg](../../assets/chapter-1/foto4.jpg)       | Guia Carrasco, Pedro Andre   (u202212010)  | Ingeniería de Software | Soy Pedro Guia, estudiante de la UPC. Estoy llevando mi cuarto año en la universidad y sigo firme a mis logros a futuro.                           | Java, Python, HTML, CSS, JavaScript, Angular, MySQL.                      |
+| ![mateo.jpg](../../assets/chapter-1/mateo.jpg)       | Loechle Arias, Mateo Italo   (u202215004)  | Ingeniería de Software | Me interesa mucho el mundo de el desarrollo de software , y mejorar mis habilidades blandas con respecto a mi carrera.                             | Java, Python , SQL , MongoDB, SpringBoot , Angular , Vue , Firebase, etc. |
+| ![Jafeth.jpg](../../assets/chapter-1/Jafeth.jpg)     | Ynga Amado, Jafeth Worren   (u202314715)   | Ingeniería de Software | Soy Jafeth, estudiante de 6to ciclo de ing. de software en la UPC y quiero poder crear soluciones eficientes que tengan un impacto en la sociedad. | C++, HTML, CSS, Python, MySQL, MongoDB.                                   |
+| ![Anyelo.png](../../assets/chapter-1/Anyelo.png)     | Alejos Jesus, Anyelo Bill   (u20231d149)   | Ingeniería de Software | Me considero una persona responsable y proactiva para dar lo mejor de mi en el proyecto que se realizará.                                          | C++, HTML, CSS, Python.                                                   |
 
 ## 1.2. Solution Profile
 
@@ -63,14 +63,14 @@ En este escenario, surge la necesidad de **soluciones tecnológicas accesibles**
 
 **Problemáticas:**
 
-| **What (Qué): ¿Cuál es el problema?** | Las EPS en el Perú presentan altos niveles de pérdidas de agua (físicas y comerciales), lo que genera costos innecesarios, ineficiencia en la distribución y dificultades para garantizar la sostenibilidad del servicio. |
-|---------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **When (Cuándo): ¿Cuándo sucede el problema?** | Este problema es persistente y se ha intensificado en los últimos años debido al crecimiento poblacional, el cambio climático y la mayor demanda de agua en entornos urbanos.                                             |
-| **Where (Dónde): ¿Dónde se presenta el problema del negocio?** | A nivel nacional, afecta tanto a ciudades con redes envejecidas como a comunidades periurbanas y rurales con limitada infraestructura técnica.                                                                            |
-| **Who (Quiénes): ¿Quiénes están involucrados?** | Están involucradas las EPS, los usuarios domésticos e industriales, técnicos en saneamiento, así como las pequeñas y medianas empresas como AgroAndes S.A.C y Cervecería Artesanal InkaBeer.                              |
-| **Why (Por qué): ¿Por qué se origina el problema?** | Por la ausencia de herramientas tecnológicas que integren monitoreo en tiempo real, detección de fugas y gestión inteligente del consumo, adaptadas al contexto local.                                                    |
+| **What (Qué): ¿Cuál es el problema?**                                          | Las EPS en el Perú presentan altos niveles de pérdidas de agua (físicas y comerciales), lo que genera costos innecesarios, ineficiencia en la distribución y dificultades para garantizar la sostenibilidad del servicio. |
+|--------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **When (Cuándo): ¿Cuándo sucede el problema?**                                 | Este problema es persistente y se ha intensificado en los últimos años debido al crecimiento poblacional, el cambio climático y la mayor demanda de agua en entornos urbanos.                                             |
+| **Where (Dónde): ¿Dónde se presenta el problema del negocio?**                 | A nivel nacional, afecta tanto a ciudades con redes envejecidas como a comunidades periurbanas y rurales con limitada infraestructura técnica.                                                                            |
+| **Who (Quiénes): ¿Quiénes están involucrados?**                                | Están involucradas las EPS, los usuarios domésticos e industriales, técnicos en saneamiento, así como las pequeñas y medianas empresas como AgroAndes S.A.C y Cervecería Artesanal InkaBeer.                              |
+| **Why (Por qué): ¿Por qué se origina el problema?**                            | Por la ausencia de herramientas tecnológicas que integren monitoreo en tiempo real, detección de fugas y gestión inteligente del consumo, adaptadas al contexto local.                                                    |
 | **How (Cómo): ¿Cómo afecta este problema a las organizaciones y la sociedad?** | Se refleja en altos índices de agua no facturada, costos operativos elevados para las EPS, interrupciones del servicio y menor confianza de los usuarios.                                                                 |
-| **How much (Cuánto): ¿Cuánto impacto genera el problema?** | Según el **BID**, una reducción de solo 10 puntos porcentuales en el agua no facturada podría traducirse en ahorros millonarios y mejoras en cobertura para millones de personas en América Latina.                       |
+| **How much (Cuánto): ¿Cuánto impacto genera el problema?**                     | Según el **BID**, una reducción de solo 10 puntos porcentuales en el agua no facturada podría traducirse en ahorros millonarios y mejoras en cobertura para millones de personas en América Latina.                       |
 
 
 ### 1.2.2 Lean UX Process.
@@ -91,17 +91,17 @@ Frente a esta problemática, planteamos la siguiente pregunta:
 ¿Cómo podríamos ayudar a negocios y hogares a optimizar el uso de agua, reduciendo desperdicios y costos, mientras aseguramos un reabastecimiento oportuno mediante tecnología IoT?
 #### 1.2.2.2. Lean UX Assumptions.
 
-| Business Assumptions                                                                                                                                                       | User Assumptions        |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|
-| Creemos que los PYMES están dispuestos a pagar una suscripción mensual o anual por una solución que les ayude a reducir costos operativos relacionados con el uso de agua. |Creemos que los usuarios necesitan monitorear en tiempo real el estado de su consumo de agua.|
-| Creemos que el uso de IoT combinado con analítica de datos generará un valor diferencial, posicionando a QLic como líder en el mercado.                                    |Creemos que los usuarios valorarán recibir alertas inteligentes sobre fugas y exceso de consumo.|
-| Creemos que la instalación gratuita y el soporte técnico facilitarán la adopción inicial del servicio.                                                                     |Creemos que los usuarios se sentirán más satisfechos si cuentan con reportes claros y personalizados para mejorar la toma de decisiones.|
-| Creemos que la escalabilidad del modelo permitirá expandirnos a otros sectores y regiones de Perú en el futuro.                                                            |Creemos que los usuarios preferirán una interfaz sencilla e intuitiva, que no requiera conocimientos técnicos avanzados.|
-| Creemos que los PYMES con políticas de sostenibilidad estarán más motivadas a implementar QLic para cumplir con sus objetivos de responsabilidad social y medioambiental.  ||
-| Creemos que el ahorro de agua y costos que genera QLic puede convertirse en un argumento clave de venta, aumentando la retención de clientes a largo plazo.                ||
-| Creemos que ofrecer planes diferenciados (Básico y Pro) permitirá captar tanto pequeñas empresas como medianas.                                                            ||
-| Creemos que alianzas estratégicas con proveedores de agua o empresas de servicios públicos acelerarán la adopción y confianza en la plataforma.                            ||
-| Creemos que la experiencia del cliente será un factor decisivo, por lo que un diseño de interfaz intuitivo y soporte oportuno generarán mayor satisfacción y lealtad.      ||
+| Business Assumptions                                                                                                                                                       | User Assumptions                                                                                                                         |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| Creemos que los PYMES están dispuestos a pagar una suscripción mensual o anual por una solución que les ayude a reducir costos operativos relacionados con el uso de agua. | Creemos que los usuarios necesitan monitorear en tiempo real el estado de su consumo de agua.                                            |
+| Creemos que el uso de IoT combinado con analítica de datos generará un valor diferencial, posicionando a QLic como líder en el mercado.                                    | Creemos que los usuarios valorarán recibir alertas inteligentes sobre fugas y exceso de consumo.                                         |
+| Creemos que la instalación gratuita y el soporte técnico facilitarán la adopción inicial del servicio.                                                                     | Creemos que los usuarios se sentirán más satisfechos si cuentan con reportes claros y personalizados para mejorar la toma de decisiones. |
+| Creemos que la escalabilidad del modelo permitirá expandirnos a otros sectores y regiones de Perú en el futuro.                                                            | Creemos que los usuarios preferirán una interfaz sencilla e intuitiva, que no requiera conocimientos técnicos avanzados.                 |
+| Creemos que los PYMES con políticas de sostenibilidad estarán más motivadas a implementar QLic para cumplir con sus objetivos de responsabilidad social y medioambiental.  |                                                                                                                                          |
+| Creemos que el ahorro de agua y costos que genera QLic puede convertirse en un argumento clave de venta, aumentando la retención de clientes a largo plazo.                |                                                                                                                                          |
+| Creemos que ofrecer planes diferenciados (Básico y Pro) permitirá captar tanto pequeñas empresas como medianas.                                                            |                                                                                                                                          |
+| Creemos que alianzas estratégicas con proveedores de agua o empresas de servicios públicos acelerarán la adopción y confianza en la plataforma.                            |                                                                                                                                          |
+| Creemos que la experiencia del cliente será un factor decisivo, por lo que un diseño de interfaz intuitivo y soporte oportuno generarán mayor satisfacción y lealtad.      |                                                                                                                                          |
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
@@ -171,10 +171,10 @@ Principalmente en zonas urbanas y periurbanas del Perú, con acceso a servicios 
 Valoran la practicidad, el ahorro en el pago de servicios y la adopción de tecnologías que les faciliten la vida cotidiana. También muestran interés por el cuidado del medio ambiente.
 
 **Necesidades:**  
-Desean monitorear el consumo de agua de manera sencilla , identificar fugas o consumos inusuales , ya que los medidores de las empresas que brinda este servicio tienden a fallar , y contar con recomendaciones para reducir los gastos.
+Desean monitorear el consumo de agua de manera sencilla, identificar fugas o consumos inusuales, ya que los medidores de las empresas que brinda este servicio tienden a fallar, y contar con recomendaciones para reducir los gastos.
 
 **Requisitos:**  
-Una aplicacion fácil de usar, con alertas personalizadas y reportes claros. Además, buscan soporte técnico accesible y confiable.Al igual que una instalacion veloz.
+Una aplicación fácil de usar, con alertas personalizadas y reportes claros. Además, buscan soporte técnico accesible y confiable. Al igual que una instalación veloz.
 
 **Objetivo:**  
 Buscan una plataforma intuitiva, confiable y adaptable al flujo de trabajo de su local. Requieren acceso desde dispositivos móviles y soporte técnico constante.

@@ -55,7 +55,7 @@ Para el repositorio de Landing Page se crearon las siguientes ramas:
 - Features
 1. header
 2. hero
-3. about-us
+3. about us
 4. solutions
 5. subscriptions
 6. contact-sales
@@ -156,7 +156,7 @@ A continuación las siguientes imágenes sirven de referencia para evidenciar la
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
 
-A continuación, se presentará el sprint planning 1 donde se mostrarán las evidencias de planificación e implementación del landing page.
+A continuación, se presentará el sprint planning 1 donde se mostrarán las evidencias de planificación e implementación de la landing page.
 
 <table>
 <tr>
@@ -215,13 +215,13 @@ Nos centramos en desarrollar y desplegar una landing page que presente informaci
 
 #### 5.2.1.2. Aspect Leaders and Collaborators
 
-| Team Member (Last Name, First Name) | GitHub Username | Landing Page (L/C) | Documentation (L/C) | Epics (L/C) |
-|-------------------------------------|-----------------|--------------------|---------------------|-------------|
-| Guia Carrasco, Pedro Andre          | Pedrivizz       | C                  | C                   | L           |
-| Briceño Llanos, Ayrton Omar         | AyrtonBriceno   | C                  | L                   | C           |
-| Loechle Arias, Mateo Ítalo          | LowMathzzz                | C                  | C                   | C           |
-| Ynga Amado, Jafeth Worren           | Jafeth-MV                | L                  | C                   | C           |
-| Alejos Jesus, Anyelo Bill                      | Everkoe                | C                  | C                   | C           |
+| Team Member (Last Name, First Name)       | GitHub Username    | Landing Page (L/C) | Documentation (L/C) | Epics (L/C) |
+|-------------------------------------------|--------------------|--------------------|---------------------|-------------|
+| Guia Carrasco, Pedro Andre                | Pedrivizz          | C                  | C                   | L           |
+| Briceño Llanos, Ayrton Omar               | AyrtonBriceno      | C                  | L                   | C           |
+| Loechle Arias, Mateo Ítalo                | LowMathzzz         | C                  | C                   | C           |
+| Ynga Amado, Jafeth Worren                 | Jafeth-MV          | L                  | C                   | C           |
+| Alejos Jesus, Anyelo Bill                 | Everkoe            | C                  | C                   | C           |
 
 
 #### 5.2.1.3. Sprint Backlog 1
@@ -232,83 +232,83 @@ Link del tablero: https://trello.com/invite/b/68b32abbe82181450f7bac82/ATTI10b28
 
 ![trello.jpg](../../assets/chapter-5/trello.jpg)
 
-| Id   | Title                         | Id   | Title                        | Description                                                                 | Estimation (Hours) | Assigned To | Status (To-do/In-Process/To-Review/Done) |
-|------|-------------------------------|------|------------------------------|-----------------------------------------------------------------------------|--------------------|-------------|------------------------------------------|
-| US01 | Descripción clara del producto | T01  | Crear sección "¿Qué es Qlic?" | Diseñar e implementar la sección que describe el producto en la landing page | 5                  | Mateo       | Done                                     |
-| US01 | Descripción clara del producto | T02  | Redactar contenido            | Redactar texto claro y conciso sobre Qlic y su propuesta de valor           | 5                  | Mateo       | Done                                     |
-| US02 | Soluciones por segmento       | T03  | Diseñar sección de soluciones | Diseñar UI para mostrar soluciones para residenciales y PYMES                | 3                  | Jafeth      | Done                                     |
-| US02 | Soluciones por segmento       | T04  | Implementar lógica por segmento| Implementar lógica para filtrar soluciones según el segmento seleccionado   | 4                  | Jafeth      | Done                                     |
-| US03 | Monitoreo en Tiempo Real      | T05  | Diseñar panel de monitoreo    | Crear diseño inicial para visualizar datos IoT en tiempo real                | 5                  | Mateo       | Done                                  |
-| US03 | Monitoreo en Tiempo Real      | T06  | Integración de datos IoT      | Conectar datos simulados para mostrar información en el panel                | 5                  | Mateo       | Done                                   |
-| US04 | Seguimiento de presión        | T07  | Crear módulo de presión       | Desarrollar componente para visualizar y registrar datos de presión          | 5                  | Mateo       | Done                                    |
-| US05 | Control de temperatura        | T08  | Crear módulo de temperatura   | Desarrollar componente para mostrar la temperatura en tiempo real            | 5                  | Mateo       | Done                                    |
-| US06 | Gestión de volumen            | T09  | Crear módulo de volumen       | Desarrollar componente para visualizar niveles de volumen                    | 5                  | Mateo       | Done                                    |
-| US07 | Ver y selección de planes     | T10  | Diseñar página de planes      | Crear diseño visual para la sección de planes de suscripción                 | 6                  | Jafeth       | Done                                    |
-| US07 | Ver y selección de planes     | T11  | Implementar lógica de selección| Permitir la selección de un plan desde la interfaz                          | 8                  | Jafeth       | Done                                    |
-| US08 | Ver preguntas frecuentes (FAQ)| T12  | Crear sección FAQ             | Desarrollar sección de preguntas frecuentes con contenido inicial            | 4                  | Jafeth       | Done                                    |
-| US09 | Contactar ventas              | T13  | Implementar formulario contacto| Crear formulario funcional para contacto directo con el equipo de ventas    | 6                  | Jafeth       | Done                                    |
-| US10 | Visualizar información del equipo | T14 | Crear sección "Nuestro equipo" | Diseñar y desarrollar sección con información e imágenes del equipo           | 4                  | Pedro       | Done                                    |
+| Id   | Title                             | Id   | Title                            | Description                                                                     | Estimation (Hours) | Assigned To | Status (To-do/In-Process/To-Review/Done) |
+|------|-----------------------------------|------|----------------------------------|---------------------------------------------------------------------------------|--------------------|-------------|------------------------------------------|
+| US01 | Descripción clara del producto    | T01  | Crear sección "¿Qué es Qlic?"    | Diseñar e implementar la sección que describe el producto en la landing page    | 5                  | Mateo       | Done                                     |
+| US01 | Descripción clara del producto    | T02  | Redactar contenido               | Redactar texto claro y conciso sobre Qlic y su propuesta de valor               | 5                  | Mateo       | Done                                     |
+| US02 | Soluciones por segmento           | T03  | Diseñar sección de soluciones    | Diseñar UI para mostrar soluciones para residenciales y PYMES                   | 3                  | Jafeth      | Done                                     |
+| US02 | Soluciones por segmento           | T04  | Implementar lógica por segmento  | Implementar lógica para filtrar soluciones según el segmento seleccionado       | 4                  | Jafeth      | Done                                     |
+| US03 | Monitoreo en Tiempo Real          | T05  | Diseñar panel de monitoreo       | Crear diseño inicial para visualizar datos IoT en tiempo real                   | 5                  | Mateo       | Done                                     |
+| US03 | Monitoreo en Tiempo Real          | T06  | Integración de datos IoT         | Conectar datos simulados para mostrar información en el panel                   | 5                  | Mateo       | Done                                     |
+| US04 | Seguimiento de presión            | T07  | Crear módulo de presión          | Desarrollar componente para visualizar y registrar datos de presión             | 5                  | Mateo       | Done                                     |
+| US05 | Control de temperatura            | T08  | Crear módulo de temperatura      | Desarrollar componente para mostrar la temperatura en tiempo real               | 5                  | Mateo       | Done                                     |
+| US06 | Gestión de volumen                | T09  | Crear módulo de volumen          | Desarrollar componente para visualizar niveles de volumen                       | 5                  | Mateo       | Done                                     |
+| US07 | Ver y selección de planes         | T10  | Diseñar página de planes         | Crear diseño visual para la sección de planes de suscripción                    | 6                  | Jafeth      | Done                                     |
+| US07 | Ver y selección de planes         | T11  | Implementar lógica de selección  | Permitir la selección de un plan desde la interfaz                              | 8                  | Jafeth      | Done                                     |
+| US08 | Ver preguntas frecuentes (FAQ)    | T12  | Crear sección FAQ                | Desarrollar sección de preguntas frecuentes con contenido inicial               | 4                  | Jafeth      | Done                                     |
+| US09 | Contactar ventas                  | T13  | Implementar formulario contacto  | Crear formulario funcional para contacto directo con el equipo de ventas        | 6                  | Jafeth      | Done                                     |
+| US10 | Visualizar información del equipo | T14  | Crear sección "Nuestro equipo"   | Diseñar y desarrollar sección con información e imágenes del equipo             | 4                  | Pedro       | Done                                     |
 
 #### 5.2.1.4. Development Evidence for Sprint Review
 
-| Repository        | Branch                | Commit Id                                | Commit Message | Commit Message Body            | Commit on (Date) |
-|-------------------|-----------------------|------------------------------------------|----------------|--------------------------------|------------------|
-| wasd-landing-page | main                  | ad74632a88b42b0b219e8becb6d75586b9745870 | update: landing page finished               | update: landing page finished  | 15/09/2025       |
-| wasd-landing-page | feature/header        | 9bb9fd2bfc10eb985c96349ced1d74977554629f | update(js): header section               | update(js): header section                               | 15/09/2025       |
-| wasd-landing-page | feature/hero          | edd2d9d143b4d9523d778d37ba36b7ee3ece7dd1           | feat: added hero section               | feat: added hero section                               | 15/09/2025       |
-| wasd-landing-page | feature/about-us      | 5ff4976080591571fd12c5eab510965063d5e7bc           | feat(about-us): add structure and styles for the about-us section.               |  feat(about-us): add structure and styles for the about-us section.                              | 15/09/2025       |
-| wasd-landing-page | feature/product       | a9b7aee8c76cc4917b1689770f34c2632a768b2b                   | add: added home section + css for items. on designed branch , waiting for main merge               | add: added home section + css for items. on designed branch , waiting for main merge                               | 15/09/2025       |
-| wasd-landing-page | feature/solutions     | 0f9324142f3145abcbef05385641a39de8a51d2a                | feat: added solutions section               |  feat: added solutions section                              | 15/09/2025       |
-| wasd-landing-page | feature/subscriptions | e88936be85bd1c5b3e00d735e4d1723069d368e7                 | update(js): subscriptions section               | update(js): subscriptions section                               | 15/09/2025       |
-| wasd-landing-page | feature/faq           | 5a34dfccb18eaa743287f794b72e0675096542d2                | feat: added faq section               | feat: added faq section                               | 15/09/2025       |
-| wasd-landing-page | feature/contact-sales | 183a8625ac1eef1bcd085cf5f70945d9e9f9f06a                | update(js): contact-sales section               | update(js): contact-sales section                               | 15/09/2025       |
-| wasd-landing-page | feature/footer        | 757e65a3a7b035b793a2e6b6f1b657fbda341836                                         | update(js): footer section and internationalization               | update(js): footer section and internationalization                               | 15/09/2025       |
+| Repository        | Branch                | Commit Id                                      | Commit Message                                                                       | Commit Message Body                                                                  | Commit on (Date) |
+|-------------------|-----------------------|------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------------|
+| wasd-landing-page | main                  | ad74632a88b42b0b219e8becb6d75586b9745870       | update: landing page finished                                                        | update: landing page finished                                                        | 15/09/2025       |
+| wasd-landing-page | feature/header        | 9bb9fd2bfc10eb985c96349ced1d74977554629f       | update(js): header section                                                           | update(js): header section                                                           | 15/09/2025       |
+| wasd-landing-page | feature/hero          | edd2d9d143b4d9523d778d37ba36b7ee3ece7dd1       | feat: added hero section                                                             | feat: added hero section                                                             | 15/09/2025       |
+| wasd-landing-page | feature/about-us      | 5ff4976080591571fd12c5eab510965063d5e7bc       | feat(about-us): add structure and styles for the about-us section.                   | feat(about-us): add structure and styles for the about-us section.                   | 15/09/2025       |
+| wasd-landing-page | feature/product       | a9b7aee8c76cc4917b1689770f34c2632a768b2b       | add: added home section + css for items. on designed branch , waiting for main merge | add: added home section + css for items. on designed branch , waiting for main merge | 15/09/2025       |
+| wasd-landing-page | feature/solutions     | 0f9324142f3145abcbef05385641a39de8a51d2a       | feat: added solutions section                                                        | feat: added solutions section                                                        | 15/09/2025       |
+| wasd-landing-page | feature/subscriptions | e88936be85bd1c5b3e00d735e4d1723069d368e7       | update(js): subscriptions section                                                    | update(js): subscriptions section                                                    | 15/09/2025       |
+| wasd-landing-page | feature/faq           | 5a34dfccb18eaa743287f794b72e0675096542d2       | feat: added faq section                                                              | feat: added faq section                                                              | 15/09/2025       |
+| wasd-landing-page | feature/contact-sales | 183a8625ac1eef1bcd085cf5f70945d9e9f9f06a       | update(js): contact-sales section                                                    | update(js): contact-sales section                                                    | 15/09/2025       |
+| wasd-landing-page | feature/footer        | 757e65a3a7b035b793a2e6b6f1b657fbda341836       | update(js): footer section and internationalization                                  | update(js): footer section and internationalization                                  | 15/09/2025       |
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
 Después de finalizar el Sprint 1, hemos logrado implementar todas las secciones de nuestra Landing Page, aunque con algunos desperfectos en cuanto a diseño. A continuación, te invitamos a explorar nuestros avances a través de imágenes que muestran el resultado obtenido.
 
-1. Seccion header: Aqui mostramos la barra de navegacion de nuestro sitio web.
+1. Sección header: Aquí mostramos la barra de navegación de nuestro sitio web.
 
 ![header.png](../../assets/chapter-5/header.png)
 
-2. Seccion de monitoreo: Demostramos el monitoreo inteligente de liquidos en hogares y empresas.
+2. Sección de monitoreo: Demostramos el monitoreo inteligente de líquidos en hogares y empresas.
 
 ![hero.png](../../assets/chapter-5/hero.png)
 
-3. Seccion de visibilidad de liquidos: Monitorea tanques y tuberías de líquidos, midiendo volumen, presión y temperatura con paneles claros y alertas configurables.
+3. Sección de visibilidad de líquidos: Monitorea tanques y tuberías de líquidos, midiendo volumen, presión y temperatura con paneles claros y alertas configurables.
 
 ![production.png](../../assets/chapter-5/production.png)
 
-4. Seccion de Nosotros y Equipo de trabajo: Se visualiza el proposito del producto y presenta a los desarrolladores del grupo.
+4. Sección de Nosotros y Equipo de trabajo: Se visualiza el propósito del producto y presenta a los desarrolladores del grupo.
 
 ![about-us.png](../../assets/chapter-5/about-us.png)
 
-5. Seccion de soluciones: Mostramos las soluciones por cada segmento, en este caso residencias y negocios.
+5. Sección de soluciones: Mostramos las soluciones por cada segmento, en este caso residencias y negocios.
 
 ![solutions.png](../../assets/chapter-5/solutions.png)
 
-6. Seccion de funcionalidades: Descubre las interesantes funcionalidades de esta empresa.
+6. Sección de funcionalidades: Descubre las interesantes funcionalidades de esta empresa.
 
 ![features.png](../../assets/chapter-5/features.png)
 
-7. Seccion de comentarios de clientes: Historias reales de equipos que usan Qlic para líquidos.
+7. Sección de comentarios de clientes: Historias reales de equipos que usan Qlic para líquidos.
 
 ![questions.png](../../assets/chapter-5/questions.png)
 
-8. Seccion de subscripcion: Presentamos los planes de subscripcion del producto.
+8. Sección de suscripción: Presentamos los planes de suscripción del producto.
 
 ![plans.png](../../assets/chapter-5/plans.png)
 
-9. Seccion de preguntas frecuentes: Detallamos algunas dudas antes de que optes en utilizar el producto.
+9. Sección de preguntas frecuentes: Detallamos algunas dudas antes de que optes en utilizar el producto.
 
 ![faq.png](../../assets/chapter-5/faq.png)
 
-10. Seccion de contactar: Si necesitas ayuda, no dudes en dejar un mensaje.
+10. Sección de contactar: Si necesitas ayuda, no dudes en dejar un mensaje.
 
 ![contact-sales.png](../../assets/chapter-5/contact-sales.png)
 
-11. Seccion footer: La parte final del sitio web.
+11. Sección footer: La parte final del sitio web.
 
 ![footer.png](../../assets/chapter-5/footer.png)
 
@@ -393,13 +393,13 @@ Creemos que la página debe ser completamente adaptable a cualquier tipo de disp
 
 #### 5.2.2.2. Aspect Leaders and Collaborators
 
-| Team Member (Last Name, First Name) | GitHub Username | Dashboard (L/C) | Profiles (L/C)   | Reports (L/C) | Notifications (L/C) | Payments (L/C) | Subscriptions (L/C) | Anomaly Detection (L/C) |
-|-------------------------------------|-----------------|-----------------|------------------|---------------|---------------------|----------------|---------------------|-------------------------| 
-| Guia Carrasco, Pedro Andre          | Pedrivizz       | C               | C                | C             | L                   | C              | L                   | L                       |
-| Briceño Llanos, Ayrton Omar         | AyrtonBriceno   | L               | L                | C             | C                   | C              | C                   | C                       |
-| Loechle Arias, Mateo Ítalo          | LowMathzzz                | C               | C                | C             | C                   | L              | C                   | C                       |
-| Ynga Amado, Jafeth Worren           | Jafeth-MV                | C               | C                | C             | L                   | C              | C                   | L                       |
-| Alejos Jesus, Anyelo Bill                      | Everkoe                | C               | C                | L             | C                   | C              | C                   | C                       |
+| Team Member (Last Name, First Name) | GitHub Username        | Dashboard (L/C) | Profiles (L/C)   | Reports (L/C) | Notifications (L/C) | Payments (L/C) | Subscriptions (L/C) | Anomaly Detection (L/C) |
+|-------------------------------------|------------------------|-----------------|------------------|---------------|---------------------|----------------|---------------------|-------------------------| 
+| Guia Carrasco, Pedro Andre          | Pedrivizz              | C               | C                | C             | L                   | C              | L                   | L                       |
+| Briceño Llanos, Ayrton Omar         | AyrtonBriceno          | L               | L                | C             | C                   | C              | C                   | C                       |
+| Loechle Arias, Mateo Ítalo          | LowMathzzz             | C               | C                | C             | C                   | L              | C                   | C                       |
+| Ynga Amado, Jafeth Worren           | Jafeth-MV              | C               | C                | C             | L                   | C              | C                   | L                       |
+| Alejos Jesus, Anyelo Bill           | Everkoe                | C               | C                | L             | C                   | C              | C                   | C                       |
 
 #### 5.2.2.3. Sprint Backlog 2
 
@@ -459,7 +459,7 @@ Link del tablero: https://trello.com/invite/b/686e63dafe11604aff081028/ATTI47bdd
 | wasd-qlic-frontend | feature/notifications     | 5e73acc6fa3d32c7fcb022728700a4285e91e98d  | feat(notification): update notification assembler.                                                                                                  | feat(notification): update notification assembler.                                                                                                  | 03/10/2025       |
 | wasd-qlic-frontend | feature/subscription      | cb14902387fe18896d410e73c01551b00d058e42  | feat(subscriptions): update page subscription.                                                                                                      | feat(subscriptions): update page subscription.                                                                                                      | 06/10/2025       |
 | wasd-qlic-frontend | feature/payments          | d5f5a94d14f0e3068dfd7f65943065f358a7fc88  | feat: added Payments component on the router.js for referencing the correct route.                                                                  | feat: added Payments component on the router.js for referencing the correct route.                                                                  | 04/10/2025       |
-| wasd-qlic-frontend | feature/anomaly-detection | b04eb26c1d3973bd4d0d8c41ed2003c28aa64958  | fix: fixed values only calculating once when the component is first setup , added computed to make it update the variables and load them correclty  | fix: fixed values only calculating once when the component is first setup , added computed to make it update the variables and load them correclty  | 05/10/2025       |
+| wasd-qlic-frontend | feature/anomaly-detection | b04eb26c1d3973bd4d0d8c41ed2003c28aa64958  | fix: fixed values only calculating once when the component is first setup , added computed to make it update the variables and load them correctly  | fix: fixed values only calculating once when the component is first setup , added computed to make it update the variables and load them correctly  | 05/10/2025       |
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
