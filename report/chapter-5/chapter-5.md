@@ -540,11 +540,11 @@ Además, hemos utilizado servicios web para desplegar tanto el front-end de "Qli
 simular una integración con una base de datos. 
 Por último se ha actualizado la Landing Page de "Qlic" para que pueda redirigir a la aplicación a traves de un botón Call-To-Action.
 
-| EndPoint                                        | Funciones                      |
-|-------------------------------------------------|--------------------------------|
-| https://wasd25.github.io/landing-page/          | Desplegar Landing Page de Qlic |
-| https://qlic-fakeapi-production.up.railway.app/ | Desplegar la Fake Api de Qlic  |
-| https://qlic-frontend.vercel.app/               | Desplegar Frontend de Qlic     |
+| EndPoint                                           | Funciones                      |
+|----------------------------------------------------|--------------------------------|
+|                                                    | Desplegar Landing Page de Qlic |
+| https://qlic-fakeapi-production.up.railway.app/    | Desplegar la Fake Api de Qlic  |
+|                                                    | Desplegar Frontend de Qlic     |
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
