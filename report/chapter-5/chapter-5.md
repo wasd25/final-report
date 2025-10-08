@@ -548,6 +548,13 @@ Este proyecto se consolida como una solución rentable y sostenible para reducir
 especialmente en el sector restaurantero. Al conectar a establecimientos con consumidores, se optimiza el uso de excedentes,
 generando un impacto económico, social y ambiental positivo.
 
+### 5. TIC para ampliar el alcance y el impacto
+La plataforma emplea las TIC de forma estratégica para expandir su cobertura, promoviendo de manera efectiva la concienciación social 
+y fomentando la implicación ciudadana en la lucha contra el desperdicio del agua.
+
+### 6. Usabilidad y experiencia del usuario
+El diseño centrado en el usuario (UX/UI) es la base de una experiencia fluida y satisfactoria. Los testeos confirman que la aplicación es intuitiva, 
+funcional y garantiza una alta usabilidad para todos los públicos.
 
 # Bibliografía
 
@@ -572,6 +579,10 @@ generando un impacto económico, social y ambiental positivo.
 
 - Ministerio de Vivienda, Construcción y Saneamiento. (2024, 9 de agosto). *Más de 500 mil peruanos accederán a servicios de agua potable y saneamiento con obras que el Ministerio de Vivienda concluirá al 2025*. Gobierno del Perú. Recuperado de https://www.gob.pe/institucion/vivienda/noticias/1000795-mas-de-500-mil-peruanos-accederan-a-servicios-de-agua-potable-y-saneamiento-con-obras-que-el-ministerio-de-vivienda-concluira-al-2025
 
+- Eclipse Foundation (2023). Jakarta Persistence API (JPA) Specification. https://jakarta.ee/specifications/persistence/3.1/
+
+- Baeldung (2023). A Guide to JPA with Spring Boot. https://www.baeldung.com/the-persistence-layer-with-spring-data-jpa
+
 # Anexos
 
 ### VIDEOS:
@@ -580,6 +591,8 @@ generando un impacto económico, social y ambiental positivo.
 |-------------------------|----------------------------------------------------|-----------------------------|
 | Video de exposición TB1 | Video explicativo de los avances de la entrega TB1 | https://acortar.link/fW34Bs |
 | Video de entrevistas    | Video recopilatorio de todas las entrevistas       | https://acortar.link/CHjPcJ |
+| Video de exposición TP  | Video explicativo de los avances de la entrega TP  | https://acortar.link/CHjPcJ |
+
 
 
 
@@ -590,8 +603,10 @@ generando un impacto económico, social y ambiental positivo.
 
 ### GITHUB
 
-| Título                  | Descripción                            | Enlace                                   |
-|-------------------------|----------------------------------------|------------------------------------------|
-| Reporte                 | Enlace al repositorio del reporte      | https://github.com/wasd25/final-report-2 |
-| Landing Page            | Enlace al repositorio del Landing Page | https://github.com/wasd25/landing-page   |
-| Landing Page Desplegada | Enlace de Landing Page Desplegada      | https://wasd25.github.io/landing-page/   |
+| Título                  | Descripción                            | Enlace                                  |
+|-------------------------|----------------------------------------|-----------------------------------------|
+| Reporte                 | Enlace al repositorio del reporte      | https://github.com/wasd25/final-report  |
+| Landing Page            | Enlace al repositorio del Landing Page | https://github.com/wasd25/landing-page  |
+| Landing Page Desplegada | Enlace de Landing Page Desplegada      | https://wasd25.github.io/landing-page/  |
+| Frontend                | Enlace al repositorio frontend         | https://github.com/wasd25/qlic-frontend |
+| FakeApi                 | Enlace al repositorio de la fakeapi    | https://github.com/wasd25/qlic-fakeapi  |
