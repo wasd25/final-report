@@ -192,6 +192,7 @@ A continuación las siguientes imágenes sirven de referencia para evidenciar la
 ![foto6.jpg](../../assets/chapter-5/sprint-2/foto6.jpg)
 ![foto7.jpg](../../assets/chapter-5/sprint-2/foto7.jpg)
 
+
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
 
@@ -403,7 +404,7 @@ A continuación, se presentará el sprint planning 2 donde se mostrarán las evi
 </tr>
 <tr>
     <td colspan="5">Sprint 2 Review Summary</td>
-    <td colspan="8">En este primer sprint se asignaron responsabilidades a cada integrante y se planteó los requerimientos para el desarrollo del frontend.</td>
+    <td colspan="8">En este segundo sprint se asignaron responsabilidades a cada integrante y se planteó los requerimientos para el desarrollo del frontend.</td>
 </tr>
 <tr>
     <td colspan="5">Sprint 2 Retrospective Summary</td>
@@ -416,10 +417,10 @@ A continuación, se presentará el sprint planning 2 donde se mostrarán las evi
     <td colspan="5">Sprint 2 Goal</td>
     <td colspan="8">
 Nos centramos en desarrollar el frontend del sistema, mostrando las funcionalidades más importantes para los usuarios, como las notificaciones de alertas, los pagos mediante suscripción y los gráficos estadísticos generados a partir de las anomalías detectadas por los sensores IoT, los cuales permiten ofrecer un reporte visual y de consulta.<br>
-Creemos que la página debe ser completamente adaptable a cualquier tipo de dispositivo que utilicen los usuarios, garantizando una experiencia fluida, responsiva y eficiente durante la interacción con la aplicación.</td>
+Creemos que la página debe ser completamente adaptable a cualquier tipo de dispositivo que utilicen los usuarios, garantizando una experiencia fluida, responsiva y eficiente durante la interacción con la aplicación. El éxito de este sprint se confirmará cuando la página esté desplegada con las funcionalidades correctamente implementadas.</td>
 </tr>
 <tr>
-    <td colspan="5">Sprint 1 Velocity</td>
+    <td colspan="5">Sprint 2 Velocity</td>
     <td colspan="8">
 87</td>
 </tr>
@@ -535,14 +536,15 @@ Después de finalizar el Sprint 2, hemos logrado implementar todas las secciones
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
 En el segundo sprint principalmente hemos desarrollado la primera versión de la aplicación web de "Qlic". 
-Además se hemos utilizado servicios web para desplegar tanto el front-end de "Qlic", como el api fake de donde obtenemos los datos para simular una integración con una base de datos. 
+Además, hemos utilizado servicios web para desplegar tanto el front-end de "Qlic", como el fake api de donde obtenemos los datos para 
+simular una integración con una base de datos. 
 Por último se ha actualizado la Landing Page de "Qlic" para que pueda redirigir a la aplicación a traves de un botón Call-To-Action.
 
 | EndPoint                                           | Funciones                      |
 |----------------------------------------------------|--------------------------------|
 |                                                    | Desplegar Landing Page de Qlic |
 | https://qlic-fakeapi-production.up.railway.app/    | Desplegar la Fake Api de Qlic  |
-|                                                    | Deslplegar Frontend de Qlic    |
+|                                                    | Desplegar Frontend de Qlic     |
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
@@ -554,11 +556,25 @@ Para la fake api lo desplegamos en Railway, simulando el backend y proporcionand
 
 Mientras tanto el frontend fue desplegado en Vercel, permitiendo el acceso público a la interfaz de usuario y la validación de las funcionalidades implementadas.
 
-
+![fake api.png](../../assets/chapter-5/sprint-2/fake%20api.png)
 
 Este despliegue garantiza la integración entre ambos componentes, habilitando un entorno funcional para pruebas y revisión durante el Sprint Review.
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
+
+En esta sección se evidencia la colaboración de cada integrante en el repositorio del frontend.
+🔗 Repositorio de Frontend: https://github.com/wasd25/qlic-frontend
+
+#### Capturas de Insights del repositorio:
+
+Cada integrante del equipo contribuyó al desarrollo del frontend, realizando commits y pull requests para implementar las diferentes secciones y funcionalidades. A continuación, se muestran algunos insights del repositorio:
+- **Guía Pedro:** Implementó la sección de Anomaly-Detection.
+- **Ynga Jafeth:** Se encargó de la sección de Notifications.
+- **Loechle Mateo:** Implementó la sección de Payments y Subscriptions.
+- **Briceño Ayrton:** Implementó la sección de Profile.
+- **Alejos Anyelo:** Implementó el bounded context Reports.
+
+![sprint evidence.png](../../assets/chapter-5/sprint-2/sprint%20evidence.png)
 
 # Conclusiones
 Durante el proceso de creación y desarrollo de este trabajo pudimos llegar a las siguientes conclusiones:
