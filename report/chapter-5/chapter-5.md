@@ -52,16 +52,26 @@ Para el repositorio del informe se crearon las siguientes ramas:
 
 Para el repositorio de Landing Page se crearon las siguientes ramas:
 
-- Features
-1. header
-2. hero
-3. about us
-4. solutions
-5. subscriptions
-6. contact-sales
-7. faq
-8. footer
-9. product
+- **main:** Rama principal del proyecto donde se integran todas las funcionalidades estables y correcciones finales.
+- **feature/about-us:** Rama para el desarrollo de la sección "Acerca de nosotros".
+- **feature/contact-sales:** Rama dedicada a implementar el formulario y la lógica de "Contacto con ventas".
+- **feature/faq:** Rama para crear la sección de "Preguntas frecuentes" (FAQ).
+- **feature/footer:** Rama para desarrollar el componente del pie de página global.
+- **feature/header:** Rama para construir el encabezado de navegación principal.
+- **feature/hero:** Rama para implementar la sección principal de presentación (hero section).
+- **feature/product:** Rama para desarrollar la sección de presentación del producto.
+- **feature/solutions:** Rama para crear la sección que detalla las soluciones ofrecidas.
+- **feature/subscriptions:** Rama para implementar el sistema de suscripciones.
+
+Para el repositorio de FrontEnd se crearon las siguientes ramas:
+
+- **master:** Rama principal donde una vez concluida la programación de un bounded context se hace un merge a esta rama.
+- **feature/anomaly-detection:** Rama donde se desarrolla el bounded context de anomaly-detection donde el usuario, puede visualizar los uso indebidos o descontrolados del agua en su hogar o local.
+- **feature/notifications:** Rama donde se desarrolla el bounded context de notifications donde el usuario, recibe notificaciones personalizadas basadas en las preferencias que haya elegido.
+- **feature/payments:** Rama donde se desarrolla el bounded context de payments donde el usuario, puede configurar su método de pago.
+- **feature/profile:** Rama donde se desarrolla el bounded context de profile donde el usuario, puede personalizar a su gusto su perfil y cambiar su contraseña.
+- **feature/reports:** Rama donde se desarrolla el bounded context de reports donde el usuario, descarga los reportes que desee y le muestra estadísticas y analíticas del uso de agua en su hogar o local.
+- **feature/subscription:** Rama donde se desarrolla el bounded context de subscription donde el usuario, puede realizar el pago de su suscripción a la aplicación
 
 #### Estilo de commits: Conventional Commits
 Para asegurar mensajes de commits claros y estandarizados, se seguirá la convención [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/). Algunos ejemplos:
@@ -591,7 +601,7 @@ funcional y garantiza una alta usabilidad para todos los públicos.
 |-------------------------|----------------------------------------------------|-----------------------------|
 | Video de exposición TB1 | Video explicativo de los avances de la entrega TB1 | https://acortar.link/fW34Bs |
 | Video de entrevistas    | Video recopilatorio de todas las entrevistas       | https://acortar.link/CHjPcJ |
-| Video de exposición TP  | Video explicativo de los avances de la entrega TP  | https://acortar.link/CHjPcJ |
+| Video de exposición TP  | Video explicativo de los avances de la entrega TP  | placeholder                 |
 
 
 
@@ -609,4 +619,6 @@ funcional y garantiza una alta usabilidad para todos los públicos.
 | Landing Page            | Enlace al repositorio del Landing Page | https://github.com/wasd25/landing-page  |
 | Landing Page Desplegada | Enlace de Landing Page Desplegada      | https://wasd25.github.io/landing-page/  |
 | Frontend                | Enlace al repositorio frontend         | https://github.com/wasd25/qlic-frontend |
+| Frontend Desplegado     | Enlace al repositorio frontend         | https://qlic-frontend.vercel.app/       |
 | FakeApi                 | Enlace al repositorio de la fakeapi    | https://github.com/wasd25/qlic-fakeapi  |
+
