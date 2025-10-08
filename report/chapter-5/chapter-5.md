@@ -447,7 +447,7 @@ En esta sección se muestra las tareas que se realizaron en el sprint 2, se adju
 
 Link del tablero: https://trello.com/invite/b/686e63dafe11604aff081028/ATTI47bdd25ebb6893adb859e3804c68ad9c0E4A61FE/sprint-2
 
-(imagen)
+![sprint backlog2.png](../../assets/chapter-5/sprint-2/sprint%20backlog2.png)
 
 | Id     | Title                                         | Id     | Title                                          | Description                                                                                                    | Estimation (Hours) | Assigned To | Status (To-do/In-Process/To-Review/Done) |
 |--------|-----------------------------------------------|--------|------------------------------------------------|----------------------------------------------------------------------------------------------------------------|--------------------|-------------|------------------------------------------|
