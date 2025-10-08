@@ -89,7 +89,7 @@ Para la primera entrega (TB1) se trabajó en la estructura inicial del informe, 
 
 ## TP1
 Para este entregable se realizó el desarrollo del sprint 2 que corresponde al desarrollo del frontend de Qlic.
-
+![collaboration-2.png](../../assets/chapter-1/collaboration-2.png)
 
 # Contenido
 
