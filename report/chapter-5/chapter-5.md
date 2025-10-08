@@ -638,11 +638,11 @@ funcional y garantiza una alta usabilidad para todos los públicos.
 
 ### VIDEOS:
 
-| Título                  | Descripción                                        | Enlace                      |
-|-------------------------|----------------------------------------------------|-----------------------------|
-| Video de exposición TB1 | Video explicativo de los avances de la entrega TB1 | https://acortar.link/fW34Bs |
-| Video de entrevistas    | Video recopilatorio de todas las entrevistas       | https://acortar.link/CHjPcJ |
-| Video de exposición TP  | Video explicativo de los avances de la entrega TP  | placeholder                 |
+| Título                  | Descripción                                        | Enlace                       |
+|-------------------------|----------------------------------------------------|------------------------------|
+| Video de exposición TB1 | Video explicativo de los avances de la entrega TB1 | https://acortar.link/fW34Bs  |
+| Video de entrevistas    | Video recopilatorio de todas las entrevistas       | https://acortar.link/CHjPcJ  |
+| Video de exposición TP  | Video explicativo de los avances de la entrega TP  | https://acortar.link/HhSPxT  |
 
 
 
