@@ -447,7 +447,7 @@ En esta sección se muestra las tareas que se realizaron en el sprint 2, se adju
 
 Link del tablero: https://trello.com/invite/b/686e63dafe11604aff081028/ATTI47bdd25ebb6893adb859e3804c68ad9c0E4A61FE/sprint-2
 
-(imagen)
+![trello-2.png](../../assets/chapter-5/sprint-2/trello-2.png)
 
 | Id     | Title                                         | Id     | Title                                          | Description                                                                                                    | Estimation (Hours) | Assigned To | Status (To-do/In-Process/To-Review/Done) |
 |--------|-----------------------------------------------|--------|------------------------------------------------|----------------------------------------------------------------------------------------------------------------|--------------------|-------------|------------------------------------------|
@@ -540,11 +540,11 @@ Además, hemos utilizado servicios web para desplegar tanto el front-end de "Qli
 simular una integración con una base de datos. 
 Por último se ha actualizado la Landing Page de "Qlic" para que pueda redirigir a la aplicación a traves de un botón Call-To-Action.
 
-| EndPoint                                           | Funciones                      |
-|----------------------------------------------------|--------------------------------|
-|                                                    | Desplegar Landing Page de Qlic |
-| https://qlic-fakeapi-production.up.railway.app/    | Desplegar la Fake Api de Qlic  |
-|                                                    | Desplegar Frontend de Qlic     |
+| EndPoint                                        | Funciones                      |
+|-------------------------------------------------|--------------------------------|
+| https://wasd25.github.io/landing-page/          | Desplegar Landing Page de Qlic |
+| https://qlic-fakeapi-production.up.railway.app/ | Desplegar la Fake Api de Qlic  |
+| https://qlic-frontend.vercel.app/               | Desplegar Frontend de Qlic     |
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
