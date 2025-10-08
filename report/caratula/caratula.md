@@ -6,7 +6,7 @@
 ## Aplicaciones Web - Presencial
 ## PROFESOR: Rafael Castro
 ## NRC: 7470
-## INFORME TB1
+## INFORME TP
 ## START UP: WASD
 ## PRODUCTO: Qlic
 
