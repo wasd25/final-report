@@ -153,6 +153,10 @@ A continuación las siguientes imágenes sirven de referencia para evidenciar la
 ![landing8.jpg](../../assets/chapter-5/landing8.jpg)
 ![landing9.jpg](../../assets/chapter-5/landing9.jpg)
 
+**Web Application:** La Web Application fue realizada de manera colaborativa y desplegada debidamente con la herramienta Vercel.
+
+![web-application.png](../../assets/chapter-5/sprint-2/web-application.png)
+
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
 
@@ -499,14 +503,25 @@ En el segundo sprint principalmente hemos desarrollado la primera versión de la
 Además se hemos utilizado servicios web para desplegar tanto el front-end de "Qlic", como el api fake de donde obtenemos los datos para simular una integración con una base de datos. 
 Por último se ha actualizado la Landing Page de "Qlic" para que pueda redirigir a la aplicación a traves de un botón Call-To-Action.
 
-| EndPoint                          | Funciones                      |
-|-----------------------------------|--------------------------------|
-|                                   | Desplegar Landing Page de Qlic |
-| https://qlic-fakeapi.vercel.app/  | Desplegar la Fake Api de Qlic  |
-|                                   | Deslplegar Frontend de Qlic    |
+| EndPoint                                           | Funciones                      |
+|----------------------------------------------------|--------------------------------|
+|                                                    | Desplegar Landing Page de Qlic |
+| https://qlic-fakeapi-production.up.railway.app/    | Desplegar la Fake Api de Qlic  |
+|                                                    | Deslplegar Frontend de Qlic    |
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
+Durante el Sprint 2 se completó el despliegue del Front-End y la Fake API del proyecto.
+
+Para la fake api lo desplegamos en Railway, simulando el backend y proporcionando los endpoints necesarios para la comunicación con el Front-End.
+
+![deplo-fakeapi.jpeg](../../assets/chapter-5/sprint-2/deplo-fakeapi.jpeg)
+
+Mientras tanto el frontend fue desplegado en Vercel, permitiendo el acceso público a la interfaz de usuario y la validación de las funcionalidades implementadas.
+
+
+
+Este despliegue garantiza la integración entre ambos componentes, habilitando un entorno funcional para pruebas y revisión durante el Sprint Review.
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
