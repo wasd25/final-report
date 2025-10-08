@@ -28,6 +28,8 @@ Se clasificará en el siguiente orden:
 
 **Software Deployment:**<br>
 - GitHub Pages - Servicio de alojamiento web para proyectos estáticos.
+- Vercel - Plataforma para desplegar aplicaciones web frontend, utilizada para el frontend de la aplicación.
+- Railway - Plataforma para desplegar una fakeapi, utilizada para el fakeapi de la aplicación.
 
 ### 5.1.2. Source Code Management
 
@@ -35,8 +37,10 @@ Para la gestión del código fuente, se utilizará GitHub como plataforma centra
 Los enlaces también están disponibles en la sección de anexos.
 
 - **Organización en GitHub:** [https://github.com/wasd25](https://github.com/wasd25)
-- **Repositorio del informe:** [https://github.com/wasd25/final-report-2](https://github.com/wasd25/final-report-2)
+- **Repositorio del informe:** [https://github.com/wasd25/final-report](https://github.com/wasd25/final-report)
 - **Repositorio de la Landing Page:** [https://github.com/wasd25/landing-page](https://github.com/wasd25/landing-page)
+- **Repositorio del frontend:** [https://github.com/wasd25/qlic-frontend](https://github.com/wasd25/qlic-frontend)
+- **Repositorio de la fakeapi:** [https://github.com/wasd25/qlic-fakeapi](https://github.com/wasd25/qlic-fakeapi)
 
 #### Modelo de ramificación: GitFlow
 
@@ -92,7 +96,9 @@ El prefijo de categorías se define de la siguiente forma:
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
-En esta sección se definen las convenciones de nombres y codificación adoptadas por el equipo para los lenguajes utilizados en el proyecto: HTML, CSS, JavaScript, TypeScript y Java. El idioma estándar para todo el código (nombres de variables, funciones, clases, archivos, etc.) es el **inglés**.
+En esta sección se definen las convenciones de nombres y codificación adoptadas por el equipo para los lenguajes utilizados en 
+el proyecto: HTML, CSS, JavaScript, TypeScript y Java. El idioma estándar para todo el código (nombres de variables, funciones, clases, archivos, etc.) 
+es el **inglés**.
 
 #### Principios generales
 
@@ -131,7 +137,9 @@ Basado en:
 
 ### 5.1.4. Software Deployment Configuration
 
-En esta sección se describe la configuración necesaria para desplegar cada uno de los componentes del proyecto: Landing Page, Web Services y Frontend Web Application. El objetivo es garantizar que, a partir del código fuente almacenado en los repositorios, se pueda lograr una publicación funcional y accesible para los usuarios.
+En esta sección se describe la configuración necesaria para desplegar cada uno de los componentes del proyecto: 
+Landing Page, Web Services y Frontend Web Application. El objetivo es garantizar que, a partir del código fuente almacenado en los repositorios, 
+se pueda lograr una publicación funcional y accesible para los usuarios.
 
 #### Despliegue de Landing Page
 
@@ -145,6 +153,17 @@ La **Landing Page** fue desarrollada usando HTML, CSS y JS, y fue desplegada med
 
 **Repositorio:** [https://github.com/wasd25/landing-page](https://github.com/wasd25/landing-page)<br>
 **URL desplegada:** [https://wasd25.github.io/landing-page/](https://wasd25.github.io/landing-page/)<br>
+
+#### Frontend Web Application
+El frontend se desplegó utilizando la herramienta Vercel.
+
+**Pasos de despliegue:**
+1. Seleccionar repositorio de GitHub de la organización WASD.
+2. Inspeccionar la configuración de Vercel.
+3. Desplegar el frontend en Vercel.
+
+**Repositorio:** https://github.com/wasd25/qlic-frontend <br>
+**URL desplegada:** https://qlic-frontend.vercel.app/ <br>
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
@@ -165,7 +184,13 @@ A continuación las siguientes imágenes sirven de referencia para evidenciar la
 
 **Web Application:** La Web Application fue realizada de manera colaborativa y desplegada debidamente con la herramienta Vercel.
 
-![web-application.png](../../assets/chapter-5/sprint-2/web-application.png)
+![foto1.jpg](../../assets/chapter-5/sprint-2/foto1.jpg)
+![foto2.jpg](../../assets/chapter-5/sprint-2/foto2.jpg)
+![foto3.jpg](../../assets/chapter-5/sprint-2/foto3.jpg)
+![foto4.jpg](../../assets/chapter-5/sprint-2/foto4.jpg)
+![foto5.jpg](../../assets/chapter-5/sprint-2/foto5.jpg)
+![foto6.jpg](../../assets/chapter-5/sprint-2/foto6.jpg)
+![foto7.jpg](../../assets/chapter-5/sprint-2/foto7.jpg)
 
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
