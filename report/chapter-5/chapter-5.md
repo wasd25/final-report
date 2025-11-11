@@ -576,6 +576,90 @@ Cada integrante del equipo contribuyó al desarrollo del frontend, realizando co
 
 ![sprint evidence.png](../../assets/chapter-5/sprint-2/sprint%20evidence.png)
 
+### 5.2.3. Sprint 3
+#### 5.2.3.1. Sprint Planning 3
+
+A continuación, se presentará el sprint planning 3 donde se mostrarán las evidencias de planificación e implementación del backend.
+
+<table>
+<tr>
+    <th colspan="5">Sprint 3</th>
+    <th colspan="9">Sprint 3</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2025-11-04</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">12:00 PM</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Via Zoom</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Guía Carrasco Pedro Andre</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Ayrton Omar Briceño Llanos, Loechle Arias Mateo Ítalo, Guia Carrasco Pedro Andre, Jafeth Worren, Ynga Amado, Anyelo Bill, Alejos Jesus.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 3 Review Summary</td>
+    <td colspan="8">En este tercer sprint se asignaron responsabilidades a cada integrante y se planteó los requerimientos para la implementación del backend.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 3 Retrospective Summary</td>
+    <td colspan="8">En esta sección todos los integrantes mencionaron tener aciertos en partes del código y en otras partes poder mejorar sus habilidades realizando el backend</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 3 Goal</td>
+    <td colspan="8">
+En este sprint nos enfocamos en consolidar la implementación del backend de QLic, integrando los módulos de gestión de licencias,
+usuarios y reportes para asegurar un flujo de datos estable y seguro, mientras desarrollamos los videos “About the Product” 
+y “About the Team” para comunicar la propuesta de valor y fortalecer la identidad de marca. Este avance busca ofrecer una base 
+técnica sólida y generar confianza en los usuarios, lo cual se confirmará mediante la interacción estable entre los servicios 
+del backend y la recepción positiva de los videos por parte del team leader.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 3 Velocity</td>
+    <td colspan="8">
+</td>
+</tr>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8">
+</td>
+</tr>
+</table>
+
+#### 5.2.3.2. Aspect Leaders and Collaborators
+
+| Team Member (Last Name, First Name) | GitHub Username        | Authentication and Profiles (L/C) | Alerts (L/C) | Reports (L/C) | Anomaly Detection (L/C) | Payments (L/C) | Subscriptions (L/C) | Usage Management  (L/C) |
+|-------------------------------------|------------------------|-----------------------------------|--------------|---------------|-------------------------|----------------|---------------------|-------------------------| 
+| Guia Carrasco, Pedro Andre          | Pedrivizz              | C                                 | L            | C             | C                       | C              | C                   | C                       |
+| Briceño Llanos, Ayrton Omar         | AyrtonBriceno          | L                                 | C            | C             | C                       | C              | C                   | C                       |
+| Loechle Arias, Mateo Ítalo          | LowMathzzz             | C                                 | C            | C             | C                       | L              | L                   | C                       |
+| Ynga Amado, Jafeth Worren           | Jafeth-MV              | C                                 | C            | C             | L                       | C              | C                   | C                       |
+| Alejos Jesus, Anyelo Bill           | Everkoe                | C                                 | C            | L             | C                       | C              | C                   | L                       |
+
+#### 5.2.3.3. Sprint Backlog 3
+
+En esta sección se muestra las tareas que se realizaron en el sprint 3, se adjunta la captura del tablero y el link.
+
+Link del tablero: (link-trello)
+
+(imagen del trello)
+
+
+
 # Conclusiones
 Durante el proceso de creación y desarrollo de este trabajo pudimos llegar a las siguientes conclusiones:
 
