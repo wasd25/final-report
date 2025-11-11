@@ -693,6 +693,42 @@ Link del tablero: https://trello.com/invite/b/68f7a8acb9b940abeaa5188b/ATTIf3652
 | TS24   | Actualizar suscripción          | T04 | Suscripciones         | Implementar el endpoint **PUT /api/v1/subscriptions/{id}** para actualizar los datos de una suscripción.                 | 6                    | Mateo Loechle  | To-do                                      |
 | TS25   | Eliminar suscripción            | T05 | Suscripciones         | Implementar el endpoint **DELETE /api/v1/subscriptions/{id}** para eliminar una suscripción existente.                   | 5                    | Mateo Loechle  | To-do                                      |
 
+#### 5.2.3.4. Development Evidence for Sprint Review
+
+| Repository             | Branch                    | Commit Id                                 | Commit Message                                                                                                                                      | Commit Message Body                                                                                                                                 | Commit on (Date) |
+|------------------------|---------------------------|-------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|------------------|
+| WASD.QlicPlatform.API  | master                    |                                           |                                                                                                                                                     |                                                                                                                                                     |                  |
+| WASD.QlicPlatform.API  | feature/alerts            |                                           |                                                                                                                                                     |                                                                                                                                                     |                  |
+| WASD.QlicPlatform.API  | feature/anomaly-detection |                                           |                                                                                                                                                     |                                                                                                                                                     |                  |
+| WASD.QlicPlatform.API  | feature/payments          |                                           |                                                                                                                                                     |                                                                                                                                                     |                  |
+| WASD.QlicPlatform.API  | feature/profiles          |                                           |                                                                                                                                                     |                                                                                                                                                     |                  |
+| WASD.QlicPlatform.API  | feature/reports           |                                           |                                                                                                                                                     |                                                                                                                                                     |                  |
+| WASD.QlicPlatform.API  | feature/subscriptions     |                                           |                                                                                                                                                     |                                                                                                                                                     |                  |
+| WASD.QlicPlatform.API  | feature/usage-management  |                                           |                                                                                                                                                     |                                                                                                                                                     |                  |
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+Después de finalizar el Sprint 3, hemos logrado implementar todos los endpoints del backend. A continuación, te invitamos a explorar nuestros avances a través de imágenes que muestran el resultado obtenido.
+
+1. Authentication and Users
+2. Alerts
+3. Reports
+4. Payments
+5. Anomaly Detection
+6. Usage Management
+7. Subscriptions
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+| EndPoint                           | Funciones                                    |
+|------------------------------------|----------------------------------------------|
+| (nuevo despliegue de landing page) | Desplegar nueva version Landing Page de Qlic |
+| (primer despliegue de backend)     | Desplegar Backend Web Services               |
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
 # Conclusiones
 Durante el proceso de creación y desarrollo de este trabajo pudimos llegar a las siguientes conclusiones:
 
