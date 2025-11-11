@@ -71,6 +71,12 @@ Ciclo 2025-20
 | 2.6     | 05/10/2025 | Loechle Arias, Mateo Ítalo                                | Creación del bounded context Payments                                                                  |
 | 2.7     | 06/10/2025 | Guia Carrasco, Pedro Andre                                | Creación del bounded context Subscriptions                                                             |
 | 2.8     | 06/10/2025 | Guia Carrasco, Pedro Andre                                | Despliegue del frontend                                                                                |
+| 3.0     | 04/11/2025 | Guia Carrasco, Pedro Andre                                | Creación del repositorio del backend                                                                   |
+| 3.1     | 05/11/2025 | Briceño Llanos, Ayrton Omar                               | Creación de endpoints Authentication y Profiles                                                        |
+| 3.2     | 06/11/2025 | Guia Carrasco, Pedro Andre                                | Creación del endpoint Alerts                                                                           |
+| 3.3     | 07/11/2025 | Jafeth Worren, Ynga Amado                                 | Creación del endpoint Anomaly Detection                                                                |
+| 3.4     | 07/11/2025 | Loechle Arias, Mateo Ítalo                                | Creación del endpoints Payments y Subscriptions                                                        |
+| 3.5     | 09/11/2025 | Anyelo Bill, Alejos Jesus                                 | Creación del endpoints Reports y Usage Management                                                      |
 
 # Project Report Collaboration Insights
 
@@ -186,6 +192,15 @@ Para este entregable se realizó el desarrollo del sprint 2 que corresponde al d
       - [5.2.2.6. Services Documentation Evidence for Sprint Review]()
       - [5.2.2.7. Software Deployment Evidence for Sprint Review]()
       - [5.2.2.8. Team Collaboration Insights during Sprint]()
+    - [5.2.3. Sprint 3]()
+        - [5.2.3.1. Sprint Planning 3]()
+        - [5.2.3.2. Sprint Backlog 3]()
+        - [5.2.3.3. Development Evidence for Sprint Review]()
+        - [5.2.3.4. Testing Suite Evidence for Sprint Review]()
+        - [5.2.3.5. Execution Evidence for Sprint Review]()
+        - [5.2.3.6. Services Documentation Evidence for Sprint Review]()
+        - [5.2.3.7. Software Deployment Evidence for Sprint Review]()
+        - [5.2.3.8. Team Collaboration Insights during Sprint]()
 
 
 # Student Outcome
