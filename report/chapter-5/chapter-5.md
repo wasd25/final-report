@@ -654,7 +654,7 @@ del backend y la recepción positiva de los videos por parte del team leader.</t
 
 En esta sección se muestra las tareas que se realizaron en el sprint 3, se adjunta la captura del tablero y el link.
 
-Link del tablero: (link-trello)
+Link del tablero: https://trello.com/invite/b/68f7a8acb9b940abeaa5188b/ATTIf36525cd1e1d7b7c5b6fca4d7a98e300D3885ED7/sprint-3
 
 (imagen del trello)
 
