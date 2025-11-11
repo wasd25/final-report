@@ -631,12 +631,12 @@ del backend y la recepción positiva de los videos por parte del team leader.</t
 <tr>
     <td colspan="5">Sprint 3 Velocity</td>
     <td colspan="8">
-</td>
+185</td>
 </tr>
 <tr>
     <td colspan="5">Sum of Story Points</td>
     <td colspan="8">
-</td>
+185</td>
 </tr>
 </table>
 
