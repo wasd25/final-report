@@ -796,7 +796,7 @@ El objetivo es validar la usabilidad, claridad y propuesta de valor de las princ
 * Inicia en: 0:01
 * Duración: [Colocar aquí la duración total de la entrevista]
 
-![Entrevista1_foto.png](../assests/chapter-5/Entrevista1_foto.png)
+![Entrevista1_foto.png](../../assets/chapter-5/Entrevista1_foto.png)
 
 **Resumen de la entrevista**
 
@@ -809,7 +809,7 @@ Pablo Gerónimo es un hombre de 25 años interesado en la organización de sus g
 * Inicia en: 0:01
 * Duración: [Colocar aquí la duración total de la entrevista]
 
-![Entrevista2_foto.png](../assests/chapter-5/Entrevista2_foto.png)
+![Entrevista2_foto.png](../../assets/chapter-5/Entrevista2_foto.png)
 
 **Resumen de la entrevista**
 
@@ -822,7 +822,7 @@ Avril Navarro es una joven de 23 años que probó la aplicación QLIC. Avril nos
 * Inicia en: 0:01
 * Duración: [Colocar aquí la duración total de la entrevista]
 
-![Entrevista3_foto.png](../assests/chapter-5/Entrevista3_foto.png)
+![Entrevista3_foto.png](../../assets/chapter-5/Entrevista3_foto.png)
 
 **Resumen de la entrevista**
 
