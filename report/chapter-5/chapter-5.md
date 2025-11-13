@@ -729,6 +729,105 @@ Después de finalizar el Sprint 3, hemos logrado implementar todos los endpoints
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
+
+
+## 5.3. Validation Interviews
+
+Luego de haber avanzado con el desarrollo y despliegue del front-end de la aplicación web QLIC, se realizaron las entrevistas de validación a los usuarios. Estas entrevistas están dirigidas a los dos segmentos objetivos identificados: PYMES (Propietarios/Administradores) y Hogares (Jefes de Hogar).
+
+El objetivo es validar la usabilidad, claridad y propuesta de valor de las principales funcionalidades de la plataforma.
+
+### 5.3.1. Diseño de Entrevista (Segmento 1: PYMES)
+
+**Inicio de Sesión y Dashboard**
+* ¿Qué tan fácil te resultó iniciar sesión y entender, de un vistazo en el **Dashboard**, el estado operativo de tu local?
+* ¿Cómo fue tu experiencia al navegar desde el **Dashboard** hasta encontrar la lista de "Alertas Críticas"?
+* ¿La interfaz del **Dashboard** te resultó clara para identificar la diferencia entre una "Alerta" (un problema ahora) y una "Anomalía" (un patrón inusual)?
+
+**Alertas y Detección de Anomalías**
+* ¿Te pareció intuitiva la forma de filtrar las "Alertas Activas" en la pantalla de **Alerts & Notifications**?
+* ¿La tabla de "Detected Anomalies" te pareció clara para entender qué problema ocurrió (ej. "Leak detected") y si ya se resolvió ("Resolved"/"Unresolved")?
+* ¿Te pareció útil ver el "Anomaly Trend" (gráfico de barras) para entender si un problema es recurrente?
+
+**Gestión de Consumo y Reportes**
+* ¿Qué tan claras te parecieron las etiquetas y los datos en la sección **Usage Management** (ej. "Daily Limit", "Source": Kitchen)?
+* ¿La opción de ver el "Cost Breakdown" (desglose de costos) en **Reports** te ayudó a entender en qué estás gastando más?
+
+**Facturación y Pagos**
+* ¿Qué tan útil te pareció la información en la sección **Billing & Payments** para gestionar tu facturación?
+
+**Percepción General y Mejoras**
+* ¿Qué opinas del diseño visual (colores, gráficos, tipografía) de la aplicación? ¿Transmitió profesionalismo y confianza para gestionar tu negocio?
+* ¿Te gustaría que se integraran más tipos de reportes (ej. comparación de costos mes a mes, eficiencia por área de local)?
+* ¿Qué mejorarías para que el **Dashboard** te ayude a tomar decisiones de ahorro más rápido?
+
+### 5.3.2. Diseño de Entrevista (Segmento 2: Hogares)
+
+**Inicio de Sesión y Dashboard (Primera Impresión)**
+* ¿Qué tan fácil te resultó iniciar sesión y entender para qué servía la aplicación QLIC la primera vez que la viste?
+* ¿Cómo fue tu experiencia al navegar desde el **Dashboard** (pantalla de inicio) hasta encontrar cuánto estás consumiendo hoy?
+
+**Gestión de Consumo (Usage Management)**
+* ¿La interfaz de **Usage Management** te resultó clara para identificar en qué parte de tu casa (ej. Baño, Jardín) estás usando más agua?
+* ¿La opción de ver tu "Consumo Diario" comparado con tu "Límite Diario" crees que te ayudaría a ahorrar?
+
+**Alertas y Detección de Anomalías**
+* ¿Te pareció intuitiva la forma de revisar si tienes una posible fuga en la sección de **Anomaly Detection**?
+* ¿El sistema de "Alertas Críticas" te pareció útil para proteger tu casa o te generó confusión/preocupación?
+* ¿Qué tan claras te parecieron las descripciones de las alertas en la sección **Alerts & Notifications**?
+
+**Facturación y Suscripción**
+* ¿Te pareció útil ver tu "Saldo Actual" y "Pagos Recientes" en la sección **Billing & Payments**?
+* ¿Qué tan fácil de entender te pareció la información de tu plan en la pantalla de **Subscription**?
+
+**Percepción General y Mejoras**
+* ¿Qué opinas del diseño visual (colores, íconos)? ¿Te transmitió confianza y facilidad, o te pareció muy técnico?
+* ¿Te gustaría que la app te diera consejos de ahorro personalizados basados en tu consumo?
+* ¿Qué mejorarías para que QLIC te ayude más a reducir tu recibo de agua cada mes?
+
+### 5.3.2. Registro de Entrevistas
+
+**Segmento #2: Hogares (Jefes de Hogar)**
+
+**Entrevista N°1: Pablo Gerónimo**
+* Sexo: Masculino
+* Edad: 25
+* Link: [Colocar aquí el link a la grabación de la entrevista]
+* Inicia en: 0:01
+* Duración: [Colocar aquí la duración total de la entrevista]
+
+![Entrevista1_foto.png](../assests/chapter-5/Entrevista1_foto.png)
+
+**Resumen de la entrevista**
+
+Pablo Gerónimo es un hombre de 25 años interesado en la organización de sus gastos, mencionando su preocupación por los "gastos vampiros" que existen hoy en día. Pablo nos comenta que, al probar la aplicación QLIC, el sistema le parece "muy buena aplicación" y resalta que el diseño se ve "bastante profesional". Destacó la utilidad de varias secciones, indicando que 'Usage Management' le pareció "demasiado bien" para ver dónde gasta más agua, y 'Billing and Payments' le pareció "demasiado bueno" para organizar sus gastos. Aunque la aplicación le pareció intuitiva, Pablo mencionó que el término "Anomaly Detection" le parecía muy "rejuzgado" (rebuscado) y sugirió mejoras, como que la app esté totalmente en español y que las alertas de fugas sean más específicas.
+
+**Entrevista N°2: Avril Navarro**
+* Sexo: Femenino
+* Edad: 23
+* Link: [Colocar aquí el link a la grabación de la entrevista]
+* Inicia en: 0:01
+* Duración: [Colocar aquí la duración total de la entrevista]
+
+![Entrevista2_foto.png](../assests/chapter-5/Entrevista2_foto.png)
+
+**Resumen de la entrevista**
+
+Avril Navarro es una joven de 23 años que probó la aplicación QLIC. Avril nos comenta que la experiencia general le pareció excelente, destacando que el inicio de sesión es "demasiado intuitivo" y el panel (Dashboard) está "bastante bien organizado" y "muy bien estructurado". Resaltó que la aplicación comunica la información de forma muy clara, mencionando que las alertas son "bastante útiles" y que "no hay forma de confundirse" gracias a los colores. También valoró muy positivamente la sección de 'Usage Management' por sector ("una muy buena iniciativa") y 'Billing and Payments' como una "muy buena herramienta para organizarse". Finalmente, sugirió que, para mejorar aún más, se podrían añadir consejos de ahorro personalizados y una "sección de consultas o un foro" para que los usuarios compartan soluciones.
+
+**Entrevista N°3: Alex Moreno**
+* Sexo: Masculino
+* Edad: 24
+* Link: [Colocar aquí el link a la grabación de la entrevista]
+* Inicia en: 0:01
+* Duración: [Colocar aquí la duración total de la entrevista]
+
+![Entrevista3_foto.png](../assests/chapter-5/Entrevista3_foto.png)
+
+**Resumen de la entrevista**
+
+Alex Moreno es un hombre de 24 años que probó la aplicación QLIC. Alex nos comenta que la aplicación le pareció fácil de usar desde el inicio, con un login "estándar" y un propósito claro de "controlar el agua". Resaltó que el diseño se ve "serio" y "profesional", lo que le da "confianza". Mencionó que secciones clave como 'Usage Management' (para ver el consumo por 'source') y 'Billing & Payments' (para "tener las cuentas claras") están "bastante bien" y son "muy útiles". Aunque la funcionalidad de las alertas le pareció "bastante necesaria", Alex señaló varias áreas de mejora. Indicó que el término "Anomaly Detection" no es intuitivo y preferiría "alertas o problemas". Su crítica principal fue que las descripciones de las alertas eran "más o menos", ya que usan palabras "muy técnicas" y están en inglés. Su recomendación final fue que la app esté "100% en español" y use un lenguaje "más simple de entender".
+
 # Conclusiones
 Durante el proceso de creación y desarrollo de este trabajo pudimos llegar a las siguientes conclusiones:
 
