@@ -330,6 +330,61 @@ La meta de este sprint fue la implementación de la Landing Page. Para llevar a 
 
 ![insigths.png](../assests/chapter-5/insigths.png)
 
+
+## 5.3. Validation Interviews
+
+Luego de haber avanzado con el desarrollo y despliegue del front-end de la aplicación web QLIC, se realizaron las entrevistas de validación a los usuarios. Estas entrevistas están dirigidas a los dos segmentos objetivos identificados: PYMES (Propietarios/Administradores) y Hogares (Jefes de Hogar).
+
+El objetivo es validar la usabilidad, claridad y propuesta de valor de las principales funcionalidades de la plataforma.
+
+### 5.3.1. Diseño de Entrevista (Segmento 1: PYMES)
+
+**Inicio de Sesión y Dashboard**
+* ¿Qué tan fácil te resultó iniciar sesión y entender, de un vistazo en el **Dashboard**, el estado operativo de tu local?
+* ¿Cómo fue tu experiencia al navegar desde el **Dashboard** hasta encontrar la lista de "Alertas Críticas"?
+* ¿La interfaz del **Dashboard** te resultó clara para identificar la diferencia entre una "Alerta" (un problema ahora) y una "Anomalía" (un patrón inusual)?
+
+**Alertas y Detección de Anomalías**
+* ¿Te pareció intuitiva la forma de filtrar las "Alertas Activas" en la pantalla de **Alerts & Notifications**?
+* ¿La tabla de "Detected Anomalies" te pareció clara para entender qué problema ocurrió (ej. "Leak detected") y si ya se resolvió ("Resolved"/"Unresolved")?
+* ¿Te pareció útil ver el "Anomaly Trend" (gráfico de barras) para entender si un problema es recurrente?
+
+**Gestión de Consumo y Reportes**
+* ¿Qué tan claras te parecieron las etiquetas y los datos en la sección **Usage Management** (ej. "Daily Limit", "Source": Kitchen)?
+* ¿La opción de ver el "Cost Breakdown" (desglose de costos) en **Reports** te ayudó a entender en qué estás gastando más?
+
+**Facturación y Pagos**
+* ¿Qué tan útil te pareció la información en la sección **Billing & Payments** para gestionar tu facturación?
+
+**Percepción General y Mejoras**
+* ¿Qué opinas del diseño visual (colores, gráficos, tipografía) de la aplicación? ¿Transmitió profesionalismo y confianza para gestionar tu negocio?
+* ¿Te gustaría que se integraran más tipos de reportes (ej. comparación de costos mes a mes, eficiencia por área de local)?
+* ¿Qué mejorarías para que el **Dashboard** te ayude a tomar decisiones de ahorro más rápido?
+
+### 5.3.2. Diseño de Entrevista (Segmento 2: Hogares)
+
+**Inicio de Sesión y Dashboard (Primera Impresión)**
+* ¿Qué tan fácil te resultó iniciar sesión y entender para qué servía la aplicación QLIC la primera vez que la viste?
+* ¿Cómo fue tu experiencia al navegar desde el **Dashboard** (pantalla de inicio) hasta encontrar cuánto estás consumiendo hoy?
+
+**Gestión de Consumo (Usage Management)**
+* ¿La interfaz de **Usage Management** te resultó clara para identificar en qué parte de tu casa (ej. Baño, Jardín) estás usando más agua?
+* ¿La opción de ver tu "Consumo Diario" comparado con tu "Límite Diario" crees que te ayudaría a ahorrar?
+
+**Alertas y Detección de Anomalías**
+* ¿Te pareció intuitiva la forma de revisar si tienes una posible fuga en la sección de **Anomaly Detection**?
+* ¿El sistema de "Alertas Críticas" te pareció útil para proteger tu casa o te generó confusión/preocupación?
+* ¿Qué tan claras te parecieron las descripciones de las alertas en la sección **Alerts & Notifications**?
+
+**Facturación y Suscripción**
+* ¿Te pareció útil ver tu "Saldo Actual" y "Pagos Recientes" en la sección **Billing & Payments**?
+* ¿Qué tan fácil de entender te pareció la información de tu plan en la pantalla de **Subscription**?
+
+**Percepción General y Mejoras**
+* ¿Qué opinas del diseño visual (colores, íconos)? ¿Te transmitió confianza y facilidad, o te pareció muy técnico?
+* ¿Te gustaría que la app te diera consejos de ahorro personalizados basados en tu consumo?
+* ¿Qué mejorarías para que QLIC te ayude más a reducir tu recibo de agua cada mes?
+
 # Conclusiones
 Durante el proceso de creación y desarrollo de este trabajo pudimos llegar a las siguientes conclusiones:
 
