@@ -396,6 +396,8 @@ El objetivo es validar la usabilidad, claridad y propuesta de valor de las princ
 * Inicia en: 0:01
 * Duración: [Colocar aquí la duración total de la entrevista]
 
+![Entrevista1_foto.png](../assests/chapter-5/Entrevista1_foto.png)
+
 **Resumen de la entrevista**
 
 Pablo Gerónimo es un hombre de 25 años interesado en la organización de sus gastos, mencionando su preocupación por los "gastos vampiros" que existen hoy en día. Pablo nos comenta que, al probar la aplicación QLIC, el sistema le parece "muy buena aplicación" y resalta que el diseño se ve "bastante profesional". Destacó la utilidad de varias secciones, indicando que 'Usage Management' le pareció "demasiado bien" para ver dónde gasta más agua, y 'Billing and Payments' le pareció "demasiado bueno" para organizar sus gastos. Aunque la aplicación le pareció intuitiva, Pablo mencionó que el término "Anomaly Detection" le parecía muy "rejuzgado" (rebuscado) y sugirió mejoras, como que la app esté totalmente en español y que las alertas de fugas sean más específicas.
@@ -407,6 +409,8 @@ Pablo Gerónimo es un hombre de 25 años interesado en la organización de sus g
 * Inicia en: 0:01
 * Duración: [Colocar aquí la duración total de la entrevista]
 
+![Entrevista2_foto.png](../assests/chapter-5/Entrevista2_foto.png)
+
 **Resumen de la entrevista**
 
 Avril Navarro es una joven de 23 años que probó la aplicación QLIC. Avril nos comenta que la experiencia general le pareció excelente, destacando que el inicio de sesión es "demasiado intuitivo" y el panel (Dashboard) está "bastante bien organizado" y "muy bien estructurado". Resaltó que la aplicación comunica la información de forma muy clara, mencionando que las alertas son "bastante útiles" y que "no hay forma de confundirse" gracias a los colores. También valoró muy positivamente la sección de 'Usage Management' por sector ("una muy buena iniciativa") y 'Billing and Payments' como una "muy buena herramienta para organizarse". Finalmente, sugirió que, para mejorar aún más, se podrían añadir consejos de ahorro personalizados y una "sección de consultas o un foro" para que los usuarios compartan soluciones.
@@ -417,6 +421,8 @@ Avril Navarro es una joven de 23 años que probó la aplicación QLIC. Avril nos
 * Link: [Colocar aquí el link a la grabación de la entrevista]
 * Inicia en: 0:01
 * Duración: [Colocar aquí la duración total de la entrevista]
+
+![Entrevista3_foto.png](../assests/chapter-5/Entrevista3_foto.png)
 
 **Resumen de la entrevista**
 
