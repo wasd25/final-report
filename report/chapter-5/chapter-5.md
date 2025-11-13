@@ -385,6 +385,43 @@ El objetivo es validar la usabilidad, claridad y propuesta de valor de las princ
 * ¿Te gustaría que la app te diera consejos de ahorro personalizados basados en tu consumo?
 * ¿Qué mejorarías para que QLIC te ayude más a reducir tu recibo de agua cada mes?
 
+### 5.3.2. Registro de Entrevistas
+
+**Segmento #2: Hogares (Jefes de Hogar)**
+
+**Entrevista N°1: Pablo Gerónimo**
+* Sexo: Masculino
+* Edad: 25
+* Link: [Colocar aquí el link a la grabación de la entrevista]
+* Inicia en: 0:01
+* Duración: [Colocar aquí la duración total de la entrevista]
+
+**Resumen de la entrevista**
+
+Pablo Gerónimo es un hombre de 25 años interesado en la organización de sus gastos, mencionando su preocupación por los "gastos vampiros" que existen hoy en día. Pablo nos comenta que, al probar la aplicación QLIC, el sistema le parece "muy buena aplicación" y resalta que el diseño se ve "bastante profesional". Destacó la utilidad de varias secciones, indicando que 'Usage Management' le pareció "demasiado bien" para ver dónde gasta más agua, y 'Billing and Payments' le pareció "demasiado bueno" para organizar sus gastos. Aunque la aplicación le pareció intuitiva, Pablo mencionó que el término "Anomaly Detection" le parecía muy "rejuzgado" (rebuscado) y sugirió mejoras, como que la app esté totalmente en español y que las alertas de fugas sean más específicas.
+
+**Entrevista N°2: Avril Navarro**
+* Sexo: Femenino
+* Edad: 23
+* Link: [Colocar aquí el link a la grabación de la entrevista]
+* Inicia en: 0:01
+* Duración: [Colocar aquí la duración total de la entrevista]
+
+**Resumen de la entrevista**
+
+Avril Navarro es una joven de 23 años que probó la aplicación QLIC. Avril nos comenta que la experiencia general le pareció excelente, destacando que el inicio de sesión es "demasiado intuitivo" y el panel (Dashboard) está "bastante bien organizado" y "muy bien estructurado". Resaltó que la aplicación comunica la información de forma muy clara, mencionando que las alertas son "bastante útiles" y que "no hay forma de confundirse" gracias a los colores. También valoró muy positivamente la sección de 'Usage Management' por sector ("una muy buena iniciativa") y 'Billing and Payments' como una "muy buena herramienta para organizarse". Finalmente, sugirió que, para mejorar aún más, se podrían añadir consejos de ahorro personalizados y una "sección de consultas o un foro" para que los usuarios compartan soluciones.
+
+**Entrevista N°3: Alex Moreno**
+* Sexo: Masculino
+* Edad: 24
+* Link: [Colocar aquí el link a la grabación de la entrevista]
+* Inicia en: 0:01
+* Duración: [Colocar aquí la duración total de la entrevista]
+
+**Resumen de la entrevista**
+
+Alex Moreno es un hombre de 24 años que probó la aplicación QLIC. Alex nos comenta que la aplicación le pareció fácil de usar desde el inicio, con un login "estándar" y un propósito claro de "controlar el agua". Resaltó que el diseño se ve "serio" y "profesional", lo que le da "confianza". Mencionó que secciones clave como 'Usage Management' (para ver el consumo por 'source') y 'Billing & Payments' (para "tener las cuentas claras") están "bastante bien" y son "muy útiles". Aunque la funcionalidad de las alertas le pareció "bastante necesaria", Alex señaló varias áreas de mejora. Indicó que el término "Anomaly Detection" no es intuitivo y preferiría "alertas o problemas". Su crítica principal fue que las descripciones de las alertas eran "más o menos", ya que usan palabras "muy técnicas" y están en inglés. Su recomendación final fue que la app esté "100% en español" y use un lenguaje "más simple de entender".
+
 # Conclusiones
 Durante el proceso de creación y desarrollo de este trabajo pudimos llegar a las siguientes conclusiones:
 
@@ -407,24 +444,6 @@ escalable, seguro y adaptable al contexto peruano.
 Este proyecto se consolida como una solución rentable y sostenible para reducir el desperdicio de alimentos en Perú,
 especialmente en el sector restaurantero. Al conectar a establecimientos con consumidores, se optimiza el uso de excedentes,
 generando un impacto económico, social y ambiental positivo.
-
-### 5.3.2. Registro de Entrevistas
-
-**Segmento #1: PYMES (Propietarios/Administradores)**
-
-**Segmento #2: Hogares (Jefes de Hogar)**
-
-**Entrevista N°1: Pablo Gerónimo**
-Sexo: Masculino
-Edad: 25
-Link: [Colocar aquí el link a la grabación de la entrevista]
-Inicia en: 0:01
-Duración: [Colocar aquí la duración total de la entrevista]
-
-Resumen de la entrevista
-Pablo Gerónimo es un hombre de 25 años interesado en la organización de sus gastos, mencionando su preocupación por los "gastos vampiros" que existen hoy en día. Pablo nos comenta que, al probar la aplicación QLIC, el sistema le parece "muy buena aplicación" y resalta que el diseño se ve "bastante profesional". Destacó la utilidad de varias secciones, indicando que 'Usage Management' le pareció "demasiado bien" para ver dónde gasta más agua, y 'Billing and Payments' le pareció "demasiado bueno" para organizar sus gastos. Aunque la aplicación le pareció intuitiva, Pablo mencionó que el término "Anomaly Detection" le parecía muy "rejuzgado" (rebuscado) y sugirió mejoras, como que la app esté totalmente en español y que las alertas de fugas sean más específicas.
-
-
 
 # Bibliografía
 
