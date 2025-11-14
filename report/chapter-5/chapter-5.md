@@ -669,7 +669,7 @@ En esta sección se muestra las tareas que se realizaron en el sprint 3, se adju
 
 Link del tablero: https://trello.com/invite/b/68f7a8acb9b940abeaa5188b/ATTIf36525cd1e1d7b7c5b6fca4d7a98e300D3885ED7/sprint-3
 
-(imagen del trello)
+![trello3.png](../../assets/chapter-5/sprint-3/trello3.png)
 
 | Id     | Title                           | Id  | Title                 | Description                                                                                                              | Estimation (Hours)   | Assigned To    | Status (To-do/In-Process/To-Review/Done)   |
 |--------|---------------------------------|-----|-----------------------|--------------------------------------------------------------------------------------------------------------------------|----------------------|----------------|--------------------------------------------|
