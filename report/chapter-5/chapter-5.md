@@ -827,6 +827,36 @@ El objetivo es validar la usabilidad, claridad y propuesta de valor de las princ
 
 ### 5.3.2. Registro de Entrevistas
 
+**Segmento #1: PYMES**
+
+
+**Entrevista N°1: Julio Gómez**
+* Sexo: Masculino
+* Edad: 27
+* Link: [Colocar aquí el link a la grabación de la entrevista]
+* Inicia en: 0:01
+* Duración: [Colocar aquí la duración total de la entrevista]
+
+**Resumen de la entrevista**
+
+Julio Gómez es un hombre de 27 años que evaluó la aplicación desde la perspectiva de un **negocio**. Julio nos comenta que su primera impresión fue "un poco confusa" al no entender la diferencia entre "alertas" y "anomalías" en el Dashboard. Sin embargo, destacó que el diseño visual le "ha gustado bastante" por ser "minimalista" y "lo justo y necesario" para enfocarse en los datos. Resaltó la gran utilidad de la sección 'Billing & Payments', mencionando que le sirve "bastante" para la gestión de su negocio y para "declarar" sus gastos. Su principal crítica constructiva fue la falta de detalle; por ejemplo, en 'Anomaly Detection', señaló que la app le dice que hay una fuga ("Leak detected"), pero no le dice "dónde". Finalmente, concluyó que para tomar decisiones, necesitaría que la app le brinde "un poco más de detalle" y contexto sobre los problemas, y no solo la alerta inicial.
+
+
+![Entrevista1_foto_1.png](../../assets/chapter-5/Entrevista1_foto_1.png)
+
+**Entrevista N°5: Alec Ramirez**
+* Sexo: Masculino
+* Edad: 31
+* Link: [Colocar aquí el link a la grabación de la entrevista]
+* Inicia en: 0:01
+* Duración: [Colocar aquí la duración total de la entrevista]
+
+**Resumen de la entrevista**
+
+Alec Ramirez es un encargado de área de 31 años que evaluó la aplicación QLIC. Alec nos comenta que la aplicación le pareció "bastante sencilla" e "intuitiva", y que "brinda la información de manera sencilla para cualquier persona". Resaltó que el inicio de sesión y la sección de 'Billings and Payments' son "bastantes cómodos" y fáciles de entender. Su principal punto de confusión, que recalcó varias veces, fue "no entiendo la diferencia entre alertas y... anomalías". Como mejora, sugirió que el gráfico de tendencias de anomalías también filtre por "tipo de anomalía" y que los reportes de tendencias de uso muestren un historial más largo, ya que tres días es "poca información para evaluar".
+
+![Entrevista1_foto_2.png](../../assets/chapter-5/Entrevista2_foto_1.png)
+
 **Segmento #2: Hogares (Jefes de Hogar)**
 
 **Entrevista N°1: Pablo Gerónimo**
