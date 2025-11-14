@@ -828,6 +828,15 @@ Avril Navarro es una joven de 23 años que probó la aplicación QLIC. Avril nos
 
 Alex Moreno es un hombre de 24 años que probó la aplicación QLIC. Alex nos comenta que la aplicación le pareció fácil de usar desde el inicio, con un login "estándar" y un propósito claro de "controlar el agua". Resaltó que el diseño se ve "serio" y "profesional", lo que le da "confianza". Mencionó que secciones clave como 'Usage Management' (para ver el consumo por 'source') y 'Billing & Payments' (para "tener las cuentas claras") están "bastante bien" y son "muy útiles". Aunque la funcionalidad de las alertas le pareció "bastante necesaria", Alex señaló varias áreas de mejora. Indicó que el término "Anomaly Detection" no es intuitivo y preferiría "alertas o problemas". Su crítica principal fue que las descripciones de las alertas eran "más o menos", ya que usan palabras "muy técnicas" y están en inglés. Su recomendación final fue que la app esté "100% en español" y use un lenguaje "más simple de entender".
 
+## 5.4. Video About The Product
+
+Qlic es una plataforma inteligente diseñada para optimizar la gestión del agua mediante monitoreo en tiempo real, análisis avanzado y automatización de procesos. Nuestro sistema integra sensores IoT, paneles de control intuitivos y herramientas de diagnóstico que permiten detectar desperdicios, reducir costos y mejorar la eficiencia operativa.
+En este video descubrirás cómo Qlic transforma los datos en decisiones precisas, ayuda a prevenir problemas antes de que ocurran y facilita una gestión más sostenible y eficiente del recurso hídrico, tanto para empresas como para comunidades.
+
+- Link del video: https://www.youtube.com/watch?v=6-us6HLjPsE
+
+![about-the-product.png](../../assets/chapter-5/sprint-3/about-the-product.png)
+
 # Conclusiones
 Durante el proceso de creación y desarrollo de este trabajo pudimos llegar a las siguientes conclusiones:
 
