@@ -695,17 +695,17 @@ Link del tablero: https://trello.com/invite/b/68f7a8acb9b940abeaa5188b/ATTIf3652
 
 #### 5.2.3.4. Development Evidence for Sprint Review
 
-| Repository             | Branch                    | Commit Id                                 | Commit Message | Commit Message Body                                                 | Commit on (Date) |
-|------------------------|---------------------------|-------------------------------------------|----------------|---------------------------------------------------------------------|------------------|
-| WASD.QlicPlatform.API  | master                    |                                           |                |                                                                     |                  |
-| WASD.QlicPlatform.API  | feature/alerts            | 4377dece08b035fdcfd774aab469751a5c07d380  | fix            | update Program.cs by bounded context Alert.                         | 10/11/2025       |
-| WASD.QlicPlatform.API  | feature/anomaly-detection | 2d3cc7446974abc7c9794fdf5d94012ac13b09d7  | feat           | Add files via upload                                                | 14/11/2025       |
-| WASD.QlicPlatform.API  | feature/payments          | 79f16f00d2a4ba42dbf26ed431141e0ac7fef81c  | feat           | add CreatePaymentMethodResource for creating payment method details | 14/11/2025       |
-| WASD.QlicPlatform.API  | feature/iam               | abf71c5e9d642b8ff42c89a481181ea1192bcd33  | feat(IAM)      | add user aggregate                                                  | 13/11/2025       |
-| WASD.QlicPlatform.API  | feature/profile           | 13a9e51adc6441cb8761698c451fd617bd18fae5  | feat(Profile)  | add user profile configuration                                      | 14/11/2025       |
-| WASD.QlicPlatform.API  | feature/reports           | 59237d687d6d6a7490e3e654c910cff97ab20523  | feat           | added UpdateReportResource DTO for report update requests           | 12/11/2025       |
-| WASD.QlicPlatform.API  | feature/subscriptions     |                                           |                |                                                                     |                  |
-| WASD.QlicPlatform.API  | feature/usage-management  |                                           |                |                                                                     |                  |
+| Repository             | Branch                    | Commit Id                                 | Commit Message | Commit Message Body                                                   | Commit on (Date) |
+|------------------------|---------------------------|-------------------------------------------|----------------|-----------------------------------------------------------------------|------------------|
+| WASD.QlicPlatform.API  | master                    |                                           |                |                                                                       |                  |
+| WASD.QlicPlatform.API  | feature/alerts            | 4377dece08b035fdcfd774aab469751a5c07d380  | fix            | update Program.cs by bounded context Alert.                           | 10/11/2025       |
+| WASD.QlicPlatform.API  | feature/anomaly-detection | 2d3cc7446974abc7c9794fdf5d94012ac13b09d7  | feat           | Add files via upload                                                  | 14/11/2025       |
+| WASD.QlicPlatform.API  | feature/payments          | 79f16f00d2a4ba42dbf26ed431141e0ac7fef81c  | feat           | add CreatePaymentMethodResource for creating payment method details   | 14/11/2025       |
+| WASD.QlicPlatform.API  | feature/iam               | abf71c5e9d642b8ff42c89a481181ea1192bcd33  | feat(IAM)      | add user aggregate                                                    | 13/11/2025       |
+| WASD.QlicPlatform.API  | feature/profile           | 13a9e51adc6441cb8761698c451fd617bd18fae5  | feat(Profile)  | add user profile configuration                                        | 14/11/2025       |
+| WASD.QlicPlatform.API  | feature/reports           | 59237d687d6d6a7490e3e654c910cff97ab20523  | feat           | added UpdateReportResource DTO for report update requests             | 12/11/2025       |
+| WASD.QlicPlatform.API  | feature/subscriptions     | 2868f2357bc0bb871fa278372e3e5f90e18e3af5  | feat           | implement InMemorySubscriptionRepository for subscription data access | 14/11/2025       |
+| WASD.QlicPlatform.API  | feature/usage-management  | 66defcea95893e1d9d82adb369a0fce90377ecbc  | chore          | update package references in project file for consistency             | 14/11/2025       |
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
@@ -756,7 +756,12 @@ Después de finalizar el Sprint 3, hemos logrado implementar todos los endpoints
 ![swagger-anomaly.jpeg](../../assets/chapter-5/sprint-3/swagger-anomaly.jpeg)
 
 6. Usage Management
+
+![swagger-usage.jpeg](../../assets/chapter-5/sprint-3/swagger-usage.jpeg)
+
 7. Subscriptions
+
+![swagger-subscriptions.jpeg](../../assets/chapter-5/sprint-3/swagger-subscriptions.jpeg)
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
@@ -769,7 +774,19 @@ Después de finalizar el Sprint 3, hemos logrado implementar todos los endpoints
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
+En esta sección se evidencia la colaboración de cada integrante en el repositorio del backend.
+🔗 Repositorio de Backend: https://github.com/wasd25/WASD.QlicPlatform.API
 
+#### Capturas de Insights del repositorio:
+
+Cada integrante del equipo contribuyó al desarrollo del frontend, realizando commits y pull requests para implementar las diferentes secciones y funcionalidades. A continuación, se muestran algunos insights del repositorio:
+- **Guía Pedro:** Implementó el Endpoint Alerts.
+- **Ynga Jafeth:** Se encargó del Endpoint Usage Management y Anomaly Detection.
+- **Loechle Mateo:** Implementó los Endpoints Payments y Subscriptions.
+- **Briceño Ayrton:** Implementó los Endpoints IAM y Profile.
+- **Alejos Anyelo:** Implementó el Endpoint Reports.
+
+![insights-sprint3.png](../../assets/chapter-5/sprint-3/insights-sprint3.png)
 
 ## 5.3. Validation Interviews
 
