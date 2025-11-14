@@ -872,7 +872,7 @@ Julio Gómez es un hombre de 27 años que evaluó la aplicación desde la perspe
 
 Alec Ramirez es un encargado de área de 31 años que evaluó la aplicación QLIC. Alec nos comenta que la aplicación le pareció "bastante sencilla" e "intuitiva", y que "brinda la información de manera sencilla para cualquier persona". Resaltó que el inicio de sesión y la sección de 'Billings and Payments' son "bastantes cómodos" y fáciles de entender. Su principal punto de confusión, que recalcó varias veces, fue "no entiendo la diferencia entre alertas y... anomalías". Como mejora, sugirió que el gráfico de tendencias de anomalías también filtre por "tipo de anomalía" y que los reportes de tendencias de uso muestren un historial más largo, ya que tres días es "poca información para evaluar".
 
-![Entrevista3_foto_1.png](../../assets/chapter-5/Entrevista3_foto_1.png)
+![Entrevista3_foto_1.png](../../assets/chapter-5/Entrevista2_foto_1.png)
 
 **Entrevista N°3: Tenorio Mediana**
 * Sexo: Masculino
@@ -885,7 +885,7 @@ Alec Ramirez es un encargado de área de 31 años que evaluó la aplicación QLI
 
 Tenorio Mediana es un hombre de 25 años que evaluó QLIC desde una perspectiva de negocio. Nos comenta que la aplicación le pareció "profesional" y "una herramienta de chamba [trabajo]", destacando que el login fue "rápido, sin vainas". Resaltó que secciones como 'Usage Management' ("esta parte está chévere") y 'Billing & Payments' ("recontra útil... para declarar mis impuestos") son clave para su operación. Sin embargo, su principal punto de confusión fue "la verdad, no mucho" la diferencia entre "Alerta" y "Anomalía". Su mejora más importante fue la necesidad de detalle, indicando que la app "Me dice el 'qué', pero no el 'dónde'", y sugirió que las alertas de fuga sean "más específicas" para ahorrar tiempo, lo cual "ya es plata".
 
-![Entrevista1_foto_3.png](../../assets/chapter-5/Entrevista1_foto_1.png)
+![Entrevista1_foto_3.png](../../assets/chapter-5/Entrevista3_foto_1.png)
 
 **Segmento #2: Hogares (Jefes de Hogar)**
 
