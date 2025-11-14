@@ -695,35 +695,75 @@ Link del tablero: https://trello.com/invite/b/68f7a8acb9b940abeaa5188b/ATTIf3652
 
 #### 5.2.3.4. Development Evidence for Sprint Review
 
-| Repository             | Branch                    | Commit Id                                 | Commit Message                                                                                                                                      | Commit Message Body                                                                                                                                 | Commit on (Date) |
-|------------------------|---------------------------|-------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|------------------|
-| WASD.QlicPlatform.API  | master                    |                                           |                                                                                                                                                     |                                                                                                                                                     |                  |
-| WASD.QlicPlatform.API  | feature/alerts            |                                           |                                                                                                                                                     |                                                                                                                                                     |                  |
-| WASD.QlicPlatform.API  | feature/anomaly-detection |                                           |                                                                                                                                                     |                                                                                                                                                     |                  |
-| WASD.QlicPlatform.API  | feature/payments          |                                           |                                                                                                                                                     |                                                                                                                                                     |                  |
-| WASD.QlicPlatform.API  | feature/profiles          |                                           |                                                                                                                                                     |                                                                                                                                                     |                  |
-| WASD.QlicPlatform.API  | feature/reports           |                                           |                                                                                                                                                     |                                                                                                                                                     |                  |
-| WASD.QlicPlatform.API  | feature/subscriptions     |                                           |                                                                                                                                                     |                                                                                                                                                     |                  |
-| WASD.QlicPlatform.API  | feature/usage-management  |                                           |                                                                                                                                                     |                                                                                                                                                     |                  |
+| Repository             | Branch                    | Commit Id                                 | Commit Message | Commit Message Body                                                 | Commit on (Date) |
+|------------------------|---------------------------|-------------------------------------------|----------------|---------------------------------------------------------------------|------------------|
+| WASD.QlicPlatform.API  | master                    |                                           |                |                                                                     |                  |
+| WASD.QlicPlatform.API  | feature/alerts            | 4377dece08b035fdcfd774aab469751a5c07d380  | fix            | update Program.cs by bounded context Alert.                         | 10/11/2025       |
+| WASD.QlicPlatform.API  | feature/anomaly-detection | 2d3cc7446974abc7c9794fdf5d94012ac13b09d7  | feat           | Add files via upload                                                | 14/11/2025       |
+| WASD.QlicPlatform.API  | feature/payments          | 79f16f00d2a4ba42dbf26ed431141e0ac7fef81c  | feat           | add CreatePaymentMethodResource for creating payment method details | 14/11/2025       |
+| WASD.QlicPlatform.API  | feature/iam               | abf71c5e9d642b8ff42c89a481181ea1192bcd33  | feat(IAM)      | add user aggregate                                                  | 13/11/2025       |
+| WASD.QlicPlatform.API  | feature/profile           | 13a9e51adc6441cb8761698c451fd617bd18fae5  | feat(Profile)  | add user profile configuration                                      | 14/11/2025       |
+| WASD.QlicPlatform.API  | feature/reports           | 59237d687d6d6a7490e3e654c910cff97ab20523  | feat           | added UpdateReportResource DTO for report update requests           | 12/11/2025       |
+| WASD.QlicPlatform.API  | feature/subscriptions     |                                           |                |                                                                     |                  |
+| WASD.QlicPlatform.API  | feature/usage-management  |                                           |                |                                                                     |                  |
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
+
+- Mejoras del sprint 2 y actualizaciones
+
+1. Bounded Context Usage-Management en Frontend
+
+Para el frontend nos hacia falta el otro bounded context core que es Usage-Management, 
+es aquel que interactua con los sensores IOT para saber las mediciones del consumo de agua en este caso por galones.
+
+![usage-management.png](../../assets/chapter-5/sprint-3/usage-management.png)
+
+2. Seccion Login and Register
+
+La parte de iniciar sesión o registar es parte fundamental en una aplicación web, 
+por ende añadimos los bounded context IAM y se configuro Profile por la autenticación.
+
+![register.png](../../assets/chapter-5/sprint-3/register.png)
+
+
+3. Video About The Product
+
+Breve resumen de lo que trata nuestro producto Qlic de parte de la empresa WASD.
+
+![about.png](../../assets/chapter-5/sprint-3/about.png)
+
 
 Después de finalizar el Sprint 3, hemos logrado implementar todos los endpoints del backend. A continuación, te invitamos a explorar nuestros avances a través de imágenes que muestran el resultado obtenido.
 
 1. Authentication and Users
+
+![swagger-users.jpeg](../../assets/chapter-5/sprint-3/swagger-users.jpeg)
+
 2. Alerts
+
+![swagger-alerts.jpeg](../../assets/chapter-5/sprint-3/swagger-alerts.jpeg)
+
 3. Reports
+
+![swagger-reports.jpeg](../../assets/chapter-5/sprint-3/swagger-reports.jpeg)
+
 4. Payments
+
+![swagger-alerts.jpeg](../../assets/chapter-5/sprint-3/swagger-alerts.jpeg)
+
 5. Anomaly Detection
+
+![swagger-anomaly.jpeg](../../assets/chapter-5/sprint-3/swagger-anomaly.jpeg)
+
 6. Usage Management
 7. Subscriptions
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
-| EndPoint                           | Funciones                                    |
-|------------------------------------|----------------------------------------------|
-| (nuevo despliegue de landing page) | Desplegar nueva version Landing Page de Qlic |
-| (primer despliegue de backend)     | Desplegar Backend Web Services               |
+| EndPoint                                | Funciones                                    |
+|-----------------------------------------|----------------------------------------------|
+| https://wasd25.github.io/landing-page/  | Desplegar nueva version Landing Page de Qlic |
+| (primer despliegue de backend)          | Desplegar Backend Web Services               |
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
@@ -899,11 +939,14 @@ funcional y garantiza una alta usabilidad para todos los públicos.
 
 ### VIDEOS:
 
-| Título                  | Descripción                                        | Enlace                       |
-|-------------------------|----------------------------------------------------|------------------------------|
-| Video de exposición TB1 | Video explicativo de los avances de la entrega TB1 | https://acortar.link/fW34Bs  |
-| Video de entrevistas    | Video recopilatorio de todas las entrevistas       | https://acortar.link/CHjPcJ  |
-| Video de exposición TP  | Video explicativo de los avances de la entrega TP  | https://acortar.link/HhSPxT  |
+| Título                  | Descripción                                        | Enlace                         |
+|-------------------------|----------------------------------------------------|--------------------------------|
+| Video de exposición TB1 | Video explicativo de los avances de la entrega TB1 | https://acortar.link/fW34Bs    |
+| Video de entrevistas    | Video recopilatorio de todas las entrevistas       | https://acortar.link/CHjPcJ    |
+| Video de exposición TP  | Video explicativo de los avances de la entrega TP  | https://acortar.link/HhSPxT    |
+| Video de exposición TB2 | Video explicativo de los avances de la entrega TB2 | url                            |
+| Video About The Product | Video explicativo del producto Qlic                | https://url-shortener.me/9QS4  |
+| Video About The Team    | Video explicativo sobre el desarrollo en grupo     | url                            |
 
 
 
