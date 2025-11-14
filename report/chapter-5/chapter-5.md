@@ -958,12 +958,14 @@ funcional y garantiza una alta usabilidad para todos los públicos.
 
 ### GITHUB
 
-| Título                  | Descripción                            | Enlace                                  |
-|-------------------------|----------------------------------------|-----------------------------------------|
-| Reporte                 | Enlace al repositorio del reporte      | https://github.com/wasd25/final-report  |
-| Landing Page            | Enlace al repositorio del Landing Page | https://github.com/wasd25/landing-page  |
-| Landing Page Desplegada | Enlace de Landing Page Desplegada      | https://wasd25.github.io/landing-page/  |
-| Frontend                | Enlace al repositorio frontend         | https://github.com/wasd25/qlic-frontend |
-| Frontend Desplegado     | Enlace al repositorio frontend         | https://qlic-frontend.vercel.app/       |
-| FakeApi                 | Enlace al repositorio de la fakeapi    | https://github.com/wasd25/qlic-fakeapi  |
+| Título                  | Descripción                            | Enlace                                          |
+|-------------------------|----------------------------------------|-------------------------------------------------|
+| Reporte                 | Enlace al repositorio del reporte      | https://github.com/wasd25/final-report          |
+| Landing Page            | Enlace al repositorio del Landing Page | https://github.com/wasd25/landing-page          |
+| Landing Page Desplegada | Enlace de Landing Page Desplegada      | https://wasd25.github.io/landing-page/          |
+| Frontend                | Enlace al repositorio frontend         | https://github.com/wasd25/qlic-frontend         |
+| Frontend Desplegado     | Enlace al frontend desplegado          | https://qlic-frontend.vercel.app/               |
+| FakeApi                 | Enlace al repositorio de la fakeapi    | https://github.com/wasd25/qlic-fakeapi          |
+| Backend                 | Enlace al repositorio backend          | https://github.com/wasd25/WASD.QlicPlatform.API |
+| Backend Desplegado      | Enlace al backend desplegado           |                                                 |
 
