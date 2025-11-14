@@ -30,6 +30,7 @@ Se clasificará en el siguiente orden:
 - GitHub Pages - Servicio de alojamiento web para proyectos estáticos.
 - Vercel - Plataforma para desplegar aplicaciones web frontend, utilizada para el frontend de la aplicación.
 - Railway - Plataforma para desplegar una fakeapi, utilizada para el fakeapi de la aplicación.
+- 
 
 ### 5.1.2. Source Code Management
 
@@ -41,6 +42,7 @@ Los enlaces también están disponibles en la sección de anexos.
 - **Repositorio de la Landing Page:** [https://github.com/wasd25/landing-page](https://github.com/wasd25/landing-page)
 - **Repositorio del frontend:** [https://github.com/wasd25/qlic-frontend](https://github.com/wasd25/qlic-frontend)
 - **Repositorio de la fakeapi:** [https://github.com/wasd25/qlic-fakeapi](https://github.com/wasd25/qlic-fakeapi)
+- **Repositorio del backend:** [https://github.com/wasd25/WASD.QlicPlatform.API](https://github.com/wasd25/WASD.QlicPlatform.API)
 
 #### Modelo de ramificación: GitFlow
 
@@ -76,6 +78,17 @@ Para el repositorio de FrontEnd se crearon las siguientes ramas:
 - **feature/profile:** Rama donde se desarrolla el bounded context de profile donde el usuario, puede personalizar a su gusto su perfil y cambiar su contraseña.
 - **feature/reports:** Rama donde se desarrolla el bounded context de reports donde el usuario, descarga los reportes que desee y le muestra estadísticas y analíticas del uso de agua en su hogar o local.
 - **feature/subscription:** Rama donde se desarrolla el bounded context de subscription donde el usuario, puede realizar el pago de su suscripción a la aplicación
+
+Para el repositorio de BackEnd se crearon las siguientes ramas:
+- **master:** Rama principal donde una vez concluida la programación de un bounded context se hace un merge a esta rama.
+- **alerts:** Rama donde se desarrolla el bounded context de alerts
+- **anomaly-detection:** Rama donde se desarrolla el bounded context de anomaly detection
+- **iam:** Rama donde se desarrolla el bounded context de iam
+- **payments:** Rama donde se desarrolla el bounded context de payments
+- **profile:** Rama donde se desarrolla el bounded context de profile
+- **reports:** Rama donde se desarrolla el bounded context de reports
+- **subscriptions:** Rama donde se desarrolla el bounded context de subscriptions
+- **usage-management:** Rama donde se desarrolla el bounded context de usage-management
 
 #### Estilo de commits: Conventional Commits
 Para asegurar mensajes de commits claros y estandarizados, se seguirá la convención [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/). Algunos ejemplos:
@@ -709,11 +722,11 @@ Link del tablero: https://trello.com/invite/b/68f7a8acb9b940abeaa5188b/ATTIf3652
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
-- Mejoras del sprint 2 y actualizaciones
+- Mejoras del sprint 3 y actualizaciones
 
 1. Bounded Context Usage-Management en Frontend
 
-Para el frontend nos hacia falta el otro bounded context core que es Usage-Management, 
+Para el frontend nos hacía falta el otro bounded context core que es Usage-Management, 
 es aquel que interactua con los sensores IOT para saber las mediciones del consumo de agua en este caso por galones.
 
 ![usage-management.png](../../assets/chapter-5/sprint-3/usage-management.png)
@@ -721,7 +734,7 @@ es aquel que interactua con los sensores IOT para saber las mediciones del consu
 2. Seccion Login and Register
 
 La parte de iniciar sesión o registar es parte fundamental en una aplicación web, 
-por ende añadimos los bounded context IAM y se configuro Profile por la autenticación.
+por ende añadimos los bounded context IAM y se configuró Profile por la autenticación.
 
 ![register.png](../../assets/chapter-5/sprint-3/register.png)
 
@@ -764,6 +777,9 @@ Después de finalizar el Sprint 3, hemos logrado implementar todos los endpoints
 ![swagger-subscriptions.jpeg](../../assets/chapter-5/sprint-3/swagger-subscriptions.jpeg)
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+En el tercer sprint principalmente hemos desarrollado la primera versión del backend de "Qlic".
+Además, hemos utilizado servicios web para desplegar tanto el backend de "Qlic".
 
 | EndPoint                                | Funciones                                    |
 |-----------------------------------------|----------------------------------------------|
@@ -870,7 +886,7 @@ Julio Gómez es un hombre de 27 años que evaluó la aplicación desde la perspe
 
 **Resumen de la entrevista**
 
-Alec Ramirez es un encargado de área de 31 años que evaluó la aplicación QLIC. Alec nos comenta que la aplicación le pareció "bastante sencilla" e "intuitiva", y que "brinda la información de manera sencilla para cualquier persona". Resaltó que el inicio de sesión y la sección de 'Billings and Payments' son "bastantes cómodos" y fáciles de entender. Su principal punto de confusión, que recalcó varias veces, fue "no entiendo la diferencia entre alertas y... anomalías". Como mejora, sugirió que el gráfico de tendencias de anomalías también filtre por "tipo de anomalía" y que los reportes de tendencias de uso muestren un historial más largo, ya que tres días es "poca información para evaluar".
+Alec Ramirez es un encargado de área de 31 años que evaluó la aplicación QLIC. Alec nos comenta que la aplicación le pareció "bastante sencilla" e "intuitiva", y que "brinda la información de manera sencilla para cualquier persona". Resaltó que el inicio de sesión y la sección de 'Billings and Payments' son "bastante cómodos" y fáciles de entender. Su principal punto de confusión, que recalcó varias veces, fue "no entiendo la diferencia entre alertas y... anomalías". Como mejora, sugirió que el gráfico de tendencias de anomalías también filtre por "tipo de anomalía" y que los reportes de tendencias de uso muestren un historial más largo, ya que tres días es "poca información para evaluar".
 
 ![Entrevista3_foto_1.png](../../assets/chapter-5/Entrevista2_foto_1.png)
 
@@ -993,7 +1009,13 @@ funcional y garantiza una alta usabilidad para todos los públicos.
 
 - Eclipse Foundation (2023). Jakarta Persistence API (JPA) Specification. https://jakarta.ee/specifications/persistence/3.1/
 
-- Baeldung (2023). A Guide to JPA with Spring Boot. https://www.baeldung.com/the-persistence-layer-with-spring-data-jpa
+- Baeldung (2023). A Guide to JPA with Spring Boot. https://www.baeldung.com/the-persistence-layer-with-spring-data-jpa- 
+
+- Postman (2024). Postman Learning Center: Using Postman. https://learning.postman.com/docs/getting-started/introduction/
+
+- Oracle Corporation (2024). MySQL 8.0 Reference Manual. https://dev.mysql.com/doc/refman/8.0/en/
+
+- REST API Tutorial (2023). REST API Design Tutorial. https://restfulapi.net/
 
 # Anexos
 
