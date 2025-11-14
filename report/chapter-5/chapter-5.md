@@ -1101,14 +1101,14 @@ funcional y garantiza una alta usabilidad para todos los públicos.
 
 ### VIDEOS:
 
-| Título                  | Descripción                                        | Enlace                         |
-|-------------------------|----------------------------------------------------|--------------------------------|
-| Video de exposición TB1 | Video explicativo de los avances de la entrega TB1 | https://acortar.link/fW34Bs    |
-| Video de entrevistas    | Video recopilatorio de todas las entrevistas       | https://acortar.link/CHjPcJ    |
-| Video de exposición TP  | Video explicativo de los avances de la entrega TP  | https://acortar.link/HhSPxT    |
-| Video de exposición TB2 | Video explicativo de los avances de la entrega TB2 | url                            |
-| Video About The Product | Video explicativo del producto Qlic                | https://url-shortener.me/9QS4  |
-| Video About The Team    | Video explicativo sobre el desarrollo en grupo     | url                            |
+| Título                  | Descripción                                        | Enlace                        |
+|-------------------------|----------------------------------------------------|-------------------------------|
+| Video de exposición TB1 | Video explicativo de los avances de la entrega TB1 | https://acortar.link/fW34Bs   |
+| Video de entrevistas    | Video recopilatorio de todas las entrevistas       | https://acortar.link/CHjPcJ   |
+| Video de exposición TP  | Video explicativo de los avances de la entrega TP  | https://acortar.link/HhSPxT   |
+| Video de exposición TB2 | Video explicativo de los avances de la entrega TB2 | url                           |
+| Video About The Product | Video explicativo del producto Qlic                | https://url-shortener.me/9QS4 |
+| Video About The Team    | Video explicativo sobre el desarrollo en grupo     | https://acortar.link/7UVeyS   |
 
 
 
