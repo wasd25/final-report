@@ -844,7 +844,7 @@ Julio Gómez es un hombre de 27 años que evaluó la aplicación desde la perspe
 
 ![Entrevista1_foto_1.png](../../assets/chapter-5/Entrevista1_foto_1.png)
 
-**Entrevista N°5: Alec Ramirez**
+**Entrevista N°2: Alec Ramirez**
 * Sexo: Masculino
 * Edad: 31
 * Link: [Colocar aquí el link a la grabación de la entrevista]
