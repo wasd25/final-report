@@ -850,9 +850,9 @@ El objetivo es validar la usabilidad, claridad y propuesta de valor de las princ
 **Entrevista N°1: Julio Gómez**
 * Sexo: Masculino
 * Edad: 27
-* Link: [Colocar aquí el link a la grabación de la entrevista]
+* Link: https://upcedupe-my.sharepoint.com/personal/u20231d149_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20231d149%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%201%20%2D%20Segmento%201%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E733b27e7%2Daf0a%2D4ffc%2D9ab4%2D529797e787e5
 * Inicia en: 0:01
-* Duración: [Colocar aquí la duración total de la entrevista]
+* Duración: 8:17
 
 **Resumen de la entrevista**
 
@@ -864,9 +864,9 @@ Julio Gómez es un hombre de 27 años que evaluó la aplicación desde la perspe
 **Entrevista N°2: Alec Ramirez**
 * Sexo: Masculino
 * Edad: 31
-* Link: [Colocar aquí el link a la grabación de la entrevista]
+* Link: https://upcedupe-my.sharepoint.com/personal/u20231d149_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20231d149%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%202%20%2D%20Segmento%201%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E21435e1e%2Dc0ee%2D4751%2Da2c4%2D1d1627e0995c
 * Inicia en: 0:01
-* Duración: [Colocar aquí la duración total de la entrevista]
+* Duración: 8:29
 
 **Resumen de la entrevista**
 
@@ -877,9 +877,9 @@ Alec Ramirez es un encargado de área de 31 años que evaluó la aplicación QLI
 **Entrevista N°3: Tenorio Mediana**
 * Sexo: Masculino
 * Edad: 25
-* Link: [Colocar aquí el link a la grabación de la entrevista]
+* Link: https://upcedupe-my.sharepoint.com/personal/u20231d149_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20231d149%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%203%20%2D%20Segmento%201%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ebfda2001%2D1383%2D4d23%2Dbd27%2D0ad92247e2fe
 * Inicia en: 0:01
-* Duración: [Colocar aquí la duración total de la entrevista]
+* Duración: 11:32
 
 **Resumen de la entrevista**
 
@@ -892,9 +892,9 @@ Tenorio Mediana es un hombre de 25 años que evaluó QLIC desde una perspectiva 
 **Entrevista N°1: Pablo Gerónimo**
 * Sexo: Masculino
 * Edad: 25
-* Link: [Colocar aquí el link a la grabación de la entrevista]
+* Link: https://upcedupe-my.sharepoint.com/personal/u20231d149_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20231d149%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%201%20%2D%20Segmento%202%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ea949568b%2D6a8b%2D4bac%2D8c3f%2D66be9c7fa399
 * Inicia en: 0:01
-* Duración: [Colocar aquí la duración total de la entrevista]
+* Duración: 9:11
 
 ![Entrevista1_foto.png](../../assets/chapter-5/Entrevista1_foto.png)
 
@@ -905,9 +905,9 @@ Pablo Gerónimo es un hombre de 25 años interesado en la organización de sus g
 **Entrevista N°2: Avril Navarro**
 * Sexo: Femenino
 * Edad: 23
-* Link: [Colocar aquí el link a la grabación de la entrevista]
+* Link: https://upcedupe-my.sharepoint.com/personal/u20231d149_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20231d149%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%202%20%2D%20Segmento%202%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E2d5cdf80%2D6ffd%2D4942%2Db572%2Def727c94b9d3
 * Inicia en: 0:01
-* Duración: [Colocar aquí la duración total de la entrevista]
+* Duración: 10:39
 
 ![Entrevista2_foto.png](../../assets/chapter-5/Entrevista2_foto.png)
 
@@ -918,9 +918,9 @@ Avril Navarro es una joven de 23 años que probó la aplicación QLIC. Avril nos
 **Entrevista N°3: Alex Moreno**
 * Sexo: Masculino
 * Edad: 24
-* Link: [Colocar aquí el link a la grabación de la entrevista]
+* Link: https://upcedupe-my.sharepoint.com/personal/u20231d149_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20231d149%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%203%20%2D%20Segmento%202%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E83240471%2Dab6b%2D4fd6%2Db5a5%2Debf45310e887
 * Inicia en: 0:01
-* Duración: [Colocar aquí la duración total de la entrevista]
+* Duración: 10:17
 
 ![Entrevista3_foto.png](../../assets/chapter-5/Entrevista3_foto.png)
 
