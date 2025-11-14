@@ -944,12 +944,92 @@ Avril Navarro es una joven de 23 años que probó la aplicación QLIC. Avril nos
 
 Alex Moreno es un hombre de 24 años que probó la aplicación QLIC. Alex nos comenta que la aplicación le pareció fácil de usar desde el inicio, con un login "estándar" y un propósito claro de "controlar el agua". Resaltó que el diseño se ve "serio" y "profesional", lo que le da "confianza". Mencionó que secciones clave como 'Usage Management' (para ver el consumo por 'source') y 'Billing & Payments' (para "tener las cuentas claras") están "bastante bien" y son "muy útiles". Aunque la funcionalidad de las alertas le pareció "bastante necesaria", Alex señaló varias áreas de mejora. Indicó que el término "Anomaly Detection" no es intuitivo y preferiría "alertas o problemas". Su crítica principal fue que las descripciones de las alertas eran "más o menos", ya que usan palabras "muy técnicas" y están en inglés. Su recomendación final fue que la app esté "100% en español" y use un lenguaje "más simple de entender".
 
+## 5.3.3 Evaluaciones según heurísticas
+
+Site o App a evaluar: QLIC
+
+Tareas a evaluar:
+Incluidas en esta evaluación
+1. Registro de un dueño de local o PYMES (Profile, LogIn & SignUp)
+3. Visualización de Reports
+4. Consulta rápida de métricas en el Dashboard
+5. Generación y guardado de un Report
+6. Gestión de una alerta.
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+1. Edición o eliminación de usuarios registrados.
+2. Visualización de estadísticas comparativas mensuales o anuales en el Dashboard.
+4. Accesibilidad extendida (lectores de pantalla, navegación por teclado, modo alto contraste).
+
+Escala de severidad:
+
+| Nivel | Descripción                                                                                                                                                                                       |
+|-------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1     | Problema superficial: puede ser fácilmente superado  por el usuario ó ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.                     |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente    reléase |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.                                   |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.                                 |
+
+Tabla Resumen:
+
+|  #   |                              Problema detectado                               |  Severidad  |              Heurística/Principio violado               |
+|:----:|:-----------------------------------------------------------------------------:|:-----------:|:-------------------------------------------------------:|
+|  1   | Al guardar un reporte no aparece mensaje de confirmación ni feedback visual.  |      3      |     Usabilidad: Visibilidad del estado del sistema      |
+|  2   | Gráficos del Dashboard no tienen texto alternativo para lectores de pantalla. |      3      | Inclusive Design: Proporciona experiencias comparables  |
+|  3   |    No existe opción para deshacer la creación de un Report recién añadido.    |      2      |       Usabilidad: Control y libertad del usuario        |
+
+Problema #1
+Severidad: 3 (Problema mayor)
+
+Heurística violada: Usabilidad – Visibilidad del estado del sistema
+
+Observación
+Al registrar un nuevo reporte desde el módulo Reports, no se muestra ningún mensaje, alerta ni animación visual que indique que el pedido fue guardado correctamente. Esto genera incertidumbre en el usuario,
+quien puede dudar si la acción fue exitosa o si debe repetirla.
+
+
+Recomendación
+Incluir un mensaje de confirmación visual como: “Reporte guardado con éxito”, que desaparezca tras unos segundos. También podría añadirse una breve animación o cambio de estado en la card del pedido para reforzar el feedback.
+
+
+PROBLEMA #2
+Los gráficos del Dashboard no incluyen texto alternativo accesible
+
+Severidad: 3 (Problema mayor)
+
+Heurística violada: Inclusive Design – Proporciona experiencias comparables
+
+Observación
+Los gráficos del Dashboard no ofrecen texto alternativo ni descripciones para tecnologías de asistencia como lectores de pantalla. Esto limita el acceso a la información visual para personas con discapacidad visual o usuarios que navegan sin ver la pantalla.
+
+
+Recomendación
+Incluir aria-label, alt o descripciones visibles/resumidas del contenido de cada gráfico. También se puede añadir una tabla textual con los mismos datos que se muestran visualmente.
+
+PROBLEMA #3
+No se puede deshacer la creación de un Report
+
+Severidad: 2 (Problema menor)
+
+Heurística violada: Usabilidad – Control y libertad del usuario
+
+Observación
+Al crear un nuevo Report con título, fecha y descripción, no existe una opción para cancelar la acción ni para eliminar el reporte justo después de creado.
+Si el usuario se equivoca, debe navegar a otra sección y regresar manualmente para borrarlo, lo que genera fricción innecesaria.
+
+
+Recomendación
+Incluir un botón “Deshacer” o “Cancelar” visible después de crear un reporte. También se podría agregar una notificación con la opción “Eliminar este reporte” dentro de los primeros 10 segundos.
+
+
+
 ## 5.4. Video About The Product
 
 Qlic es una plataforma inteligente diseñada para optimizar la gestión del agua mediante monitoreo en tiempo real, análisis avanzado y automatización de procesos. Nuestro sistema integra sensores IoT, paneles de control intuitivos y herramientas de diagnóstico que permiten detectar desperdicios, reducir costos y mejorar la eficiencia operativa.
 En este video descubrirás cómo Qlic transforma los datos en decisiones precisas, ayuda a prevenir problemas antes de que ocurran y facilita una gestión más sostenible y eficiente del recurso hídrico, tanto para empresas como para comunidades.
 
-- Link del video: https://www.youtube.com/watch?v=6-us6HLjPsE
+- Link del video en YouTube: https://www.youtube.com/watch?v=6-us6HLjPsE
+- Link de video en microsoft stream: https://acortar.link/W0piiL
 
 ![about-the-product.png](../../assets/chapter-5/sprint-3/about-the-product.png)
 
