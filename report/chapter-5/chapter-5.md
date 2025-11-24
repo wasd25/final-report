@@ -778,15 +778,21 @@ Después de finalizar el Sprint 3, hemos logrado implementar todos los endpoints
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
-En el tercer sprint principalmente hemos desarrollado la primera versión del backend de "Qlic".
-Además, hemos utilizado servicios web para desplegar tanto el backend de "Qlic".
+En el tercer sprint principalmente hemos desarrollado las mejoras como el Video About The Product en el Landing Page.
 
 | EndPoint                                | Funciones                                    |
 |-----------------------------------------|----------------------------------------------|
 | https://wasd25.github.io/landing-page/  | Desplegar nueva version Landing Page de Qlic |
-| (primer despliegue de backend)          | Desplegar Backend Web Services               |
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+En este sprint, se ha desarrollado el backend de la aplicación web, utilizando las siguientes herramientas. 
+No obstante, el despliegue de la API no está incluido en el alcance de este sprint.
+
+- Git: Sistema de control de versiones que utilizamos para colaborar y rastrear las versiones de la aplicación web en un repositorio remoto.
+- Gitflow: Proceso de trabajo colaborativo que nos permitió organizar el trabajo en ramas dentro de nuestro repositorio, facilitando así la colaboración en el desarrollo. 
+- GitHub: Plataforma que nos proporcionó la herramienta para crear nuestro repositorio y almacenar las versiones de nuestro proyecto.
+- Swagger Ui: Herramienta destinada a probar y documentar nuestra API.
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
