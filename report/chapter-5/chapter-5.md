@@ -864,6 +864,16 @@ Esto se confirmará cuando los usuarios puedan registrarse e iniciar sesión, se
 </tr>
 </table>
 
+#### 5.2.3.2. Aspect Leaders and Collaborators
+En esta sección se detalla los líderes de cada aspecto. Para este cuarto sprint se crearon 7 aspectos relacionados a los entregables.
+
+| Team Member (Last Name, First Name) | GitHub Username        | Authentication and Profile (L/C) | Alerts (L/C) | Reports (L/C) | Anomaly Detection (L/C) | Payments (L/C) | Subscriptions (L/C) | Usage Management  (L/C) |
+|-------------------------------------|------------------------|----------------------------------|--------------|---------------|-------------------------|----------------|---------------------|-------------------------| 
+| Guia Carrasco, Pedro Andre          | Pedrivizz              | C                                | L            | C             | C                       | C              | C                   | C                       |
+| Briceño Llanos, Ayrton Omar         | AyrtonBriceno          | L                                | C            | C             | C                       | C              | C                   | C                       |
+| Loechle Arias, Mateo Ítalo          | LowMathzzz             | C                                | C            | C             | C                       | L              | L                   | C                       |
+| Ynga Amado, Jafeth Worren           | Jafeth-MV              | C                                | C            | C             | L                       | C              | C                   | C                       |
+| Alejos Jesus, Anyelo Bill           | Everkoe                | C                                | C            | L             | C                       | C              | C                   | L                       |
 
 
 
