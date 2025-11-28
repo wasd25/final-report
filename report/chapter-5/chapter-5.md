@@ -923,7 +923,7 @@ A continuación, se presentará el sprint planning 4 donde se mostrarán las evi
 <tr>
     <td colspan="5">Sprint 4 Goal</td>
     <td colspan="8">
-En este sprint nos enfocamos en consolidar la conexión del backend con el frontend y solucionar algunos problemas con la base de datos.</td>
+Nuestro enfoque está en integrar los servicios del backend con la interfaz del frontend en los módulos clave como autenticación de usuarios, suscripciones, gestión de uso, detección de anomalías y reportes.</td>
 </tr>
 <tr>
     <td colspan="5">Sprint 4 Velocity</td>
@@ -956,7 +956,36 @@ Link de Trello: (Link)
 
 (imagen)
 
-#### 5.2.4.4. Development Evidence for Sprint Review
+#### 5.2.4.4. Development Evidence for Sprint Review.
+En esta sección se demuestran los commits relacionados con los principales avances en la implementación.
+Estos commits provienen del repositorio del backend de la organización de GitHub.
+
+🔗 Enlace al repositorio del backend: https://github.com/wasd25/WASD.QlicPlatform.API
+
+| Repository                      | Branch                    | Commit Id                                | commit Message                                                                               | Commit Message Body | Commited on (Date) |
+|---------------------------------|---------------------------|------------------------------------------|----------------------------------------------------------------------------------------------|---------------------|--------------------|
+| wasd2025/WASD.QlicPlatform.API  | feature/alerts            | 52ccf283372e2472263b3519a86aadd6b9a75c5d | feat(alerts): update method query by Alert.                                                  |                     | 17/11/2025         |
+| wasd2025/WASD.QlicPlatform.API  | feature/anomaly-detection | bfe6639c51acbd9b3e14ad1bdae69bfa124c1705 | Fix: Update NuGet info and AssemblyInformationalVersion to reflect latest commit hash        |                     | 27/11/2025         |
+| wasd2025/WASD.QlicPlatform.API  | feature/iam               | abf71c5e9d642b8ff42c89a481181ea1192bcd33 | feat(IAM): add user aggregate                                                                |                     | 13/11/2025         |
+| wasd2025/WASD.QlicPlatform.API  | feature/payments          | 458f7590f8a7546045c94bf307d521a4af34544a | feat: add DbSet properties for Payments, PaymentMethods, and BillingSettings in AppDbContext |                     | 26/11/2025         |
+| wasd2025/WASD.QlicPlatform.API  | feature/profile           | 13a9e51adc6441cb8761698c451fd617bd18fae5 | feat(Profile): add user profile configuration                                                |                     | 14/11/2025         |
+| wasd2025/WASD.QlicPlatform.API  | feature/reports           | c4e37a0e60b13e966bc296cbfbba74c28b33b7b8 | Fix: Update sourcelink to reflect latest commit hash                                         |                     | 21/11/2025         |
+| wasd2025/WASD.QlicPlatform.API  | feature/subscriptions     | b9616f95d79bd8bd00c8fba8bdfcf75a2cce0bfa | feat: add DbSet for Subscription and apply subscriptions configuration in AppDbContext       |                     | 26/11/2025         |
+| wasd2025/WASD.QlicPlatform.API  | feature/usage-management  | c1c050a81fd1ac226849e90b0233ae63957bfc1a | fix: delete alerts.                                                                          |                     | 18/11/2025         |
+
+🔗 Enlace al repositorio del frontend: https://github.com/wasd25/qlic-frontend
+
+| Repository              | Branch                    | Commit Id                                | commit Message                                                                                                                                     | Commit Message Body | Commited on (Date) |
+|-------------------------|---------------------------|------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|--------------------|
+| wasd2025/qlic-frontend  | feature/alerts            | 52ccf283372e2472263b3519a86aadd6b9a75c5d | feat(alerts): update method query by Alert.                                                                                                        |                     | 17/10/2025         |
+| wasd2025/qlic-frontend  | feature/anomaly-detection | b04eb26c1d3973bd4d0d8c41ed2003c28aa64958 | fix: fixed values only calculating once when the component is first setup , added computed to make it update the variables and load them correclty |                     | 05/10/2025         |
+| wasd2025/qlic-frontend  | feature/iam               | 2337314ae1ec97a40d0cdcaf1aa26e43fa4be124 | feat(IAM): update db.json                                                                                                                          |                     | 03/10/2025         |
+| wasd2025/qlic-frontend  | feature/payments          | b80514bfb470335cfd499c5af54202858856d22d | feat: package jsons pa las dependencias dea.                                                                                                       |                     | 05/10/2025         |
+| wasd2025/qlic-frontend  | feature/profile           | a03a80b7325bd4ec0953d9cd8f83797fae2b2f04 | feat(profile): add password verification                                                                                                           |                     | 06/10/2025         |
+| wasd2025/qlic-frontend  | feature/reports           | c5ccf6546e353116f0ee55a7f5048170c3d64cd1 | style: adjust global styles for report layout consistency                                                                                          |                     | 07/10/2025         |
+| wasd2025/qlic-frontend  | feature/subscriptions     | 5bf20c174b946b5c3e146ddf18e528b09c4357a3 | docs: dont forget to use .env after merging.                                                                                                       |                     | 06/10/2025         |
+| wasd2025/qlic-frontend  | feature/usage-management  | c1c050a81fd1ac226849e90b0233ae63957bfc1a | fix: delete alerts.                                                                                                                                |                     | 18/10/2025         |
+
 #### 5.2.4.5. Execution Evidence for Sprint Review
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
