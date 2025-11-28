@@ -3,14 +3,16 @@
 # UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
 
 ## Carrera: Ingeniería de Software
-## Aplicaciones Web - Presencial
-## PROFESOR: Rafael Castro
+## Periodo: 202520
+## Codigo del curso: 1ASI0730
+## Nombre del curso: Aplicaciones Web
 ## NRC: 7470
-## INFORME TF1
-## START UP: WASD
-## PRODUCTO: Qlic
+## Nombre del profesor: Rafael Oswaldo Castro Veramendi
+## **Informe de Trabajo Final**
+## Nombre del startup: WASD
+## Nombre del producto : Qlic
 
-### INTEGRANTES:
+### Relación de integrantes:
 
 <table>
   <thead>
@@ -43,9 +45,9 @@
   </tbody>
 </table>
 
---- 
+## **Diciembre 2025**
 
-Periodo 202520
+---
 
 # Registro de versiones del informe
 
