@@ -877,6 +877,91 @@ En esta sección se detalla los líderes de cada aspecto. Para este cuarto sprin
 
 
 
+### 5.2.4. Sprint 4
+#### 5.2.4.1. Sprint Planning 4
+
+A continuación, se presentará el sprint planning 4 donde se mostrarán las evidencias de planificación e implementación de la version final del trabajo.
+
+<table>
+<tr>
+    <th colspan="5">Sprint 4</th>
+    <th colspan="9">Sprint 4</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2025-11-27</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">19:06 PM</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Via Zoom</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Guía Carrasco Pedro Andre</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Ayrton Omar Briceño Llanos, Loechle Arias Mateo Ítalo, Guia Carrasco Pedro Andre, Jafeth Worren, Ynga Amado, Anyelo Bill, Alejos Jesus.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 4 Review Summary</td>
+    <td colspan="8">En este último sprint se asignaron responsabilidades a cada integrante y se planteó los requerimientos para la implementación de testing para la base de datos, despliegue de backend y conexión del front-end.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 3 Retrospective Summary</td>
+    <td colspan="8">En esta sección todos los integrantes cumplieron las expectativas desde inicio a fin del trabajo final.</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 4 Goal</td>
+    <td colspan="8">
+En este sprint nos enfocamos en consolidar la conexión del backend con el frontend y solucionar algunos problemas con la base de datos.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 4 Velocity</td>
+    <td colspan="8">
+80</td>
+</tr>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8">
+80</td>
+</tr>
+</table>
+
+#### 5.2.4.2. Aspect Leaders and Collaborators
+
+|  Team Member (Last Name, First Name) | GitHub Username        | Despliegue de Backend (L/C) | Testing de base de datos (L/C) | 
+|--------------------------------------|------------------------|-----------------------------|--------------------------------|
+| Guia Carrasco, Pedro Andre           | Pedrivizz              | C                           | C                              | 
+| Briceño Llanos, Ayrton Omar          | AyrtonBriceno          | L                           | C                              | 
+| Loechle Arias, Mateo Ítalo           | LowMathzzz             | C                           | L                              | 
+| Ynga Amado, Jafeth Worren            | Jafeth-MV              | C                           | C                              | 
+| Alejos Jesus, Anyelo Bill            | Everkoe                | C                           | C                              |
+
+
+#### 5.2.4.3. Sprint Backlog 4
+
+En esta sección se muestra las tareas que se realizaron en el sprint 4, se adjunta la captura del tablero y el link.
+
+Link de Trello: (Link)
+
+(imagen)
+
+#### 5.2.4.4. Development Evidence for Sprint Review
+#### 5.2.4.5. Execution Evidence for Sprint Review
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
 ## 5.3. Validation Interviews
 
 Luego de haber avanzado con el desarrollo y despliegue del front-end de la aplicación web QLIC, se realizaron las entrevistas de validación a los usuarios. Estas entrevistas están dirigidas a los dos segmentos objetivos identificados: PYMES (Propietarios/Administradores) y Hogares (Jefes de Hogar).
