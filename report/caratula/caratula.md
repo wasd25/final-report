@@ -6,7 +6,7 @@
 ## Aplicaciones Web - Presencial
 ## PROFESOR: Rafael Castro
 ## NRC: 7470
-## INFORME TB2
+## INFORME TF1
 ## START UP: WASD
 ## PRODUCTO: Qlic
 
@@ -207,6 +207,15 @@ Para este entregable se realizó el desarrollo del sprint 3 que corresponde al d
         - [5.2.3.6. Services Documentation Evidence for Sprint Review]()
         - [5.2.3.7. Software Deployment Evidence for Sprint Review]()
         - [5.2.3.8. Team Collaboration Insights during Sprint]()
+  - [5.2.4. Sprint 4]()
+      - [5.2.4.1. Sprint Planning 4]()
+      - [5.2.4.2. Sprint Backlog 4]()
+      - [5.2.4.3. Development Evidence for Sprint Review]()
+      - [5.2.4.4. Testing Suite Evidence for Sprint Review]()
+      - [5.2.4.5. Execution Evidence for Sprint Review]()
+      - [5.2.4.6. Services Documentation Evidence for Sprint Review]()
+      - [5.2.4.7. Software Deployment Evidence for Sprint Review]()
+      - [5.2.4.8. Team Collaboration Insights during Sprint]()
 - [5.3. Validation Interviews]()
     - [5.3.1. Diseño de Entrevistas]()
     - [5.3.2. Registro de Entrevistas]()
