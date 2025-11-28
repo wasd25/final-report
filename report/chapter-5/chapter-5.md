@@ -952,9 +952,8 @@ Nuestro enfoque está en integrar los servicios del backend con la interfaz del 
 
 En esta sección se muestra las tareas que se realizaron en el sprint 4, se adjunta la captura del tablero y el link.
 
-Link de Trello: (Link)
+Link de Trello: https://trello.com/b/YPOWOo5i/sprint-4
 
-(imagen)
 
 #### 5.2.4.4. Development Evidence for Sprint Review.
 En esta sección se demuestran los commits relacionados con los principales avances en la implementación.
