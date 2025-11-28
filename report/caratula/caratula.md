@@ -45,7 +45,7 @@
 
 --- 
 
-Ciclo 2025-20
+Periodo 202520
 
 # Registro de versiones del informe
 

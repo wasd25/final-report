@@ -810,6 +810,73 @@ Cada integrante del equipo contribuyó al desarrollo del frontend, realizando co
 
 ![insights-sprint3.png](../../assets/chapter-5/sprint-3/insights-sprint3.png)
 
+### 5.2.4. Sprint 4
+Esta sección detalla el cuarto sprint del proyecto Qlic, donde se integró el frontend con backend mediante el despliegue del mismo.
+
+Para la planificación de este sprint utilizamos Trello como herramienta de gestión de tareas, permitiendo una mejor organización y seguimiento del progreso del equipo. Las tareas se dividieron en historias de usuario y se asignaron a los miembros del equipo según sus habilidades y disponibilidad.
+
+#### 5.2.4.1. Sprint Planning 4.
+A continuación se detalla el acta de planificación del cuarto sprint, donde se definieron los objetivos y tareas a realizar.
+<table>
+<tr>
+    <th colspan="5">Sprint 4</th>
+    <th colspan="9">Sprint 4</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">27/11/2025</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">8:00 pm</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Via Google Meet</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Ayrton Omar Briceño Llanos</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Ayrton Omar Briceño Llanos, Loechle Arias Mateo Ítalo, Guia Carrasco Pedro Andre, Jafeth Worren, Ynga Amado, Anyelo Bill, Alejos Jesus.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 4 Review Summary</td>
+    <td colspan="8">En esta reunión se planificaron las tareas a realizar para la conexión del backend con frontend así como también, se establecieron las fechas límites para la entrega con la finalidad de reservar tiempo para las pruebas unitarias y el despliegue.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 4 Retrospective Summary</td>
+    <td colspan="8">Los integrantes mencionaron sus habilidades y puntos de mejora con respecto a la programación y diseño del backend, además establecimos confianza para crear un entorno colaborativo y con comunicación activa.</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 4 Goal</td>
+    <td colspan="8">Nuestro enfoque está en integrar los servicios del backend con la interfaz del frontend en los módulos clave como autenticación de usuarios, suscripciones, gestión de uso, detección de anomalías y reportes.
+Creemos que esto permitirá establecer una base funcional que facilite a los usuarios a interactuar con el sistema de forma significativa, asegurando su operatividad inicial.
+Esto se confirmará cuando los usuarios puedan registrarse e iniciar sesión, seleccionar y pagar un plan de suscripción, gestionar el uso de su agua, detectar anomalías y generar reportes desde el frontend, con respuestas exitosas del backend.
+ </td>
+</tr>
+</table>
+
+#### 5.2.3.2. Aspect Leaders and Collaborators
+En esta sección se detalla los líderes de cada aspecto. Para este cuarto sprint se crearon 7 aspectos relacionados a los entregables.
+
+| Team Member (Last Name, First Name) | GitHub Username        | Authentication and Profile (L/C) | Alerts (L/C) | Reports (L/C) | Anomaly Detection (L/C) | Payments (L/C) | Subscriptions (L/C) | Usage Management  (L/C) |
+|-------------------------------------|------------------------|----------------------------------|--------------|---------------|-------------------------|----------------|---------------------|-------------------------| 
+| Guia Carrasco, Pedro Andre          | Pedrivizz              | C                                | L            | C             | C                       | C              | C                   | C                       |
+| Briceño Llanos, Ayrton Omar         | AyrtonBriceno          | L                                | C            | C             | C                       | C              | C                   | C                       |
+| Loechle Arias, Mateo Ítalo          | LowMathzzz             | C                                | C            | C             | C                       | L              | L                   | C                       |
+| Ynga Amado, Jafeth Worren           | Jafeth-MV              | C                                | C            | C             | L                       | C              | C                   | C                       |
+| Alejos Jesus, Anyelo Bill           | Everkoe                | C                                | C            | L             | C                       | C              | C                   | L                       |
+
+
+
 ## 5.3. Validation Interviews
 
 Luego de haber avanzado con el desarrollo y despliegue del front-end de la aplicación web QLIC, se realizaron las entrevistas de validación a los usuarios. Estas entrevistas están dirigidas a los dos segmentos objetivos identificados: PYMES (Propietarios/Administradores) y Hogares (Jefes de Hogar).
