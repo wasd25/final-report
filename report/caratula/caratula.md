@@ -77,6 +77,9 @@ Ciclo 2025-20
 | 3.3     | 07/11/2025 | Jafeth Worren, Ynga Amado                                 | Creación del endpoint Anomaly Detection                                                                |
 | 3.4     | 07/11/2025 | Loechle Arias, Mateo Ítalo                                | Creación del endpoints Payments y Subscriptions                                                        |
 | 3.5     | 09/11/2025 | Anyelo Bill, Alejos Jesus                                 | Creación del endpoints Reports y Usage Management                                                      |
+| 4.1     | 27/11/2025 | Guia Carrasco, Pedro Andre                                | Inicio de Sprint 4                                                                                     |
+| 4.2     | 27/11/2025 | Loechle Arias, Mateo Ítalo                                | Testing de base de datos                                                                               |
+| 4.3     | 27/11/2025 | Briceño Llanos, Ayrton Omar                               | Despliegue de Backend                                                                                  |
 
 # Project Report Collaboration Insights
 
