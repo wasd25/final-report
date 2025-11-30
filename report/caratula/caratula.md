@@ -108,6 +108,11 @@ Para este entregable se realizó el desarrollo del sprint 3 que corresponde al d
 
 ![collaborations3.png](../../assets/chapter-1/collaborations3.png)
 
+## TF1
+Para este entregable se realizo el desarrollo del sprint 4 que corresponde a la versión final del producto QLic.
+
+![img.png](../../assets/chapter-1/img.png)
+
 # Contenido
 
 ## Tabla de Contenidos
