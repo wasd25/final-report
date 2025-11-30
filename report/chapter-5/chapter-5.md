@@ -205,6 +205,14 @@ A continuación las siguientes imágenes sirven de referencia para evidenciar la
 ![foto6.jpg](../../assets/chapter-5/sprint-2/foto6.jpg)
 ![foto7.jpg](../../assets/chapter-5/sprint-2/foto7.jpg)
 
+**Web Services:** El Web Services fue realizado con toda discrecion y desplegado en la herramienta de Render
+
+![back1.png](../../assets/chapter-5/sprint-4/back1.png)
+![back2.png](../../assets/chapter-5/sprint-4/back2.png)
+![back3.png](../../assets/chapter-5/sprint-4/back3.png)
+![back4.png](../../assets/chapter-5/sprint-4/back4.png)
+![back5.png](../../assets/chapter-5/sprint-4/back5.png)
+
 
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
@@ -986,9 +994,66 @@ Estos commits provienen del repositorio del backend de la organización de GitHu
 | wasd2025/qlic-frontend  | feature/usage-management  | c1c050a81fd1ac226849e90b0233ae63957bfc1a | fix: delete alerts.                                                                                                                                |                     | 18/10/2025         |
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
+
+En esta sección trata de la conexion del backend y frontend del producto Qlic lo que dicta la versión final del proyecto.
+
+- Backend de QLic
+
+![backend.png](../../assets/chapter-5/sprint-4/backend.png)
+
+- Frontend de QLic
+
+![frontend.png](../../assets/chapter-5/sprint-4/frontend.png)
+
+Como presentación tenemos nuestra landing page 
+donde podras informarte de todas las caracterisiticas y funciones del producto.
+
+![landing-page.png](../../assets/chapter-5/sprint-4/landing-page.png)
+
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+En este último sprint se muestra todos los servicios del producto QLic.
+
+| EndPoint                                     | Funciones    |
+|----------------------------------------------|--------------|
+| https://wasd25.github.io/landing-page        | Landing Page | 
+| https://qlic-frontend.vercel.app             | Frontend     | 
+| https://wasd-qlicplatform-api-1.onrender.com | Backend      | 
+
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+En esta sección, se muestra los servicios desplegados del producto QLic.
+
+- El Landing Page desplegado en GitHub Pages.
+
+![deploy1.png](../../assets/chapter-5/sprint-4/deploy1.png)
+
+- El frontend desplegado en Vercel.
+
+![deploy2.png](../../assets/chapter-5/sprint-4/deploy2.png)
+
+
+
 #### 5.2.3.8. Team Collaboration Insights during Sprint
+
+En esta sección se evidencia la colaboración de cada integrante en los repositorios de WASD.
+🔗 Repositorio de Landing Page: https://github.com/wasd25/landing-page
+🔗 Repositorio de Frontend: https://github.com/wasd25/qlic-frontend
+🔗 Repositorio de Backend: https://github.com/wasd25/WASD.QlicPlatform.API
+
+## Capturas de evidencia de cada repositorio
+
+- **Landing Page**
+
+![ins1.png](../../assets/chapter-5/sprint-4/ins1.png)
+
+- **Frontend**
+
+![ins2.png](../../assets/chapter-5/sprint-4/ins2.png)
+
+- **Backend**
+
+![ins3.png](../../assets/chapter-5/sprint-4/ins3.png)
 
 ## 5.3. Validation Interviews
 
@@ -1315,5 +1380,5 @@ funcional y garantiza una alta usabilidad para todos los públicos.
 | Frontend Desplegado     | Enlace al frontend desplegado          | https://qlic-frontend.vercel.app/               |
 | FakeApi                 | Enlace al repositorio de la fakeapi    | https://github.com/wasd25/qlic-fakeapi          |
 | Backend                 | Enlace al repositorio backend          | https://github.com/wasd25/WASD.QlicPlatform.API |
-| Backend Desplegado      | Enlace al backend desplegado           |                                                 |
+| Backend Desplegado      | Enlace al backend desplegado           | https://wasd-qlicplatform-api-1.onrender.com/   |
 
