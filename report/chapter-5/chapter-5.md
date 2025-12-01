@@ -962,6 +962,7 @@ En esta sección se muestra las tareas que se realizaron en el sprint 4, se adju
 
 Link de Trello: https://trello.com/b/YPOWOo5i/sprint-4
 
+![trello4.png](../../assets/chapter-5/sprint-4/trello4.png)
 
 #### 5.2.4.4. Development Evidence for Sprint Review.
 En esta sección se demuestran los commits relacionados con los principales avances en la implementación.
@@ -1024,15 +1025,17 @@ En este último sprint se muestra todos los servicios del producto QLic.
 
 En esta sección, se muestra los servicios desplegados del producto QLic.
 
-- El Landing Page desplegado en GitHub Pages.
+- El Landing Page desplegado en la plataforma GitHub Pages.
 
 ![deploy1.png](../../assets/chapter-5/sprint-4/deploy1.png)
 
-- El frontend desplegado en Vercel.
+- El frontend desplegado en la plataforma Vercel.
 
 ![deploy2.png](../../assets/chapter-5/sprint-4/deploy2.png)
 
+- El backend desplegado en la plataforma Render.
 
+![deploy3.jpeg](../../assets/chapter-5/sprint-4/deploy3.jpeg)
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
